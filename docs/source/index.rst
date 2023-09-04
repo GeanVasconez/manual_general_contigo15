@@ -20,4 +20,6 @@ Contents
 
    prerrequisitos
    config_inicial
-   usage
+   primeros_pasos
+   conversaciones
+   contactos
