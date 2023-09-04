@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Contigo'
+project = 'Manual General Contigo'
 copyright = '2023, Manexware'
 author = 'Manexware'
 

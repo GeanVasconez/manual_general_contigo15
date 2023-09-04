@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    prerrequisitos
+   config_inicial
    usage
-   api
