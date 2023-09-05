@@ -91,6 +91,7 @@ Seleccionar el módulo de Contactos, dirigirse al menú de Configuración y busc
 
 Esta opción nos permite la creación de títulos profesionales o
 formalidades con su abreviatura para posteriores utilizaciones.
+
 .. image:: ../static/images/5/titulosdecontacto.png
 
 
@@ -146,7 +147,7 @@ todo los datos:
 .. image:: ../static/images/5/localizacionpaisesdescarga.png
 
 
-.. image:: ../static/images/5/localizacionpaisesdatos.pn
+.. image:: ../static/images/5/localizacionpaisesdatos.png
 
 
 Localización / Provincia
