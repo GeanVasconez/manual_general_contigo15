@@ -218,9 +218,9 @@ Seleccionar el módulo de **Contactos**, dirigirse al menú de
 Al igual que países y provincias, podremos crear, editar y eliminar las
 ciudades en esta opción del sistema.
 
-|image59|
+.. image:: ../static/images/5/localizacionciudades.png
 
-|image60|
+.. image:: ../static/images/5/localizacionciudadesdelsistema.png
 
 También permite realizar dos acciones tales como:
 
@@ -228,29 +228,14 @@ También permite realizar dos acciones tales como:
 
 **Suprimir:** Elimina el registro
 
-.. raw:: html
-
-   <p align="center">
-
-.. raw:: html
-
-   </p>
+.. image:: ../static/images/5/localizacionciudadesaccion.png
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
-.. raw:: html
+.. image:: ../static/images/5/localizacionciudadesdescarga.png
 
-   <p align="center">
-
-.. raw:: html
-
-   </p>
-
-.. figure:: ./assets/img/localizacionciudadesdatos.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/5/localizacionciudadesdatos.png
 
 Localización / Parroquias
 --------------------------
@@ -262,25 +247,16 @@ Es una subclasificación de las ciudades, sirven para complementar datos
 referentes a la ubicación, en este caso el sistema cuenta con todas las
 parroquias de las ciudades del Ecuador.
 
-|image61|
+.. image:: ../static/images/5/localizacionparroquias.png
 
-|image62|
+.. image:: ../static/images/5/localizacionparroquiasprovincia.png
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
-.. raw:: html
+.. image:: ../static/images/5/localizacionparroquiasdescarga.png
 
-   <p align="center">
-
-.. raw:: html
-
-   </p>
-
-.. figure:: ./assets/img/localizacionparroquiasdatos.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/5/localizacionparroquiasdatos.png
 
 Cuentas Bancarias / Bancos
 ---------------------------
@@ -295,25 +271,16 @@ relacionados a nuestra contabilidad. Al momento de crear un banco, los
 datos más relevantes son el nombre del banco y el código de
 identificación bancaria (BIC/SWIFT).
 
-|image63|
+.. image:: ../static/images/5/cuentasbancarias.png
 
-|image64|
+.. image:: ../static/images/5/cuentasbancaria.png
 
 Al igual que en anteriores apartados, se le permite al usuario descargar
 un archivo excel de estos datos ingresados:
 
-.. raw:: html
+.. image:: ../static/images/5/cuentasbancariasdescarga.png
 
-   <p align="center">
-
-.. raw:: html
-
-   </p>
-
-.. figure:: ./assets/img/cuentasbancariasdatos.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/5/cuentasbancariasdatos.png
 
 Cuentas Bancarias / Cuentas Bancarias
 -------------------------------------
@@ -326,35 +293,20 @@ cuenta (Ahorros, Corriente o Virtual), el número de cuenta, el titular,
 el banco, el nombre del titular o contacto, correo y nos da a elegir si
 se mostrará en facturas o no.
 
-|image65|
+.. image:: ../static/images/5/vistacuentasbancarias.png
 
-|image66|
+.. image:: ../static/images/5/editarcuentabancaria.png
 
 También el usuario podrá archivar, duplicar o suprimir el registro:
 
-.. raw:: html
-
-   <p align="center">
-
-.. raw:: html
-
-   </p>
+.. image:: ../static/images/5/accionescuentabancaria.png
 
 De igual manera, el sistema permite la descarga de un archivo xlsx
 (excel) para la visualización de los registros:
 
-.. raw:: html
+.. image:: ../static/images/5/cuentasbancariasdescarga.png
 
-   <p align="center">
-
-.. raw:: html
-
-   </p>
-
-.. figure:: ./assets/img/excelcuentasbancarias.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/5/cuentasbancariasdescarga.png
 
 Tipo de Identificación
 ----------------------
@@ -365,18 +317,12 @@ Identificación.** Esta opción permite visualizar los formatos de
 documentos, con opciones a archivarlos, exportarlos, desarchivarlos,
 marcar la casilla para cambiar el estado a activo e inactivos.
 
-|image67|
+.. image:: ../static/images/5/vistatipodedocumentacion.png
 
 Permite exportar los documentos,archivarlos y desarchivarlos:
 
-.. raw:: html
+.. image:: ../static/images/5/accionestipodedocumentacion.png
 
-   <p align="center">
+.. image:: ../static/images/5/exportartiposdedocumentacion.png
 
-.. raw:: html
-
-   </p>
-
-|image68|
-
-|image69|
+.. image:: ../static/images/5/exceltipodedocumentacion.png
