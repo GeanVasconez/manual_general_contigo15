@@ -1,4 +1,4 @@
-6. Contabilidad
+Contabilidad
 ===============
 
 .. image:: ../static/images/6/modulocontabilidad.png

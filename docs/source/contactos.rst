@@ -64,9 +64,9 @@ facturas.
 
 
 Configuracion
-==============
+--------------
 Etiquetas de Contacto
----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Nos dirigimos al módulo de Contactos, dirigirse al menú de Configuración y buscar la opción Etiquetas de Contacto.
 
@@ -86,7 +86,7 @@ en el sistema que derivará más etiquetas.
 
 
 Títulos de contacto
--------------------
+^^^^^^^^^^^^^^^^^^^^^^
 Seleccionar el módulo de Contactos, dirigirse al menú de Configuración y buscar la opción Títulos de contacto.
 
 Esta opción nos permite la creación de títulos profesionales o
@@ -96,7 +96,7 @@ formalidades con su abreviatura para posteriores utilizaciones.
 
 
 Industrias
-----------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar la opción **Industrias.**
@@ -117,7 +117,7 @@ todo los datos:
 
 
 Localización / Países
----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Localización** la opción **Países.**
@@ -151,7 +151,7 @@ todo los datos:
 
 
 Localización / Provincia
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, seleccionar el menú de
 **Configuración** y buscar en **Localización** la opción **Provincias.**
@@ -179,7 +179,7 @@ todo los datos:
 
 
 Localización / Grupo de paises
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Localización** la opción **Grupo de
@@ -211,7 +211,7 @@ todo los datos:
 
 
 Localización / Ciudades
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Localización** la opción **Ciudades**.
@@ -239,7 +239,7 @@ todo los datos:
 .. image:: ../static/images/5/localizacionciudadesdatos.png
 
 Localización / Parroquias
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Localización** la opción **Parroquias.**
@@ -260,7 +260,7 @@ todo los datos:
 .. image:: ../static/images/5/localizacionparroquiasdatos.png
 
 Cuentas Bancarias / Bancos
----------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, seleccionar el menú de
 **Configuración** y buscar en **Cuentas Bancarias** la opción
@@ -284,7 +284,7 @@ un archivo excel de estos datos ingresados:
 .. image:: ../static/images/5/cuentasbancariasdatos.png
 
 Cuentas Bancarias / Cuentas Bancarias
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Cuentas Bancarias** la opción **Cuentas
@@ -310,7 +310,7 @@ De igual manera, el sistema permite la descarga de un archivo xlsx
 .. image:: ../static/images/5/cuentasbancariasdescarga.png
 
 Tipo de Identificación
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contactos**, dirigirse al menú de
 **Configuración** y buscar en **Cuentas Bancarias** la opción **Tipo de
