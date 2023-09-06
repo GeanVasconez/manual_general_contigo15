@@ -1967,7 +1967,7 @@ generado.
 
 
 Configuracion
-==============
+---------------
 
 Contabilidad / Plan de Cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2195,3 +2195,512 @@ obligaciones tributarias con el fin de simplificar su cálculo, registro
 y presentación.
 
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
+
+
+Bancos / Agregar una cuenta bancaria
+^^^^^^^^^^^^^^^^^^^^^^
+
+Se refiere a registrar y configurar esa cuenta bancaria en el sistema
+contable de una empresa para llevar un registro preciso de todas las
+transacciones financieras relacionadas con esa cuenta.
+
+.. figure:: ./assets/img/6/banco_agregarunacuentabancaria.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Bancos / Modelos de Conciliación
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Bancos** la opción **Modelos de
+Conciliación.**
+
+El modelo de conciliación bancaria proporciona orientación detallada
+sobre cómo llevar a cabo cada aspecto del proceso de conciliación, desde
+la configuración hasta la creación de registros de ajuste. Cada elemento
+mencionado anteriormente estaría explicado en profundidad para guiar a
+los usuarios a través del proceso de manera efectiva.
+
+.. figure:: ./assets/img/6/banco_modelosdeconciliacion.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/banco_modeloconciliacion.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/bancos_modelosconciliacion.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Contabilidad / Sustento de Comprobantes
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Contabilidad** la opción **Sustento de
+Comprobantes.**
+
+Nos permite generar los diferentes tipos de documentos, ingresar el
+código, el tipo de sustento, fecha de inicio, fecha de fin y agregar los
+sustentos de comprobantes relacionados al tipo de documento (para más
+información revisar Comprobantes Autorizados).
+
+.. figure:: ./assets/img/6/contabilidad_sustentodecomprobantes.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/contabilidad_sustentosdecomprobantes.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Contabilidad / Tipos de Documentos
+^^^^^^^^^^^^^^^^^^^^^^
+
+Se refiere a las distintas formas o registros utilizados para respaldar
+y registrar las transacciones financieras de una empresa. Estos
+documentos son esenciales para mantener un registro adecuado de las
+operaciones financieras y para cumplir con los requisitos legales y
+contables.
+
+.. figure:: ./assets/img/6/contabilidad_tiposdedocumentos.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Facturación / Puntos de Emisión
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Facturación** la opción **Puntos de
+Emisión.**
+
+El punto de emisión corresponde al primer grupo del número de serie de
+una factura o comprobante autorizado, tiene 3 dígitos, este número
+identifica al establecimiento o negocio en particular.
+
+En este apartado podremos controlar los diferentes puntos de emisión de
+cada documento realizado por la empresa. Al momento de generar un nuevo
+punto es necesario ingresar el nombre, el código, la agencia y el
+ambiente. Por lo general cuando se genera un nuevo punto de emisión, los
+secuenciales para facturas, notas de crédito, notas de débito, guía de
+remisión, retenciones y las liquidaciones de compra por defecto serán 1.
+
+La precisión decimal consiste en el número de decimales que aparecerán
+en los reportes realizados, donde tendremos la precisión de precio
+unitario y la precisión de cantidades.
+
+Importante: El secuencial se asigna de manera automática en el sistema,
+por ejemplo, se ha realizado una nueva factura el secuencial de factura
+se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
+sucesivamente. En el caso de que se desee cambiar el secuencial de algún
+documento se lo podrá realizar, pero no es un proceso recomendable.
+
+.. figure:: ./assets/img/6/facturacion_puntosdeemision.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Facturación/ Periodos
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Facturación** la opción **Periodos.**
+
+Un período contable, en contabilidad, es el período en el que se hace
+referencia a los libros contables de cualquier entidad.
+
+Es el período durante el cual los libros están equilibrados y los
+estados financieros están preparados. En general, el período contable
+consta de 12 meses. Sin embargo, el comienzo del período contable
+difiere según la jurisdicción. Por ejemplo, una entidad puede seguir el
+año calendario regular, es decir, enero a diciembre como el año
+contable, mientras que otra entidad puede seguir de abril a marzo como
+el período contable.
+
+Se ingresa el nuevo año fiscal, el nombre, el código, la fecha de inicio
+y la fecha de fin.
+
+.. figure:: ./assets/img/6/facturacion_periodos.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/facturacion_periodo.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Facturación / Año Fiscal
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Facturación** la opción **Año Fiscal.**
+
+Se trata del periodo de doce meses de duración con el cual una empresa
+organiza y planifica su calendario fiscal. De este modo es posible
+llevar a cabo sus respectivas obligaciones tributarias con normalidad y
+planificar el siguiente ejercicio fiscal.
+
+Al momento de generar un nuevo año fiscal, es necesario ingresar el
+nombre de este, la fecha de inicio y la fecha de finalización. Para
+generar los periodos de manera rápida tendremos en la parte superior
+izquierda una opción llamada ‘Crear Periodos’, esta opción tomará la
+fecha de inicio y la fecha fin para generar los periodos según el rango
+asignado.
+
+.. figure:: ./assets/img/6/facturacion_añosfiscales.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/facturacion_añosfiscale.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Facturación/ Payment Methods SRI (Métodos de Pago SRI)
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Facturación** la opción **Payment
+Methods (Métodos de Pago SRI).**
+
+.. raw:: html
+
+   <p align="center">
+
+.. raw:: html
+
+   </p>
+
+En este apartado podemos crear diferentes métodos de pago , estos
+métodos se verán reflejados en secciones como Facturas entre otros.
+
+Al momento de generar un nuevo es necesario llenar los campos , el
+nombre y el código. Damos en en la parte superior izquierda damos en
+Grabar y listo !.
+
+.. figure:: ./assets/img/6/Facturacion_PaymentMethodsSRI.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Facturación / Plazos de Pago
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Facturación** la opción **Plazos de
+Pago.**
+
+Se denomina compraventa a plazos a una modalidad de compraventa
+utilizada, normalmente, para bienes duraderos, a través del cual el pago
+del precio no se hace en el momento de la adquisición del bien, sino que
+se difiere en el tiempo a través de una serie de pagos denominados
+“plazos”, “cuotas” o “abonos” (en ocasiones, también reciben
+coloquialmente el nombre de “letras”).
+
+Para generar un plazo de pago se debe ingresar el nombre de este, una
+breve descripción para indicar el motivo del plazo, al momento de añadir
+un término de pago es necesario crearlo en el caso de que no exista
+ninguno; se indica el tipo de término, el cálculo de fechas de
+vencimiento y el
+
+número del mes.
+
+.. figure:: ./assets/img/6/facturacion_plazodepagos.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/facturacion_tipodeplazo.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Administración / Categoría de Productos
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Administración** la opción **Categoría
+de Productos.**
+
+Las categorías te permiten clasificar tus productos de forma que se
+puedan agrupar productos similares en los listados. Al momento de
+ingresar una nueva categoría es necesario ingresar el nombre de esta, si
+esta depende de otra categoría (categoría padre) se la puede agregar,
+forzar las estrategias de retiradas por medio de los métodos FIFO y
+LIFO, indicar el método de coste, la valoración del inventario, la
+cuenta de ingreso del producto, la cuenta de gasto de este, la cuenta de
+entrada de stock, la cuenta de salida de stock, la cuenta de valoración
+de stock y el diario del stock.
+
+.. figure:: ./assets/img/6/administracion_categoriadeproductos.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/administracion_categoria.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Si se desea observar todos los productos que contengan dicha categoría,
+podremos observarlos en esta opción.
+
+.. raw:: html
+
+   <p align="center">
+
+.. raw:: html
+
+   </p>
+
+Administración / Modos de pago
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Administración** la opción **Modos de
+pago.**
+
+La información en estos campos se utilizaría para llevar un registro de
+las transacciones financieras y para garantizar que los pagos se
+realicen de manera adecuada y segura.
+
+.. figure:: ./assets/img/6/administracion_modosdepago.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/administracion_mododepago.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+Administración / Métodos de pago
+^^^^^^^^^^^^^^^^^^^^^^
+
+Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
+**Configuración** y buscar en **Administración** la opción **Métodos de
+pago.**
+
+Estos campos se utilizan para describir, categorizar y gestionar las
+diferentes opciones disponibles para realizar transacciones financieras.
+Cada campo proporciona información clave sobre cómo se realiza el pago,
+qué requisitos pueden estar involucrados y cómo se clasifica el método
+de pago en relación con otros.
+
+.. figure:: ./assets/img/6/administracion_metododepago.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+.. figure:: ./assets/img/6/administracion_metodosdepago.png
+   :alt: submenu ajustes
+
+   submenu ajustes
+
+7. Algunos de nuestros clientes
+===============================
+
+.. raw:: html
+
+   <table>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </table>
+
+.. raw:: html
+
+   <table>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </table>
+
+.. raw:: html
+
+   <table>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </table>
+
+8. Contactanos
+==============
+
+.. raw:: html
+
+   <table>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </table>
+
+info@manexware.com - www.manexware.com
