@@ -1600,7 +1600,7 @@ Esta opción nos permite ver cuánto se ha facturado en lo que va de los
 meses trabajados, se podrá ver tanto el valor facturado de los
 proveedores como el de los clientes.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/administracionanalisisdefacturas.png
 
 Administración / Cuentas por Pagar
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1615,7 +1615,7 @@ pendiente; de esta manera nos permite visualizar los pagos realizados
 hacia nuestros clientes/proveedores y observar los pagos pendientes de
 realizar.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/cuentasporpagar.png
 
 Administración / Cuentas por Cobrar
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1630,7 +1630,7 @@ pendiente; de esta manera nos permite visualizar los pagos realizados
 hacia nuestros clientes/proveedores y observar los cobros pendientes de
 realizar.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/Administracioncuentasporcobrar.png
 
 Administración / Información de Ventas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1648,7 +1648,7 @@ si quiere mostrar los valores ya publicados, “Anulados” si quiere
 mostrar los valores anulados o puede elegir los tres, después de
 presionar en “Generar Reporte” se descargará un archivo.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/administracioninformedeventas.png
 
 Administración / Información de Compras
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1665,9 +1665,9 @@ mostrar los valores ya publicados, “Anulados” si quiere mostrar los
 valores anulados o puede elegir los tres, después de presionar en
 “Generar Reporte” se descargará un archivo.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/admiformaciondecompras.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informaciondeCompras.png
 
 Informes de Contabilidad OCA/Libro mayor
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1700,13 +1700,13 @@ se mostrará una tabla conformada por fecha, asiento, diario, cuenta,
 impuestos, empresas, referencias, cuentas analiticas, el debe, el haber
 y el saldo acumulado
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informaciondeCompras.png
 
 
 Informes de Contabilidad OCA/Libro diario
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informesdecontabilidadOCAlibrodiario.png
 
 Ingresar al módulo de **Contabilidad**, posteriormente
 seleccionar **Informe** y buscar en **Informes** de Contabilidad OCA la
@@ -1729,9 +1729,9 @@ una tabla conformada por secuencia, asiento, fecha, cuenta, empresa,
 Ref. Etiqueta, los impuestos, el debe, el haber, actual, importe monedas
 
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/librodiario.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/diariodecontabilidad.png
 
 Informes de Contabilidad OCA/Balance de Sumas y Saldos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1758,9 +1758,9 @@ seleccionada el resultado será que va a salir una tabla conformado por
 el filtro periodo, el filtro movimiento destino, el filtrar por cuenta 0
 y limitar niveles de jerarquía.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/balancedesumasysaldo.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/balancedesumaysaldo.png
 
 Informes de Contabilidad OCA/Pérdidas y Ganancias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1795,11 +1795,11 @@ quiere que se muestre en el propio sistema, o lo quiere exportar a PDF o
 XLS, se mostrará una tabla con las fechas, el codigo,la cuenta, el
 balance, balance inicial y balance final
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/perdidasyganancias.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/perdidasygananciass.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/perdidayganancia.png
 
 Informes de Contabilidad OCA/Balance General
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1822,9 +1822,9 @@ cuentas a cobrar y Sólo cuentas a pagar, después se encuentra Desde
 código … A … que mostrara desde que código hasta que código, al final
 puedes mostrar la tabla o exportar a XLS o a Pdf,
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/balancegeneral.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/balancesgeneral.png
 
 Informes de Contabilidad OCA/Partidas abiertas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1848,9 +1848,9 @@ encuentra Desde código … A … que permite mostrar desde qué código ya
 hasta que código, al final puedes mostrar la tabla o importarla a XLS o
 a Pdf
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/partidasabierta.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/partidasabiertas.png
 
 Informes de Contabilidad OCA/Calidad de la deuda
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1871,9 +1871,9 @@ de las cuales opcionalmente podemos elegir las dos, después se encuentra
 Desde código … A … que permite mostrar desde qué código ya hasta que
 código, al final puedes mostrar la tabla o importarla a XLS o a Pdf.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/calidaddeladeuda.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/calidaddeladeudas.png
 
 Informes de Contabilidad OCA/Informe de Impuestos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1894,9 +1894,9 @@ impuestos y esta es opcional, al final puedes mostrar la tabla o
 importarla a XLS o a Pdf, esto mostrará una tabla conformada por los
 códigos, el nombre, el valor neto y el impuesto
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informesdeimpuesto.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informesdeimpuestos.png
 
 **NOTA**: Los campos en color celeste son campos obligatorios.
 
@@ -1912,22 +1912,22 @@ impuesto.
 Una vez seleccionadas las opciones deseadas por el usuario, nos muestra
 tres alternativas:
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/infodeimpuestos.png
 
 **Ver**: Se redirige al usuario dentro del
 sistema a una página para que pueda visualizar el balance.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/infodeimpuestosrio.png
 
 **Exportar PDF**: Se descarga la información en un archivo pdf para su
 visualización.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informedeimpuestosexportarpdf.png
 
 **Exportar XLSX** : Se descarga la información
 en un archivo de excel.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/informedeimpuestoexportarxlsx.png
 
 Reportes Financieros/Plan Contable
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1944,9 +1944,9 @@ Importante: El plan contable cuenta con niveles (del 1 al 6), al momento
 de seleccionar el nivel en el plan contable por ejemplo 5, el reporte
 mostrará desde el nivel 1 hasta el nivel 5.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/reporfinancierosplancontable.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/plancontable.png
 
 SRI/Generar y Exportar A.T.S.
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1960,9 +1960,9 @@ desea mostrar los documentos electrónicos. Al momento de exportar se
 abrirá una nueva ventana en donde tendremos que descargar el XML
 generado.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/exportarats.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/exportar.png
 
 
 
@@ -1985,7 +1985,7 @@ si están todas las cuentas que son necesarias para la empresa, si no se
 encuentran todas las cuentas requeridas para tu negocio; el sistema
 contigo te permite crearlas para utilizarlas posteriormente.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadplandecuentas.png
 
 Al momento de generar una nueva cuenta, es necesario añadir el código de
 esta, si depende de una cuenta padre, el nombre de la cuenta, el tipo de
@@ -1994,13 +1994,13 @@ permite conciliación, si esta descatalogado, nivel (dependiendo de la
 cuenta padre, indicará el nivel de manera automática), búsqueda rápida y
 habilitarla para que pueda ser utilizada dentro del sistema.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contaplandecuentas.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/configuracionplandecuentas.png
 
 El sistema nos permite realizar las siguientes acciones:
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contplandecuentasaccion.png
 
 **Duplicar**: Nos permite duplicar dicho registro.
 
@@ -2018,19 +2018,19 @@ físicas, como a personas jurídicas. Al momento de generar un nuevo
 impuesto es necesario añadir el nombre de este y el ámbito del impuesto
 (compra, venta, ninguno y ajustes).
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadimpuestos.png
 
 **Definición:** De igual manera se debe añadir el cálculo del impuesto,
 el importe, la cuenta de impuestos y la cuenta de impuestos en notas de
 crédito.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadimpuestosdefinicion.png
 
 **Opciones avanzadas:** Se añade la etiqueta que tendrá en facturas, el
 grupo de impuestos, etiquetas, si incluye en el precio, si contiene base
 imponible de impuestos subsiguientes.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadimpuestoavanzado.png)
 
 Contabilidad / Posiciones Fiscales
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2047,24 +2047,24 @@ desee que se detecte de manera automática hay que dar clic en la casilla
 del lado derecho, esto indica si se debe aplicar automáticamente esta
 posición fiscal.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/posicionesfiscales.png
 
 **Mapeo de impuestos:** Se agregan los impuestos que incluirá la
 posición fiscal, se añade el impuesto sobre el producto y el impuesto
 para aplicar.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/mapeodeimpuesto.png
 
 **Mapeo de cuentas:** Se agregan las cuentas que incluirá la
 posición fiscal, se añade la cuenta del producto y la cuenta
 alternativa.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/mapeodecuentas.png
 
 Si se desea añadir alguna advertencia, se procede a llenar la
 casilla de Advertencia legal.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/advertencialegal.png
 
 Contabilidad / Grupos de Diarios
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2074,7 +2074,7 @@ contables según diferentes criterios. Estos grupos ayudan a clasificar y
 gestionar las transacciones financieras de una empresa de manera más
 eficiente.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadgrupodiarios.png
 
 Contabilidad / Diarios Contables
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2097,7 +2097,7 @@ producto, si es caja chica, si es liquidación de gastos, si es tarjeta
 de crédito, si contiene un producto en descuento y el tipo de cuenta
 bancaria.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilodaddiarioscontables.png
 
 **Configuración avanzada:** Se indica el método de pago para los pagos
 recibidos de dicho diario (manual o electrónico), para pagos salientes
@@ -2105,7 +2105,7 @@ recibidos de dicho diario (manual o electrónico), para pagos salientes
 desea mostrar la cuenta, si permite la cancelación de asientos y si se
 valida en la conciliación bancaria.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadconfiguracionavanzada.png
 
 Contabilidad /Monedas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2117,14 +2117,14 @@ Las monedas se especifican de cada país al momento de enviar una
 transacción de dinero de un lugar a otro dentro de la estructura podemos
 ver sus ingresos y actualizaciones.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadmonedas.png
 
 Al momento de crear nos envía un formulario donde se llenará
 los campos solicitados para registrar dando grabar sin embargo también
 tenemos descartar para interrumpir el proceso que no queramos guardar
 aun.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadmoneda.png
 
 La tasa podemos ver la fecha donde podemos agregar línea donde
 se refleja unidad por USD y USD por unidad.
@@ -2148,7 +2148,7 @@ práctica actual en el transporte internacional de mercancías.
 Al momento de generar un nuevo Incoterms es necesario ingresar el nombre
 y el código de este.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/facturación incoterms.png
 
 Contabilidad / Tipos de Cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2162,7 +2162,7 @@ nombre de esta, el tipo, el tipo de informe y si se desea adelantar en
 el balance de cuentas; también se puede añadir una breve descripción de
 esta.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadtiposdecuenta.png
 
 Contabilidad / Etiquetas de cuenta
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2172,7 +2172,7 @@ cuenta contable específica en un sistema contable para proporcionar
 información complementaria o para identificar la cuenta de manera más
 detallada.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/contabilidadetiqutasdecuenta.png
 
 Contabilidad / Grupos de cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2182,9 +2182,9 @@ contabilidad para agrupar cuentas similares con el propósito de
 facilitar la contabilización, la generación de informes financieros y el
 análisis.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/gruposdecuentas.png
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/grupodecuentas.png
 
 Contabilidad / Grupos de impuestos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2194,7 +2194,7 @@ contabilidad y finanzas para agrupar diferentes tipos de impuestos y
 obligaciones tributarias con el fin de simplificar su cálculo, registro
 y presentación.
 
-.. image:: ../static/images/6/vistakanbanbancoefectivo.png
+.. image:: ../static/images/6/gruposdeimpuestos.png
 
 
 Bancos / Agregar una cuenta bancaria
@@ -2204,10 +2204,7 @@ Se refiere a registrar y configurar esa cuenta bancaria en el sistema
 contable de una empresa para llevar un registro preciso de todas las
 transacciones financieras relacionadas con esa cuenta.
 
-.. figure:: ./assets/img/6/banco_agregarunacuentabancaria.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/banco_agregarunacuentabancaria.png
 
 Bancos / Modelos de Conciliación
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2222,20 +2219,11 @@ la configuración hasta la creación de registros de ajuste. Cada elemento
 mencionado anteriormente estaría explicado en profundidad para guiar a
 los usuarios a través del proceso de manera efectiva.
 
-.. figure:: ./assets/img/6/banco_modelosdeconciliacion.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/banco_modelosdeconciliacion.png
 
-   submenu ajustes
+.. image:: ../static/images/6/banco_modeloconciliacion.png
 
-.. figure:: ./assets/img/6/banco_modeloconciliacion.png
-   :alt: submenu ajustes
-
-   submenu ajustes
-
-.. figure:: ./assets/img/6/bancos_modelosconciliacion.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/bancos_modelosconciliacion.png
 
 Contabilidad / Sustento de Comprobantes
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2249,15 +2237,9 @@ código, el tipo de sustento, fecha de inicio, fecha de fin y agregar los
 sustentos de comprobantes relacionados al tipo de documento (para más
 información revisar Comprobantes Autorizados).
 
-.. figure:: ./assets/img/6/contabilidad_sustentodecomprobantes.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/contabilidad_sustentodecomprobantes.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/contabilidad_sustentosdecomprobantes.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/contabilidad_sustentosdecomprobantes.png
 
 Contabilidad / Tipos de Documentos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2268,10 +2250,7 @@ documentos son esenciales para mantener un registro adecuado de las
 operaciones financieras y para cumplir con los requisitos legales y
 contables.
 
-.. figure:: ./assets/img/6/contabilidad_tiposdedocumentos.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/contabilidad_tiposdedocumentos.png)
 
 Facturación / Puntos de Emisión
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2301,10 +2280,7 @@ se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
 sucesivamente. En el caso de que se desee cambiar el secuencial de algún
 documento se lo podrá realizar, pero no es un proceso recomendable.
 
-.. figure:: ./assets/img/6/facturacion_puntosdeemision.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/facturacion_puntosdeemision.png
 
 Facturación/ Periodos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2326,15 +2302,9 @@ el período contable.
 Se ingresa el nuevo año fiscal, el nombre, el código, la fecha de inicio
 y la fecha de fin.
 
-.. figure:: ./assets/img/6/facturacion_periodos.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/facturacion_periodos.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/facturacion_periodo.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/facturacion_periodo.png
 
 Facturación / Año Fiscal
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2354,15 +2324,9 @@ izquierda una opción llamada ‘Crear Periodos’, esta opción tomará la
 fecha de inicio y la fecha fin para generar los periodos según el rango
 asignado.
 
-.. figure:: ./assets/img/6/facturacion_añosfiscales.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/facturacion_añosfiscales.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/facturacion_añosfiscale.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/facturacion_añosfiscale.png
 
 Facturación/ Payment Methods SRI (Métodos de Pago SRI)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2371,13 +2335,7 @@ Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Facturación** la opción **Payment
 Methods (Métodos de Pago SRI).**
 
-.. raw:: html
-
-   <p align="center">
-
-.. raw:: html
-
-   </p>
+.. image:: ../static/images/6/Facturacion_PaymentMethodsSRI(MetodosdePagoSRI).png
 
 En este apartado podemos crear diferentes métodos de pago , estos
 métodos se verán reflejados en secciones como Facturas entre otros.
@@ -2386,10 +2344,7 @@ Al momento de generar un nuevo es necesario llenar los campos , el
 nombre y el código. Damos en en la parte superior izquierda damos en
 Grabar y listo !.
 
-.. figure:: ./assets/img/6/Facturacion_PaymentMethodsSRI.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/Facturacion_PaymentMethodsSRI.png
 
 Facturación / Plazos de Pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2413,15 +2368,9 @@ vencimiento y el
 
 número del mes.
 
-.. figure:: ./assets/img/6/facturacion_plazodepagos.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/facturacion_plazodepagos.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/facturacion_tipodeplazo.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/facturacion_tipodeplazo.png
 
 Administración / Categoría de Productos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2440,26 +2389,14 @@ cuenta de ingreso del producto, la cuenta de gasto de este, la cuenta de
 entrada de stock, la cuenta de salida de stock, la cuenta de valoración
 de stock y el diario del stock.
 
-.. figure:: ./assets/img/6/administracion_categoriadeproductos.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/administracion_categoriadeproductos.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/administracion_categoria.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/gruposdeimpuestos.pngadministracion_categoria.png
 
 Si se desea observar todos los productos que contengan dicha categoría,
 podremos observarlos en esta opción.
 
-.. raw:: html
-
-   <p align="center">
-
-.. raw:: html
-
-   </p>
+.. image:: ../static/images/6/administracion_producto.png
 
 Administración / Modos de pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2472,15 +2409,9 @@ La información en estos campos se utilizaría para llevar un registro de
 las transacciones financieras y para garantizar que los pagos se
 realicen de manera adecuada y segura.
 
-.. figure:: ./assets/img/6/administracion_modosdepago.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/administracion_modosdepago.png
 
-   submenu ajustes
-
-.. figure:: ./assets/img/6/administracion_mododepago.png
-   :alt: submenu ajustes
-
-   submenu ajustes
+.. image:: ../static/images/6/administracion_mododepago.png
 
 Administración / Métodos de pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2495,212 +2426,7 @@ Cada campo proporciona información clave sobre cómo se realiza el pago,
 qué requisitos pueden estar involucrados y cómo se clasifica el método
 de pago en relación con otros.
 
-.. figure:: ./assets/img/6/administracion_metododepago.png
-   :alt: submenu ajustes
+.. image:: ../static/images/6/administracion_metododepago.png
 
-   submenu ajustes
+.. image:: ../static/images/6/administracion_metodosdepago.png
 
-.. figure:: ./assets/img/6/administracion_metodosdepago.png
-   :alt: submenu ajustes
-
-   submenu ajustes
-
-Algunos de nuestros clientes
-===============================
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </table>
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </table>
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </table>
-
-Contactanos
-==============
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </table>
-
-info@manexware.com - www.manexware.com
