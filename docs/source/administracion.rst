@@ -6,7 +6,7 @@ Contabilidad
 Clientes
 ---------
 Facturas/Clientes
------------------
+^^^^^^^^^^^^^^^^^^^^^^
 Seleccionar el módulo de **Contabilidad**, dirigirse al menú de **Clientes** y buscar
 la opción **Facturas.**
 
@@ -167,7 +167,7 @@ perfil de contacto.
 .. image:: ../static/images/6/compartirdocumento.png
 
 Notas de Credito
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de Contabilidad, seleccionar el menú Clientes y luego la
 opción Notas de Crédito. Una nota de crédito es un documento legal que
@@ -235,7 +235,7 @@ otros.
 .. image:: ../static/images/6/cambiar a reembolso.png
 
 Facturas de Reembolso de Gastos
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar el menú **Clientes** y
 luego la opción **Facturas de Reembolso de Gastos.**
@@ -264,7 +264,7 @@ de la factura por el reembolso.
 .. image:: ../static/images/6/formadepagoreembolsos.png
 
 Notas de Débito
----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Clientes** la
 opción **Notas de Débito.**
@@ -295,7 +295,7 @@ Débito”.
 .. image:: ../static/images/6/otrainfonotadedebito.png
 
 Retenciones Ventas
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar el menú **Clientes** y la
 opción **Retención Ventas.**
@@ -325,7 +325,7 @@ para poder Validar .
 .. image:: ../static/images/6/detalleretencionventas.png
 
 Detalle de Retención en Ventas
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú la opción
 **Detalle de Retención Ventas.** Como su propio nombre lo indica,
@@ -335,7 +335,7 @@ sencilla.
 .. image:: ../static/images/6/vistadetalleretencionventa.png
 
 Pagos
------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar el menú **Clientes** y
 luego la opción **Pagos.**
@@ -438,7 +438,7 @@ diferencia que es un pago de múltiples facturas.
 .. image:: ../static/images/6/facturaapartirdepagos.png
 
 Vehìculo
---------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Estos campos son útiles para llevar un registro organizado de los
 vehículos y sus propietarios, así como para proporcionar una forma de
@@ -448,7 +448,7 @@ en caso de necesidad.
 .. image:: ../static/images/6/vehiculos.png
 
 Guías de Remisión
------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de Contabilidad, seleccionar en el menú Clientes la opción
 Guías de Remisión.
@@ -475,7 +475,7 @@ Al momento de generar una nueva guía se debe:
 .. image:: ../static/images/6/detalleelectronicoguiaremision.png
 
 Productos
-----------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Clientes** la
 opción **Productos.**
@@ -538,7 +538,7 @@ producto y el código de barra del producto.
 .. image:: ../static/images/6/imprimiretiquetas.png
 
 Clientes
----------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú de **Clientes**
 la opción **Clientes.**
@@ -558,7 +558,7 @@ Proveedores
 .. image:: ../static/images/6/modulocontabilidad.png
 
 Facturas/Proveedores
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú de
 **Proveedores** la opción **Facturas.**
@@ -734,7 +734,7 @@ documento.
 
 
 Notas de Crédito
------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Proveedores**
 la opción **Notas de Crédito.**
@@ -760,7 +760,7 @@ cancelarla, registrar pagos, etc.
 
 .. image:: ../static/images/6/formapagoproveedor.png
 Retenciones Compras
--------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Proveedores**
 la opción **Retenciones Compras.**
@@ -793,7 +793,7 @@ electrónico.
 
 .. image:: ../static/images/6/detalleelectronicoretencion.png
 Detalle de Retenciones en Compras
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Proveedores**
 la opción **Detalle de Retenciones Compras.**
@@ -804,7 +804,7 @@ compras de los proveedores a una vista sencilla.
 .. image:: ../static/images/6/detalleretencionencompras.png
 
 Liquidaciones de Compras
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar el menú **Proveedores** y
 luego la opción **Liquidaciones de Compras.**
@@ -834,7 +834,7 @@ pagos, generar notas de créditos, etc.
 .. image:: ../static/images/6/liquidacioncompras.png
 
 Pagos
-------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Proveedores**
 la opción **Pagos.**
@@ -904,7 +904,7 @@ suprimir y enviar recibo por correo.
 .. image:: ../static/images/6/accionespago.png
 
 Productos
----------
+^^^^^^^^^^^^^^^^^^^^^^
 
 En el módulo de **Contabilidad**, seleccionar en el menú **Clientes** la
 opción **Productos.**
@@ -959,7 +959,7 @@ cantidad y reabastecer .
 .. image:: ../static/images/6/imprimiretiquetasproveedor.png
 
 Proveedores
------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Seleccionar el módulo de **Contabilidad**, dirigirse al menú de
 **Proveedores** y buscar la opción **Proveedores.**
@@ -1013,7 +1013,7 @@ Contabilidad
 ------------
 
 Documentos Electrónicos / Carga de Documentos Electrónicos
------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Nos dirigimos al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Documentos Electrónicos** la opción
@@ -1048,7 +1048,7 @@ visualizar en Facturas Proveedor; de igual manera con los diferentes
 tipos de documentos.
 
 Conciliaciones / Conciliación Bancarias
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Bancos** la opción **Conciliación
@@ -1133,7 +1133,7 @@ incluidos en Libros.
 los Libros.
 
 Asientos Contables / Asientos contables
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Varios** la opción **Asientos
@@ -1191,7 +1191,7 @@ asiento.
 
 
 Asientos Contables / Apuntes contables
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Varios** la opción **Apuntes Contables.**
@@ -1228,7 +1228,7 @@ contables.
 realizar en asientos contables no conciliados.
 
 Acciones / Conciliación
------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Acciones** la opción **Conciliación.**
@@ -1276,7 +1276,7 @@ sistema, se debe configurar los respectivos diarios (para más
 información revisar **Diarios**).
 
 Acciones / Fecha de bloqueo
-----------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Acciones** la opción **Actualizar fecha
@@ -1292,7 +1292,7 @@ todo lo anterior a la fecha que se escoja.
 .. image:: ../static/images/6/actualizarfechabloqueo.png
 
 Gestión de Chequeras / Chequeras
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Gestión de Chequeras** la opción
@@ -1351,7 +1351,7 @@ que no se han utilizado quedarán inactivos.
 .. image:: ../static/images/6/estadoinactivochequera.png
 
 Gestión de Chequeras / Cheques de Proveedores
-----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Gestión de Chequeras** la opción
@@ -1365,7 +1365,7 @@ pago aparecerá en esta vista.
 .. image:: ../static/images/6/vistaeditarchequera.png
 
 Diarios Contables /Ventas
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Diarios Contables** la opción **Ventas.**
@@ -1428,7 +1428,7 @@ los registros e interactuar con ellos:
 
 
 Diarios Contables /Compras
----------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Diarios Contables** la opción
@@ -1499,7 +1499,7 @@ los registros e interactuar con ellos:
    .. image:: ../static/images/6/vistakanbancompras.png
 
 Diarios Contables /Banco y Efectivo
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Diarios Contables** la opción **Banco y
@@ -1582,7 +1582,7 @@ registros e interactuar con ellos:
 
 
 Diarios Contables /Varios
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en \__Diarios Contables la opción Varios.
@@ -1591,7 +1591,7 @@ Informes
 --------
 
 Administración / Análisis de Facturas
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Administración** la opción **Facturas**.
@@ -1603,7 +1603,7 @@ proveedores como el de los clientes.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Administración / Cuentas por Pagar
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Administración** la opción **Cuentas por
@@ -1618,7 +1618,7 @@ realizar.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Administración / Cuentas por Cobrar
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Administración** la opción Cuentas por
@@ -1633,7 +1633,7 @@ realizar.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Administración / Información de Ventas
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Administración** la opción **Información de
@@ -1651,8 +1651,7 @@ presionar en “Generar Reporte” se descargará un archivo.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Administración / Información de Compras
-----------------------------------------
-
+^^^^^^^^^^^^^^^^^^^^^^
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Administración** la opción **Información de
 Compras**.
@@ -1671,7 +1670,7 @@ valores anulados o puede elegir los tres, después de presionar en
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Libro mayor
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes de Contabilidad** OCA la opción
@@ -1705,7 +1704,7 @@ y el saldo acumulado
 
 
 Informes de Contabilidad OCA/Libro diario
------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
@@ -1735,7 +1734,7 @@ Ref. Etiqueta, los impuestos, el debe, el haber, actual, importe monedas
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Balance de Sumas y Saldos
-------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1764,7 +1763,7 @@ y limitar niveles de jerarquía.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Pérdidas y Ganancias
----------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1803,7 +1802,7 @@ balance, balance inicial y balance final
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Balance General
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1828,7 +1827,7 @@ puedes mostrar la tabla o exportar a XLS o a Pdf,
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Partidas abiertas
------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1854,7 +1853,7 @@ a Pdf
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Calidad de la deuda
--------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1877,7 +1876,7 @@ código, al final puedes mostrar la tabla o importarla a XLS o a Pdf.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Informes de Contabilidad OCA/Informe de Impuestos
---------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Informes** de Contabilidad OCA la opción
@@ -1931,7 +1930,7 @@ en un archivo de excel.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Reportes Financieros/Plan Contable
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **Reportes** Financieros la opción **Plan
@@ -1950,7 +1949,7 @@ mostrará desde el nivel 1 hasta el nivel 5.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 SRI/Generar y Exportar A.T.S.
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Informe** y buscar en **SRI** la opción **Generar y Exportar A.T.S**.
@@ -1971,7 +1970,7 @@ Configuracion
 ==============
 
 Contabilidad / Plan de Cuentas
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Plan de
@@ -2008,7 +2007,7 @@ El sistema nos permite realizar las siguientes acciones:
 **Suprimir**: Nos permite borrar.
 
 Contabilidad / Impuestos
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Impuestos**.
@@ -2034,7 +2033,7 @@ imponible de impuestos subsiguientes.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Posiciones Fiscales
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Posiciones
@@ -2068,7 +2067,7 @@ casilla de Advertencia legal.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Grupos de Diarios
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Se refiere a una forma de organizar y categorizar los registros
 contables según diferentes criterios. Estos grupos ayudan a clasificar y
@@ -2078,7 +2077,7 @@ eficiente.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Diarios Contables
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Diarios
@@ -2109,7 +2108,7 @@ valida en la conciliación bancaria.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad /Monedas
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Monedas**.
@@ -2131,7 +2130,7 @@ La tasa podemos ver la fecha donde podemos agregar línea donde
 se refleja unidad por USD y USD por unidad.
 
 Facturación / Incoterms
------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Facturación** la opción **Incoterms**.
@@ -2152,7 +2151,7 @@ y el código de este.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Tipos de Cuentas
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Configuración** y buscar en **Contabilidad** la opción **Tipos de
@@ -2166,7 +2165,7 @@ esta.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Etiquetas de cuenta
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Se refiere a una etiqueta o descripción adicional que se adjunta a una
 cuenta contable específica en un sistema contable para proporcionar
@@ -2176,7 +2175,7 @@ detallada.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Grupos de cuentas
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Los grupos de cuentas son categorías organizativas utilizadas en
 contabilidad para agrupar cuentas similares con el propósito de
@@ -2188,7 +2187,7 @@ análisis.
 .. image:: ../static/images/6/vistakanbanbancoefectivo.png
 
 Contabilidad / Grupos de impuestos
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Los grupos de impuestos son categorías organizativas utilizadas en
 contabilidad y finanzas para agrupar diferentes tipos de impuestos y
