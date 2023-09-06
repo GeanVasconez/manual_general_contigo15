@@ -24,3 +24,6 @@ Contents
    conversaciones
    contactos
    administracion
+   contabilidad
+   algunos_de_nuestros_clientes
+   contactanos
