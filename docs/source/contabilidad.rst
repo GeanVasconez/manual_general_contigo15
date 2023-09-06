@@ -2505,7 +2505,7 @@ de pago en relación con otros.
 
    submenu ajustes
 
-7. Algunos de nuestros clientes
+Algunos de nuestros clientes
 ===============================
 
 .. raw:: html
@@ -2652,7 +2652,7 @@ de pago en relación con otros.
 
    </table>
 
-8. Contactanos
+Contactanos
 ==============
 
 .. raw:: html
