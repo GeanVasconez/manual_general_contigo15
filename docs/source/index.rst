@@ -1,17 +1,18 @@
 Manual General Contigo
 ======================
+.. image:: ../static/images/2/contigo_logo.png
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+El manual "Contigo" es una valiosa guía que consta de 7 módulos diseñados para ofrecerte una comprensión profunda y detallada de cada aspecto de nuestro producto. Cada módulo está cuidadosamente elaborado para que puedas aprovechar al máximo la funcionalidad y los beneficios que ofrecemos.
+
+Además de estos módulos, el manual "Contigo" incluye una serie de atajos y estrategias para el manejo eficiente de la información. Estos atajos permiten a los usuarios capacitarse de manera autónoma y sacar el máximo provecho de nuestro producto. Creemos en empoderar a nuestros usuarios para que puedan utilizar nuestra herramienta de manera efectiva y eficiente.
+
+
+
 
 .. note::
 
-   This project is under active development.
+   El manual "Contigo" ha sido creado pensando en ti, para garantizar que obtengas el máximo valor de nuestro producto y te capacites de manera continua.
 
 Contents
 --------
