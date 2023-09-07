@@ -80,7 +80,7 @@ documento electrónico de la factura. (imagenporinsertar)
 
 **Ride:** Al dar click aparecerá el documento factura completa.
 
-... image:: ../static/images/7/generaride.png
+.. image:: ../static/images/7/generaride.png
 
 **Enviar e imprimir:** Esta opción visualizará el documento ya procesado
 dentro del sistema para enviar e imprimir.
@@ -232,7 +232,7 @@ otros.
 
 **Cambiar a reembolso/nota de crédito:**
 
-.. image:: ../static/images/7/cambiar a reembolso.png
+.. image:: ../static/images/7/cambiar_a_reembolso.png
 
 Facturas de Reembolso de Gastos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -555,7 +555,7 @@ Ventas y Compras el ítem de ‘Es Cliente’.
 Proveedores
 ---------------
 
-.. image:: ../static/images/7/modulocontabilidad.png
+.. image:: ../static/images/7/moduloproveedores.png
 
 Facturas/Proveedores
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2148,7 +2148,7 @@ práctica actual en el transporte internacional de mercancías.
 Al momento de generar un nuevo Incoterms es necesario ingresar el nombre
 y el código de este.
 
-.. image:: ../static/images/7/facturación incoterms.png
+.. image:: ../static/images/7/facturación_Incoterms.png
 
 Contabilidad / Tipos de Cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2250,7 +2250,7 @@ documentos son esenciales para mantener un registro adecuado de las
 operaciones financieras y para cumplir con los requisitos legales y
 contables.
 
-.. image:: ../static/images/7/contabilidad_tiposdedocumentos.png)
+.. image:: ../static/images/7/contabilidad_tiposdedocumentos.png
 
 Facturación / Puntos de Emisión
 ^^^^^^^^^^^^^^^^^^^^^^
