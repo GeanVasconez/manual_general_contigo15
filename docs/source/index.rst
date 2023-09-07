@@ -7,7 +7,7 @@ El manual "Contigo" es una valiosa guía que consta de 7 módulos diseñados par
 
 Además de estos módulos, el manual "Contigo" incluye una serie de atajos y estrategias para el manejo eficiente de la información. Estos atajos permiten a los usuarios capacitarse de manera autónoma y sacar el máximo provecho de nuestro producto. Creemos en empoderar a nuestros usuarios para que puedan utilizar nuestra herramienta de manera efectiva y eficiente.
 
-Puedes encontrar más información detallada en .. _link: https://www.manexware.com./Manexware .
+Puedes encontrar más información detallada en `Manexware <http://www.manexware.com>`_.
 
 
 
