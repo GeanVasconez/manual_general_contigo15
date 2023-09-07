@@ -2,7 +2,7 @@ Contáctanos
 ============
 
 
-info@manexware.com - www.manexware.com
+info@manexware.com
 
 .. image:: ../static/images/8/facebook.jpg
    :width: 150px
