@@ -1,14 +1,14 @@
 Contáctanos
 ============
 
-.. image:: ../static/images/8/facebook.png
+.. image:: ../static/images/8/facebook.jpg
    :width: 150px
 
-.. image:: ../static/images/8/instagram.png
+.. image:: ../static/images/8/instagram.jpg
    :width: 150px
 
-.. image:: ../static/images/8/linkedin.png
+.. image:: ../static/images/8/linkedin.jpg
    :width: 150px
 
-.. image:: ../static/images/8/twitter.png
+.. image:: ../static/images/8/twitter.jpg
    :width: 150px

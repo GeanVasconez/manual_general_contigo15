@@ -29,7 +29,7 @@ Algunos De Nuestros Clientes
 .. image:: ../static/images/8/smslatinoamerica.png
    :width: 150px
 
-.. image:: ../static/images/8/technet.png
+.. image:: ../static/images/8/techcnet.png
    :width: 150px
 
 .. image:: ../static/images/8/serviciosinmediato.png
