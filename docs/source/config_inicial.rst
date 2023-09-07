@@ -46,31 +46,31 @@ idioma, la zona horaria, el medio de entrega de notificaciones, la
 plantilla de firma y la firma digital(opcional).
 
 .. image:: ../static/images/2/preferencias.png
-
+    :align: center
 **Seguridad de la cuenta**: Nos permite seleccionar la autenticación de dos pasos para
 proteger la cuenta.
 
 .. image:: ../static/images/2/security.png
-
+    :align: center
 **Acciones**: Nos permite archivar, suprimir, duplicar y cambiar la contraseña de dicho usuario, desactivar
 la autenticación de dos pasos y también nos permite ayudar al usuario a
 recuperar su contraseña enviando instrucciones para el restablecimiento
 de la misma.
 
 .. image:: ../static/images/2/acciones.png
-
+    :align: center
 
 En caso de cambiar la contraseña se abrirá una ventana emergente, donde
 se deberá digitar la nueva contraseña y seguidamente guardar los nuevos
 datos.
 
 .. image:: ../static/images/2/changepassword.png
-
+    :align: center
 En la parte superior, antes de las opciones de crear o editar usuario
 tenemos una barra que permite “Enviar un correo de invitación”:
 
 .. image:: ../static/images/2/correoinvitacion.png
-
+    :align: center
 Al usuario se le enviará por correo una invitación para que ingrese al
 sistema, si todo sale bien y la invitación se envía con éxito mostrará
 un mensaje confirmando dicha acción.
@@ -105,6 +105,7 @@ verificarlos. De esa forma, se elaboran con facilidad los estados
 financieros.
 
 .. image:: ../static/images/2/planctauno.png
+    :align: center
 
 El sistema Contigo tiene los datos básicos del
 plan contable, pero es necesario verificar cuáles son las cuentas
@@ -119,8 +120,10 @@ el nombre de la cuenta, el tipo de la misma, pero habrá campos
 adicionales como:
 
 .. image:: ../static/images/2/planctados.png
+    :align: center
 
 .. image:: ../static/images/2/planctatres.png
+    :align: center
 
 **Tipo**: Aquí se define el tipo de cuenta, ya sean capitales, activos,
 pasivos; cabe recalcar que las cuentas por cobrar y pagar deberán
@@ -153,7 +156,7 @@ su nivel, el nivel lo define de manera automática siempre y cuando se
 digite el código de la cuenta contable.
 
 .. image:: ../static/images/2/nivelescta.png
-
+    :align: center
 Por ejemplo, en la imagen de arriba solo se están visualizando las
 cuentas nivel 1.
 
@@ -175,7 +178,7 @@ al momento de guardar el registro el sistema enlazará todas las cuentas
 contables que posean dicho prefijo.
 
 .. image:: ../static/images/2/grupoctas.png
-
+    :align: center
 
 Impuestos
 ---------
@@ -194,12 +197,14 @@ impuesto, si se desea se puede añadir un nombre corto y seleccionar el
 ámbito de este (ventas, compras, ninguno y ajustes).
 
 .. image:: ../static/images/2/impuestosuno.png
+    :align: center
 
 **Definición**: Esta pestaña nos ayuda a determinar el cálculo
 del impuesto, su importe, la cuenta de impuestos y la cuenta de
 impuestos para las notas de crédito.
 
 .. image:: ../static/images/2/impuestosdos.png
+    :align: center
 
 **Opciones avanzadas**:
 Esta opción nos permite añadir la etiqueta de factura, el grupo de
@@ -207,13 +212,14 @@ impuestos, si se debe incluir en el precio, si tiene base imponible y
 añadir más etiquetas para reconocimiento de este.
 
 .. image:: ../static/images/2/impuestostres.png
+    :align: center
 
 **Código de impuestos**: Nos permite ingresar el código base y el código de
 impuestos para las ventas y compras; de la misma manera el reembolso de
 ventas y compras con la diferencia del código de devoluciones.
 
 .. image:: ../static/images/2/impuestosfour.png
-
+    :align: center
 
 Información de la compañía
 --------------------------
@@ -229,20 +235,20 @@ según la empresa, especialmente los campos obligatorios empezando por el
 nombre de la compañía.
 
 .. image:: ../static/images/2/companyuno.png
-
+    :align: center
 
 **Información General**: Se debe registrar todos los datos de la
 compañía y si la compañía posee factura electrónica, llenar en el
 sistema sus respectivos campos para su posterior utilización.
 
 .. image:: ../static/images/2/companydos.png
-
+    :align: center
 
 .. image:: ../static/images/2/companytres.png
-
+    :align: center
 
 .. image:: ../static/images/2//companyfour.png
-
+    :align: center
 
 **Contabilidad**: Nos permite indicar al sistema las retenciones,
 sustentos tributarios, las cuentas contables y la cuenta de
@@ -250,35 +256,38 @@ transferencia entre bancos que la empresa utiliza para toda su actividad
 contable.
 
 .. image:: ../static/images/2/contuno.png
-
+    :align: center
 
 .. image:: ../static/images/2/contdos.png
+    :align: center
 
 .. image:: ../static/images/2/contres.png
-
+    :align: center
 
 .. image:: ../static/images/2/contfour.png
-
+    :align: center
 
 .. image:: ../static/images/2/contfive.png
-
+    :align: center
 
 .. image:: ../static/images/2/contseis.png
-
+    :align: center
 
 .. image:: ../static/images/2/contsiete.png
-
+    :align: center
 
 .. image:: ../static/images/2/contocho.png
-
+    :align: center
 
 **Agencia** Esta tarea puede ser realizada por el administrador, debe
 dirigirse al módulo de **Administración**, seleccionar la opción
 **Agencia**.
 
 .. image:: ../static/images/2/moduloagencia.png
+    :align: center
 
 .. image:: ../static/images/2/crearagencia.png
+    :align: center
 
 Configuración de correo saliente
 --------------------------------
@@ -286,6 +295,7 @@ Nos dirigimos al módulo de **Administración** y buscamos en el
 menú **Servidor de Correo Saliente**.
 
 .. image:: ../static/images/2/modulocorreosaliente.png
+    :align: center
 
 Para crear el servidor de correo saliente, añadimos una descripción de nuestro correo y
 seleccionamos su prioridad (entre más bajo el número mayor será la
@@ -300,11 +310,13 @@ posteriormente se configura el usuario y la contraseña del correo, se
 prueba la conexión y listo.
 
 .. image:: ../static/images/2/crearcorreosaliente.png
+    :align: center
 
 .. image:: ../static/images/2/conexionexitosacorreosaliente.png
+    :align: center
 
 .. image:: ../static/images/2/vistacorreosaliente.png
-
+    :align: center
 
 Creación de año fiscal y periodos
 ---------------------------------
@@ -312,9 +324,10 @@ Nos dirigimos al módulo de **Contabilidad**, seleccionamos el menú de **Config
 Facturación y seleccionamos **Año Fiscal**.
 
 .. image:: ../static/images/2/moduloañofiscal.png
+    :align: center
 
 .. image:: ../static/images/2/añofiscal.png
-
+    :align: center
 
 Para crear el año fiscal en curso, colocar en “Nombre” el año,
 configurar la fecha de inicio y fecha de finalización del año y dar clic
@@ -328,9 +341,10 @@ Nos dirigimos al módulo de **Contabilidad**, seleccionamos el menú de
 **Puntos de Emisión**.
 
 .. image:: ../static/images/2/añofiscal.png
+    :align: center
 
 .. image:: ../static/images/2/añofiscal.png
-
+    :align: center
 
 Configurar el punto de emisión que viene por defecto, en el punto de
 emisión requiere introducir un nombre, un código, seleccionar el estado
@@ -338,23 +352,27 @@ si es activo, la agencia y el ambiente. Además, se puede enviar el
 documento por medio electrónico.
 
 .. image:: ../static/images/2/añofiscal.png
-
+    :align: center
 Cuentas Bancarias
 -----------------
 En el módulo de **Contabilidad**, seleccionamos el menú de **Configuración**, buscamos el apartado de
 **Bancos** y escogemos la opción **Agregar una cuenta bancaria**.
 
 .. image:: ../static/images/2/modulocuentasbancarias.png
+    :align: center
 
 .. image:: ../static/images/2/agregarcuentasbancarias.png
+    :align: center
 
 Para configurar las cuentas bancarias, ingresamos el número de cuenta,
 el banco correspondiente y el código de identificación bancaria. El
 banco se asocia a la empresa.
 
 .. image:: ../static/images/2/crearcuentabancaria.png
+    :align: center
 
 .. image:: ../static/images/2/cuentaasociadaempresa.png
+    :align: center
 
 Diarios
 -------
@@ -364,9 +382,10 @@ En el módulo de **Contabilidad**, seleccionamos el menú de
 localizamos **Diarios Contables**.
 
 .. image:: ../static/images/2/modulodiariocontables.png
+    :align: center
 
 .. image:: ../static/images/2/diarioscontables.png
-
+    :align: center
 
 En los diarios ingresamos el nombre, el tipo (venta, compra, banco,
 efectivo o miscelánea) según corresponda, también nos permite
@@ -374,6 +393,7 @@ seleccionar el tipo de cuenta deudora o acreedora si aquella cuenta no
 está registrada, se puede crear o editar.
 
 .. image:: ../static/images/2/creardiariocontable.png
+    :align: center
 
 También se configura el código corto y la secuencia de los
 asientos. Se define las cuentas de débito y crédito por defecto; también
@@ -384,8 +404,10 @@ crear y editar, también nos indica si aquella cuenta bancaria
 corresponde a cuenta corriente o ahorros y guardamos.
 
 .. image:: ../static/images/2/apartadoasientoscontables.png
+    :align: center
 
 .. image:: ../static/images/2/vistadiarioscontables.png
+    :align: center
 
 
 

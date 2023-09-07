@@ -18,6 +18,7 @@ del módulo de Contactos (Para más información revise el manual **Contigo
 General**).
 
 .. image:: ../static/images/6/administracion_usuario.png
+    :align: center
 
 Es importante definir los Permisos de acceso, la tienda (Agencias) en
 donde se encuentra laborando y las preferencias de usuario (El mismo
@@ -34,11 +35,13 @@ derechos extras y una última opción de otro que contiene creación de
 contacto.
 
 .. image:: ../static/images/6/administracion_usuarios.png
+    :align: center
 
 Tiendas: Permite identificar las tiendas/agencias en las cuales se
 encuentra el usuario y en las tiendas que tiene permitido trabajar.
 
 .. image:: ../static/images/6/administracion_tienda.png
+    :align: center
 
 Preferencias: Permite una serie de configuraciones dentro del sistema,
 como el idioma, la zona horaria, notificación (Manejar por correos
@@ -46,6 +49,7 @@ electrónicos o Manejar en Odoo), firma de correo electrónico y por
 último una firma digital.
 
 .. image:: ../static/images/6/administracion_preferencia.png
+    :align: center
 
 Cuando seleccione firma de firma digital, le va a aparecer una ventana
 que dice adopte su firma, si no tiene una firma guardada en la
@@ -54,6 +58,7 @@ computadora seleccione “Cargar” para subir el archivo que contiene una
 firma y si está seguro de su decisión presione “Aprobar y firmar”.
 
 .. image:: ../static/images/6/administracion_adoptesufirma.png
+    :align: center
 
 Importante: Para asignar una contraseña y restablecer la misma, se
 requiere seguir los siguientes procesos. 1.- Asignación de contraseña
@@ -64,6 +69,7 @@ sistema e identificar el botón de Acción, presionarlo después de eso
 saldrán tres opciones elija la opción que dice “Cambiar la contraseña”.
 
 .. image:: ../static/images/6/administracion_accion.png
+    :align: center
 
 El sistema mostrará un formulario simple, el cual consta del correo del
 usuario en la parte izquierda y el espacio para la nueva contraseña en
@@ -71,6 +77,7 @@ la parte derecha. Cuando se haya ingresado la nueva contraseña, se
 procede a confirmar (Cambiar la contraseña).
 
 .. image:: ../static/images/6/administracion_cambiarcontraseña.png
+    :align: center
 
 Nota: Este proceso se recomienda utilizarlo si es necesario que el
 usuario ingrese de manera urgente al sistema, caso contrario se
@@ -81,8 +88,10 @@ recomienda que los usuarios sigan el paso 3.
    redirigirá al sistema.
 
 .. image:: ../static/images/6/administracion_enviarinstrucciones.png
+    :align: center
 
 .. image:: ../static/images/6/administracion_cambiarcontraseñas.png
+    :align: center
 
 3.- Cambiar contraseña: Si el usuario no posee ninguna contraseña o no
 recuerda la misma, es preferible que utilice esta opción. En la página
@@ -91,6 +100,7 @@ Contraseña de la cual se deben seguir los pasos indicados por el sistema
 para la obtención de la nueva contraseña.
 
 .. image:: ../static/images/6/administracion_cambiarcontraseñaa.png
+    :align: center
 
 Compañias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -105,20 +115,24 @@ con su respectiva información según la empresa, especialmente los campos
 obligatorios empezando por el nombre de la compañía.
 
 .. image:: ../static/images/6/administracion_compañia.png
+    :align: center
 
 .. image:: ../static/images/6/administracion_nombredelacompañia.png
+    :align: center
 
 Información General: Se debe registrar todos los datos de la compañía y
 si la compañía posee factura electrónica, llenar en el sistema sus
 respectivos campos para su posterior utilización.
 
 .. image:: ../static/images/6/administracion_informaciongeneral.png
+    :align: center
 
 Contabilidad: Permite indicar al sistema las retenciones, sustentos
 tributarios, las cuentas contables y la cuenta de transferencia entre
 bancos que la empresa utiliza para toda su actividad contable.
 
 .. image:: ../static/images/6/administracion_contabilidad.png
+    :align: center
 
 El sistema muestra opciones que afectarán a otros módulos como:
 Contabilidad **Verificación de correo:** Si esta opción está marcada,
@@ -144,39 +158,46 @@ contactos dentro del sistema estarán obligados a llenar los campos Tipo
 ID y Cedula/Ruc.
 
 .. image:: ../static/images/6/administracion_verificacion.png
+    :align: center
 
 **Retenciones** Para utilizar correctamente los siguientes apartados, se
 requiere ya tener configurado las siguientes retenciones: Ret. IVA
 Bienes Ret. Renta Bienes Ret. IVA Servicios Ret. Renta Servicios
 
 .. image:: ../static/images/6/administracion_retenciones.png
+     :align: center
 
 Cuentas Contables. – Permite enlazar las cuentas de ingreso y gastos a
 los elementos del plan contable.
 
 .. image:: ../static/images/6/administracion_cuentacontable.png
+     :align: center
 
 Anticipos. – Permite configurar las cuentas de anticipos para clientes y
 proveedores.
 
 .. image:: ../static/images/6/administracion_anticipos.png
+     :align: center
 
 Conciliaciones Bancarias. – Permite la configuración de dos cuentas, las
 cuales sirven para realizar los pagos no registrados o no identificados
 en el sistema y así obtener cuadre de la conciliación.
 
 .. image:: ../static/images/6/administracion_conciliacionesbancarias.png
+     :align: center
 
 Firmas Asientos Contable. - Al momento de guardar un asiento,
 dependiendo de los usuarios seleccionados en esta opción; el mismo
 aparecerá en el registro y posteriores.
 
 .. image:: ../static/images/6/administracion_firmascontable.png
+     :align: center
 
 Bancos. - Se tiene que poner el número de la cuenta de transferencias
 interbancarias.
 
 .. image:: ../static/images/6/administracion_banco.png
+     :align: center
 
 Agencias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -189,8 +210,10 @@ el sistema. Se puede tener sucursales principales o padres y
 secundarias.
 
 .. image:: ../static/images/6/administracion_agencias.png
+     :align: center
 
 .. image:: ../static/images/6/administracion_agencia.png
+     :align: center
 
 En el campo **Sucursal Padre** se selecciona el nombre de una sucursal
 previamente creada, esto nos permite diferenciar cual es la sucursal
@@ -209,10 +232,13 @@ SSL/TLS y posteriormente se configura el usuario y la contraseña del
 correo, se prueba la conexión y listo.
 
 .. image:: ../static/images/6/administracion_servidorescorreosaliente.png
+     :align: center
 
 .. image:: ../static/images/6/adminsitracion_servidorcontigo.png
+     :align: center
 
 .. image:: ../static/images/6/administracion_servidor.png
+     :align: center
 
 Secuencia
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -222,12 +248,14 @@ propio usuario, con un código de secuencia, nombre, el prefijo, tamaño
 de frecuencia, próximo número, pasó y por último la implementación.
 
 .. image:: ../static/images/6/administracion_secuencia.png
+     :align: center
 
 Estas son creadas por el nombre, el código de secuencia, la
 implementación (para saber si es Estandar o es sin hueco) y ver si está
 activo caso contrario no se va a seleccionar el activo.
 
 .. image:: ../static/images/6/administracion_secuencias.png
+     :align: center
 
 **Secuencia:** En secuencia se tienen que llenar unos datos más:
 Prefijo: Cual será el valor del prefijo para la secuencia Sufijo: Su
@@ -241,6 +269,7 @@ se utilizará, este número puede incrementarse frecuentemente por lo que
 el valor mostrado puede ya estar obsoleto
 
 .. image:: ../static/images/6/administracion_prefijo.png
+     :align: center
 
 Precisión decimal
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -254,8 +283,10 @@ sistema lo mostrará como ‘5.79’ ya que aplica redondeo y el número de
 dígitos decimales son dos.
 
 .. image:: ../static/images/6/administracion_precisiondecimal.png
+     :align: center
 
 .. image:: ../static/images/6/administracion_precision.png
+     :align: center
 
 Correo Electrónico
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -275,19 +306,24 @@ Si se presiona en editar, se podrá editar el contenido del mensaje y las
 opciones ya dichas
 
 .. image:: ../static/images/6/administracion_correoelectronicos.png
+     :align: center
 
 .. image:: ../static/images/6/administracion_correoelectronico.png
+     :align: center
 
 Contenido: Aquí se muestra que contiene el mensaje
 
 .. image:: ../static/images/6/administracion_contenido.png
+     :align: center
 
 Adjuntos: Se asocian un documento mediante el modelo/res_id y al mensaje
 mediante este campo.
 
 .. image:: ../static/images/6/administracion_adjuntos.png
+     :align: center
 
 Razón del fallo: Aquí se muestra la razón del fallo de la entrega de
 correo del porque no fue enviado
 
 .. image:: ../static/images/6/administracion_razondelfallo.png
+     :align: center

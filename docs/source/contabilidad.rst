@@ -2,6 +2,7 @@ Contabilidad
 ===============
 
 .. image:: ../static/images/7/modulocontabilidad.png
+    :align: center
 
 Clientes
 ---------
@@ -16,6 +17,7 @@ toda la información de la operación. Al momento de seleccionar la
 pestaña, el sistema permitirá crear facturas, eliminarlas, etc.
 
 .. image:: ../static/images/7/crearfacturasclientes.png
+    :align: center
 
 Se procede a llenar los campos obligatorios (campos de color
 azul), se selecciona al cliente, se llena la fecha de la factura; en el
@@ -27,6 +29,7 @@ descuento global y se aplicará dicho descuento a los productos
 ingresados.
 
 .. image:: ../static/images/7/detallefactura.png
+    :align: center
 
 Las líneas de factura, sirven para agregar los
 productos a la factura, para agregar un producto dar clic en **Agregar
@@ -41,6 +44,7 @@ producto y el subtotal dependerá del resultado de: cantidad \* precio
 del producto - descuento + impuestos.
 
 .. image:: ../static/images/7/calculosfacturas.png
+    :align: center
 
 Al momento de completar las líneas de factura, el sistema le mostrará
 los cálculos realizados para la obtención del total a cobrar.
@@ -50,6 +54,7 @@ utilización del sistema financiero”, si desea especificar otra forma de
 pago, deberá escoger manualmente.
 
 .. image:: ../static/images/7/formadepago.png
+    :align: center
 
 Si se desea ingresar algún tipo de dato adicional, se lo podrá realizar
 en la parte de “Información Adicional”, para agregar un dato adicional
@@ -57,23 +62,27 @@ dar clic en agregar línea y llenar el campo nombre y el campo
 descripción.
 
 .. image:: ../static/images/7/infoadicional.png
+    :align: center
 
 La factura se rige por los siguientes estados: **Borrador** y
 **Publicado**
 
 .. image:: ../static/images/7/estadosfacturas.png
+    :align: center
 
 Para cambiar el estado de la factura, se debe hacer lo siguiente: Se
 debe dirigir a la esquina superior izquierda, donde se encontrará con
 los siguientes botones.
 
 .. image:: ../static/images/7/botonesfacturas.png
+    :align: center
 
 **Confirmar:** Permite cambiar el estado a Publicado, al momento de que la factura esté en este estado no
 se podrá realizar ediciones en las líneas de factura y mostrará una
 serie de opciones que serán detalladas a continuación:
 
 .. image:: ../static/images/7/facturapublicada.png
+    :align: center
 
 **Generar Edoc:** Al momento de dar clic en esta opción se generará el
 documento electrónico de la factura. (imagenporinsertar)
@@ -81,6 +90,7 @@ documento electrónico de la factura. (imagenporinsertar)
 **Ride:** Al dar click aparecerá el documento factura completa.
 
 .. image:: ../static/images/7/generaride.png
+    :align: center
 
 **Enviar e imprimir:** Esta opción visualizará el documento ya procesado
 dentro del sistema para enviar e imprimir.
@@ -92,6 +102,7 @@ llenos los siguientes campos: Fecha de la factura, RUC del cliente,
 secuencia interna de la factura, tipo de comprobante y la forma de pago.
 
 .. image:: ../static/images/7/vistapreviafactura.png
+    :align: center
 
 **Añadir nota de crédito:** Esta opción le permite crear créditos de
 forma rápida y sencilla. Se recomienda utilizar este método al ingresar
@@ -100,6 +111,7 @@ creación de notas de crédito. El proceso es fácil. Seleccione el método
 de crédito y la fecha de cancelación.
 
 .. image:: ../static/images/7/añadirnotadecredito.png
+    :align: center
 
 **Crear nota de débito:** Esta opción le permite crear deditos de forma
 rápida y sencilla. Se recomienda utilizar este método al ingresar en el
@@ -108,7 +120,7 @@ notas de débito. El proceso es fácil. Seleccione el método de débito y
 la fecha de la nota de débito.
 
 .. image:: ../static/images/7/crearnotadedebito.png
-
+    :align: center
 
 
 **Agregar Retención:** Para añadir una retención a la factura, se debe
@@ -117,8 +129,10 @@ número de documento, la fecha, periodo fiscal, el número de
 autorización, el diario, cliente y el detalle de la retención.
 
 .. image:: ../static/images/7/agregarretencion.png
+    :align: center
 
 .. image:: ../static/images/7/borradorretenciones.png
+    :align: center
 
 Al momento de guardar la retención, se generará un pago
 pendiente el cual mostrará en los valores totales de la factura un ítem
@@ -129,14 +143,17 @@ total de la factura se sumará con el valor pendiente dando como
 resultado un monto total diferente.
 
 .. image:: ../static/images/7/montototalfactura.png
+    :align: center
 
 **Anular Facturas:** Permite la anulación de la factura enviando la
 misma a un estado adicional llamado Anulado, dicho estado sólo aparecerá
 si se anuló la factura.
 
 .. image:: ../static/images/7/anularfacturas.png
+    :align: center
 
 .. image:: ../static/images/7/vistaanulado.png
+    :align: center
 
 Cuando la factura está en este estado, solo mostrará los siguientes
 botones: “Generar Edoc”, “Ride”, “ Vista Previa” y “Restablecer a
@@ -148,12 +165,14 @@ recién creadas; luego se procederá a modificar los datos existentes y
 después se valida cuando esté completada.
 
 .. image:: ../static/images/7/vistaanulado.png
+    :align: center
 
 Se añadirá a nuestras facturas creadas los términos y condiciones en la
 sección final del documento, solo se podrá editar dicho término si la
 factura se encuentra en estado de borrador.
 
 .. image:: ../static/images/7/terminosycondiciones.png
+    :align: center
 
 **Compartir:** Esta acción se permitirá enviar el documento a uno o más
 de los destinatarios designados, dichos destinatarios deben tener
@@ -163,8 +182,10 @@ designados, dichos destinatarios deben tener definido el correo en su
 perfil de contacto.
 
 .. image:: ../static/images/7/accionesfcts.png
+    :align: center
 
 .. image:: ../static/images/7/compartirdocumento.png
+    :align: center
 
 Notas de Credito
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -185,31 +206,39 @@ crédito podremos validarla, previsualizarla, cancelarla, registrar
 pagos, etc.
 
 .. image:: ../static/images/7/vistanotasdecreditos.png
+    :align: center
 
 .. image:: ../static/images/7/notadecreditocreada.png
+    :align: center
 
 .. image:: ../static/images/7/detallenotadecredito.png
+    :align: center
 
 .. image:: ../static/images/7/formadepagonotacredito.png
+    :align: center
 
 Se sabe que es una nota de crédito porque en la pestaña “Otra
 Información” existe el “Tipo de comprobante” que indica “Nota de
 Crédito”.
 
 .. image:: ../static/images/7/otrainfonotacredito.png
+    :align: center
 
 Entre otras se encontrara lo que es el botón de **“imprimir”:**
 
 .. image:: ../static/images/7/btnimprimir.png
+    :align: center
 
 **Facturas:** La factura es un documento que indicará una compraventa de
 un producto que se ha registrado en la compra.
 
 .. image:: ../static/images/7/facturanotadecredito.png
+    :align: center
 
 Se presenta un boton de **acciones**:
 
 .. image:: ../static/images/7/accionesnotadecredito.png
+    :align: center
 
 **Duplicar:** Duplica la información de la nota de crédito ya creada en
 el sistema.
@@ -222,6 +251,7 @@ clicar en él, el consumidor accede directamente a la página final de
 pago de nuestro producto o servicio.
 
 .. image:: ../static/images/7/enlacedepago.png
+    :align: center
 
 **Compartir:** Consiste en un enlace o URL único o abierto, que se
 genera para cada compra y que puedes compartir con tu cliente a través
@@ -229,10 +259,12 @@ de diferentes canales como correo electrónico, mensajes de texto, entre
 otros.
 
 .. image:: ../static/images/7/compartirnotadecredito.png
+    :align: center
 
 **Cambiar a reembolso/nota de crédito:**
 
 .. image:: ../static/images/7/cambiar_a_reembolso.png
+    :align: center
 
 Facturas de Reembolso de Gastos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -258,10 +290,13 @@ liquidación de compra de bienes y prestación de servicios en sustitución
 de la factura por el reembolso.
 
 .. image:: ../static/images/7/facturarembolsos.png
+    :align: center
 
 .. image:: ../static/images/7/lineafacturareembolsos.png
+    :align: center
 
 .. image:: ../static/images/7/formadepagoreembolsos.png
+    :align: center
 
 Notas de Débito
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -285,14 +320,17 @@ nota de débito se podrá validar, previsualizar, cancelarla, registrar
 pagos, etc.
 
 .. image:: ../static/images/7/borradornotadedebito.png
+    :align: center
 
 .. image:: ../static/images/7/formadepagonotadedebito.png
+    :align: center
 
 Sabemos que es una nota de crédito porque en la pestaña “Otra
 Información” existe el “Tipo de comprobante” que indica “Nota de
 Débito”.
 
 .. image:: ../static/images/7/otrainfonotadedebito.png
+    :align: center
 
 Retenciones Ventas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -321,8 +359,10 @@ superior izquierda, debajo de la opción Guardar nos aparecerá una barra
 para poder Validar .
 
 .. image:: ../static/images/7/retencionesventas.png
+    :align: center
 
 .. image:: ../static/images/7/detalleretencionventas.png
+    :align: center
 
 Detalle de Retención en Ventas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -333,6 +373,7 @@ muestra todas las retenciones en ventas de los clientes a una vista
 sencilla.
 
 .. image:: ../static/images/7/vistadetalleretencionventa.png
+    :align: center
 
 Pagos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -359,20 +400,23 @@ También el sistema permitirá imprimir el recibo de pago, el comprobante
 de pago y el cheque este último siempre y cuando el pago sea en cheques.
 
 .. image:: ../static/images/7/editarpagos.png
+    :align: center
 
 .. image:: ../static/images/7/vistapagos.png
+    :align: center
 
 En el momento de seleccionar al cliente, si existen
 pagos pendientes el sistema de manera automática nos mostrará el número
 de pagos pendientes y la cantidad de estos.
 
 .. image:: ../static/images/7/movpendientrescruce.png
+    :align: center
 
 En el caso de que se desee cancelar el asiento para volver a realizarlo,
 es necesario configurar el diario para que permita la cancelación de
 pagos (para más información dirigirse a Diarios).
 
-.. image:: ../static/images/7/cancelarasientoerror.png
+... image:: ../static/images/7/cancelarasientoerror.png
 
 Al momento de realizar un pago en cheque es necesario primero configurar
 la chequera en el sistema (para más información revisar **Chequeras** ),
@@ -384,34 +428,43 @@ la fecha del depósito, si se deja la fecha de depósito en blanco el
 sistema utilizará la fecha de pago como fecha de depósito.
 
 .. image:: ../static/images/7/pagosborrador.png
+    :align: center
 
 Imprimir: El sistema nos permitirá realizar los siguientes reportes
 ,“recibo de pago”, “cheque”.
 
 .. image:: ../static/images/7/btnimprimirnd.png
+    :align: center
 
 .. image:: ../static/images/7/opcimprimirpagos.png
+    :align: center
 
 .. image:: ../static/images/7/recibopagopdf.png
+    :align: center
 
 **Acciones:** La opción de pagos cuenta con las opciones duplicar,
 suprimir y enviar recibo por correo electrónico.
 
 .. image:: ../static/images/7/accionespago.png
+    :align: center
 
 En la parte superior encontraremos dos botones:
 
 .. image:: ../static/images/7/botonespagos.png
+    :align: center
 
 **Factura:**
 
 .. image:: ../static/images/7/facturaenpagos.png
+    :align: center
 
 .. image:: ../static/images/7/detallefacturaenpagos.png
+    :align: center
 
 **Asiento contables:**
 
 .. image:: ../static/images/7/asientoscontablespagos.png
+    :align: center
 
 **Nota:** En el caso de que se necesite crear un pago con múltiples
 facturas, primero se debe visualizar que las facturas estén en estado
@@ -421,6 +474,7 @@ Se seleccionan las facturas del mismo cliente, por consiguiente, se debe
 dirigir en la opción Acción y seleccionar Registrar Pago.
 
 .. image:: ../static/images/7/accionregistropago.png
+    :align: center
 
 Después de dar clic en la opción Registrar Pago, se debe llenar el
 formulario seleccionando la cantidad, el diario de pago, la fecha del
@@ -428,14 +482,17 @@ pago y seleccionar en la opción grupo de facturas; al finalizar dar clic
 en el botón Validar.
 
 .. image:: ../static/images/7/registrarpago.png
+    :align: center
 
 Para terminar de registrar el pago, se debe editar el nuevo formulario
 que el sistema mostrar, que es el mismo formulario de pagos, pero con la
 diferencia que es un pago de múltiples facturas.
 
 .. image:: ../static/images/7/llenarfacturaenpagos.png
+    :align: center
 
 .. image:: ../static/images/7/facturaapartirdepagos.png
+    :align: center
 
 Vehìculo
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -446,6 +503,7 @@ identificar y comunicarse con las personas asociadas con los vehículos
 en caso de necesidad.
 
 .. image:: ../static/images/7/vehiculos.png
+    :align: center
 
 Guías de Remisión
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -469,10 +527,13 @@ Al momento de generar una nueva guía se debe:
    • Al momento de seleccionar la factura, automáticamente se cargarán en ítems de guía, los datos de la factura de igual manera en Detalle electrónico.
 
 .. image:: ../static/images/7/borradorguiaderemision.png
+    :align: center
 
 .. image:: ../static/images/7/infodestinatarioguiaremision.png
+    :align: center
 
 .. image:: ../static/images/7/detalleelectronicoguiaremision.png
+    :align: center
 
 Productos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -493,6 +554,7 @@ vendido.
 |
 
 .. image:: ../static/images/7/ejemploproducto.png
+    :align: center
 
 En la esquina superior derecha podremos observar tres recuadros: Precio
 extra, Entrada y Salida, y Unidades vendidos la primera nos permite ver
@@ -502,6 +564,7 @@ en el caso de que se archive este producto no aparecerá en las compras o
 ventas hasta que se desarchive.
 
 .. image:: ../static/images/7/botonesproductos.png
+    :align: center
 
 **Información General:** Se permitirá ingresar detalles específicos del
 producto y también dejará notas para una mejor referencia como el tipo
@@ -512,6 +575,7 @@ precio al por mayor, el impuesto a cliente y el costo; también se podrá
 añadir una nota interna.
 
 .. image:: ../static/images/7/infogeneralproductos.png
+    :align: center
 
 
 **Compra:** Esta opción sólo aparecerá si está marcado ‘Puede ser
@@ -519,23 +583,27 @@ Comprado’ y especificará el número de impuesto del proveedor para
 futuras facturas.
 
 .. image:: ../static/images/7/compraproductos.png
+    :align: center
 
 **Inventario:** Permitirá ingresar cómo será
 la operación y logística de dicho producto, agregar descripción para
 pedidos de entrega y recepciones.
 
 .. image:: ../static/images/7/inventarioproductos.png
+    :align: center
 
 **Contabilidad:** Permite
 seleccionar la cuenta de ingreso (A cobrar) y la cuenta de gastos (A
 pagar) de dicho producto.
 
 .. image:: ../static/images/7/contabilidadproductos.png
+    :align: center
 
 También el sistema permitirá imprimir en este caso la etiqueta del
 producto y el código de barra del producto.
 
 .. image:: ../static/images/7/imprimiretiquetas.png
+    :align: center
 
 Clientes
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -550,12 +618,13 @@ aparecerá en la opción de cliente si y sólo si está marcada la opción en
 Ventas y Compras el ítem de ‘Es Cliente’.
 
 .. image:: ../static/images/7/contabilidadclientes.png
-
+    :align: center
 
 Proveedores
 ---------------
 
 .. image:: ../static/images/7/moduloproveedores.png
+    :align: center
 
 Facturas/Proveedores
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -569,6 +638,7 @@ toda la información de la operación. Al momento de seleccionar la
 pestaña, se permitirá crear facturas, eliminarlas, etc.
 
 .. image:: ../static/images/7/facturaproveedor.png
+    :align: center
 
 Se procedera a llenar los campos obligatorios (campos de color azul), es
 importante añadir el número de la factura, el número de la autorización,
@@ -583,6 +653,7 @@ retenciones que se realizarán en las facturas agregadas y el digito
 cambiará según la secuencia establecida.
 
 .. image:: ../static/images/7/detallefactproveedor.png
+    :align: center
 
 Las líneas de factura, sirven para agregar los productos a la factura, para agregar un
 producto dar clic en “Agregar línea”, automáticamente puedes seleccionar
@@ -599,6 +670,7 @@ de dicho producto y el subtotal dependerá de la suma de : cantidad +
 precio del producto + descuento + impuestos.
 
 .. image:: ../static/images/7/montototalproveedor.png
+    :align: center
 
 En el caso de que la factura exceda los mil dólares, el sistema le
 notificará que se debe crear una forma de pago para dicha factura, esta
@@ -607,16 +679,19 @@ hacer clic en agregar línea, se selecciona la forma de dicho pago para
 esa factura, el total, los plazos y la unidad de tiempo.
 
 .. image:: ../static/images/7/formadepagoproveedor.png
+    :align: center
 
 La factura se rige por los siguientes estados: “Borrador”, “Publicado”.
 
 .. image:: ../static/images/7/estadofactproveedor.png
+    :align: center
 
 Para cambiar el estado de la factura, se deberá hacer lo siguiente: se
 dirige a la esquina superior izquierda, donde nos encontraremos con los
 siguientes botones.
 
 .. image:: ../static/images/7/botonestadosproveedor.png
+    :align: center
 
 **Confirmar:** Antes de validar la factura del proveedor es necesario
 hacer clic en esta opción, ya que nos ayuda a guardar el cálculo de los
@@ -626,13 +701,16 @@ impuestos y añade las líneas correspondientes en retenciones.
 documento.
 
 .. image:: ../static/images/7/cancelarfactproveedor.png
+    :align: center
 
 **Imprimir:** Esta opción nos permite realizar el reporte de
 la factura realizada.
 
 .. image:: ../static/images/7/imprimirfactproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/factproveedorpdf.png
+    :align: center
 
 **Comprobante:** Imprime un archivo PDF que muestra los datos de los
 asientos contables.
@@ -652,6 +730,7 @@ vista el tipo de método de pago del cual se podrá seleccionar de manera
 manual o cheque.
 
 .. image:: ../static/images/7/registrarpagoproveedor.png
+    :align: center
 
 Al momento de registrar el pago tenemos lo que es el campo de cuenta
 contable de pago que se dará ayuda indicando a qué cuenta contable se
@@ -673,6 +752,7 @@ la factura se sumará con el valor pendiente dando como resultado un
 monto total diferente.
 
 .. image:: ../static/images/7/montototalapagarproveedor.png
+    :align: center
 
 **Agregar nota de crédito:** Esta opción permite la creación de notas de
 crédito de manera rápida y sencilla, si la factura está ingresada al
@@ -682,14 +762,17 @@ crédito. El proceso es simple: se selecciona el método de crédito (en
 este caso es el número de la factura) y la fecha de la nota de crédito.
 
 .. image:: ../static/images/7/agregarnotadecreditoproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/crearnotadedebitoproveedor.png
+    :align: center
 
 **Cancelar:** Permite la cancelación de la factura enviando la misma en
 un estado adicional llamado cancelado, dicho estado sólo aparecerá si se
 canceló la factura.
 
 .. image:: ../static/images/7/estadocancelarproveedor.png
+    :align: center
 
 | Cuando la factura está en este estado, solo mostrará los siguientes
   botones: “Documento Electrónico”, “ Previsualizar” y “Cambiar a
@@ -701,12 +784,14 @@ canceló la factura.
   después de válida cuando esté completada.
 
 .. image:: ../static/images/7/grabardescartarproveedor.png
+    :align: center
 
 **Nota:** Cuando la factura se encuentra en los estados “Validado” o
 “Cancelado”, nos mostrará dentro de la vista de la factura los
 siguientes botones.
 
 .. image:: ../static/images/7/botonesfactproveedores.png
+    :align: center
 
 La primera opción mostrará las retenciones creadas que correspondan a
 dicha factura.
@@ -720,8 +805,10 @@ de los destinatarios designados, dichos destinatarios deben tener
 registrado su correo electrónico en su perfil de contacto.
 
 .. image:: ../static/images/7/accionesproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/compartirdocproveedor.png
+    :align: center
 
 **Procesar XML:** Esta opción permitirá procesar datos de un documento
 con extensión XML al sistema; primero se debe subir el archivo y después
@@ -731,7 +818,7 @@ manera automática los datos de este y los utilizará a la vez en el
 documento.
 
 .. image:: ../static/images/7/subirxmlproveedor.png
-
+    :align: center
 
 Notas de Crédito
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -755,10 +842,14 @@ de débito. La nota de crédito podremos validarla, previsualizarla,
 cancelarla, registrar pagos, etc.
 
 .. image:: ../static/images/7/notacreditoproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/detallefacturasproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/formapagoproveedor.png
+    :align: center
+
 Retenciones Compras
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -788,10 +879,14 @@ aparecerá una barra para poder validar , y generar el documento
 electrónico.
 
 .. image:: ../static/images/7/barraretencioncompras.png
+    :align: center
 
 .. image:: ../static/images/7/ejemploretencionesencompras.png
+    :align: center
 
 .. image:: ../static/images/7/detalleelectronicoretencion.png
+    :align: center
+
 Detalle de Retenciones en Compras
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -802,6 +897,7 @@ Como su propio nombre lo indica, muestra todas las retenciones en
 compras de los proveedores a una vista sencilla.
 
 .. image:: ../static/images/7/detalleretencionencompras.png
+    :align: center
 
 Liquidaciones de Compras
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -832,6 +928,7 @@ validar la liquidación de compra, previsualizar, cancelar, registrar
 pagos, generar notas de créditos, etc.
 
 .. image:: ../static/images/7/liquidacioncompras.png
+    :align: center
 
 Pagos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -860,8 +957,10 @@ de pago y el cheque, este último siempre y cuando el pago sea en
 cheques.
 
 .. image:: ../static/images/7/pagosvistaproveedor.png
+    :align: center
 
 .. image:: ../static/images/7/listviewproveedores.png
+    :align: center
 
 En el momento de seleccionar al cliente, si existen pagos
 pendientes el sistema de manera automática nos mostrará el número de
@@ -872,6 +971,7 @@ permitirá realizar un seguimiento de los gastos se deberá cancelar la
 proporción del impuesto que tuvo vigente de aquel año.
 
 .. image:: ../static/images/7/pagoavanzadoproveedores.png
+    :align: center
 
 Para realizar un pago en cheque es necesario primero configurar la
 cuenta bancaria y chequera en el sistema (para más información revisar
@@ -886,22 +986,27 @@ utilizará la fecha de pago como fecha de depósito.
 **Imprimir:** El sistema permitirá realizar los siguientes reportes.
 
 .. image:: ../static/images/7/btnimprimirnd.png
+    :align: center
 
 .. image:: ../static/images/7/opcionesimprimirproveedores.png
+    :align: center
 
 **Recibo de pago:** El recibo de pago es la transacción realizada donde
 se especificará la cantidad que el cliente ha comprado.
 
 .. image:: ../static/images/7/recibodepagoproveedor.png
+    :align: center
 
 **Cheque:** Específica en diseño de cuanto es el monto.
 
 .. image:: ../static/images/7/chequeproveedor.png
+    :align: center
 
 **Acciones:** La opción de pagos cuenta con las opciones de duplicar,
 suprimir y enviar recibo por correo.
 
 .. image:: ../static/images/7/accionespago.png
+    :align: center
 
 Productos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -919,11 +1024,13 @@ Se puede añadir una imagen o foto que identifica el producto, el nombre
 del producto y si el producto puede ser vendido o puede ser comprado.
 
 .. image:: ../static/images/7/ejemploproductoproveedor.png
+    :align: center
 
 En la esquina superior derecha podremos observar 6 recuadros: precios
 extra, a mano , previsto, entrada y salida, regla de reabastecer.
 
 .. image:: ../static/images/7/botonesproveedorvista.png
+    :align: center
 
 **Información General:** Permitir ingresar detalles específicos del
 producto y también dejar notas para una mejor referencia como el tipo de
@@ -934,29 +1041,34 @@ impuesto al cliente y el costo; también se podrá añadir una nota
 interna.
 
 .. image:: ../static/images/7/infogeneralproductos.png
+    :align: center
 
 **Compra:** Esta opción sólo aparecerá si está marcado ‘Puede ser
 Comprado’ y especifica el número de impuesto del proveedor para futuras
 facturas.
 
 .. image:: ../static/images/7/apartadocompraproveedor.png
+    :align: center
 
 **Inventario:** Nos permite ingresar cómo será la operación y logística
 de dicho producto, agregar descripción para pedidos de entrega y
 recepciones.
 
 .. image:: ../static/images/7/apartadoinventarioproveedor.png
+    :align: center
 
 **Contabilidad:** Permite seleccionar la cuenta de ingreso (A cobrar) y
 la cuenta de gastos (A pagar) de dicho producto.
 
 .. image:: ../static/images/7/apartadocontabilidadproveedor.png
+    :align: center
 
 También el sistema en la parte superior en las izquierda nos permite
 imprimir en este caso la etiqueta del producto , actualización de
 cantidad y reabastecer .
 
 .. image:: ../static/images/7/imprimiretiquetasproveedor.png
+    :align: center
 
 Proveedores
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -971,25 +1083,30 @@ contacto aparecerá en la opción de cliente si y sólo si está marcada la
 opción en Ventas y Compras el ítem de ‘Es Proveedor’.
 
 .. image:: ../static/images/7/moduloproveedores.png
+    :align: center
 
 En la parte superior encontrarás en boton “Accion”:
 
 .. image:: ../static/images/7/btnaccionproveedor.png
+    :align: center
 
 **Archivar:** En esta opción al momento de dar click te aparecera si
 desea guardar (aceptar o cancelar)
 
 .. image:: ../static/images/7/opcarchivarproveedor.png
+    :align: center
 
 **Mandar mensaje de texto SMS:** Permite enviar mensajes de texto tanto
 al destinatario .
 
 .. image:: ../static/images/7/opcmandasmsproveedor.png
+    :align: center
 
 **Libro mayor:** Permite registrar los datos o movimientos de cuentas
 que se han realizado con el cliente.
 
 .. image:: ../static/images/7/opclibromayorproveedor.png
+    :align: center
 
 En la parte inferior podrás encontrar los siguientes botones Ver
 ,Exportar a PDF ,Exportar a XLSX y Cancelar.
@@ -998,6 +1115,7 @@ En la parte inferior podrás encontrar los siguientes botones Ver
 las cuentas con mayor facilidad para el usuario.
 
 .. image:: ../static/images/7/opcextractoclienteproveedor.png
+    :align: center
 
 En la parte inferior podrás encontrar los siguientes botones Ver
 ,Exportar a PDF ,Exportar a XLSX y Cancelar.
@@ -1007,6 +1125,7 @@ del sistema ya registrada el contacto, correo electrónico,etc. Y luego
 de terminar de llenar correctamente se podrá dar acceso al portal.
 
 .. image:: ../static/images/7/accesoalportalproveedor.png
+    :align: center
 
 
 Contabilidad
@@ -1023,16 +1142,17 @@ Esta opción permite generar los diferentes documentos electrónicos que
 hayan emitido.
 
 .. image:: ../static/images/7/cargadocelectronico.png
-
+    :align: center
 
 1) Dirigirse al SRI y descargar el archivo de documento a cargarse.
 
 .. image:: ../static/images/7/documentosriacargar.png
-
+    :align: center
 
 2) Cargar dicho archivo (Subir Archivo) y dar clic en Cargar.
 
 .. image:: ../static/images/7/cargareldocelectronico.png
+    :align: center
 
 3) Los documentos cargados, se generarán en estado borrador para su
    respectiva revisión, para visualizar los documentos generados se debe
@@ -1040,7 +1160,7 @@ hayan emitido.
    vista en “Análisis de Facturas”.
 
 .. image:: ../static/images/7/documentosgeneradossri.png
-
+    :align: center
 
 Cada documento generado por este medio se registrará según su tipo, por
 ejemplo: Si los documentos generados son Facturas, estas se podrán
@@ -1068,6 +1188,7 @@ ingresar el saldo anterior, los ingresos, egresos e inmediatamente
 calcula el saldo actual.
 
 .. image:: ../static/images/7/crearconciliacionbancaria.png
+    :align: center
 
 **Nota:** En la parte superior
 tenemos la opción de “Confirmar todos”, “Borrar no conciliados”,
@@ -1077,6 +1198,7 @@ tenemos la opción de “Confirmar todos”, “Borrar no conciliados”,
 cerrado.
 
 .. image:: ../static/images/7/borradorcerrarconciliaciones.png
+    :align: center
 
 **Confirmar todos:** Confirma todos los asientos que se encuentran
 dentro de la conciliación.
@@ -1095,6 +1217,7 @@ confirmar dicha conciliación, sólo aparecerá dicha conciliación si y
 sólo si está confirmada.
 
 .. image:: ../static/images/7/conciliacionesasientos.png
+    :align: center
 
 **Importante:** Para realizar una correcta conciliación, es necesario:
 
@@ -1109,6 +1232,7 @@ sólo si está confirmada.
 En la parte inferior tenemos varias opciones:
 
 .. image:: ../static/images/7/barraopcionesconciliar.png
+    :align: center
 
 **Cuentas:** Permite agregar líneas en el diario de asientos
 contables.
@@ -1117,6 +1241,7 @@ contables.
 incluidos por el Banco.
 
 .. image:: ../static/images/7/noincluidosBanco.png
+    :align: center
 
 
 **Cheques G/NC:** Detalla los cheques girados y no cobrados.
@@ -1125,6 +1250,7 @@ incluidos por el Banco.
 el Banco
 
 .. image:: ../static/images/7/debitosnoregistradosBanco.png
+    :align: center
 
 **D/OC no incluidos-Libros:** Detalla los depósitos y otros créditos no
 incluidos en Libros.
@@ -1150,8 +1276,10 @@ un documento se encuentra en un estado borrador, el asiento se generará
 como no asentado.
 
 .. image:: ../static/images/7/asientocontablepublicado.png
+    :align: center
 
 .. image:: ../static/images/7/otrainfoasientoscontables.png
+    :align: center
 
 **Publicar automáticamente reversión de:** Al marcar la casilla lo que
 hará es que el asiento contable se valide automáticamente en la fecha.
@@ -1165,10 +1293,12 @@ defecto.
 **Asiento de reversión:** Permite revertir el asiento seleccionado.
 
 .. image:: ../static/images/7/asientodereversion.png
+    :align: center
 
 El sistema nos permite realizar las siguientes acciones:
 
 .. image:: ../static/images/7/accionesasientoscontables.png
+    :align: center
 
 **Duplicar:** Duplica el asiento seleccionado.
 
@@ -1209,20 +1339,24 @@ El sistema Contigo genera los apuntes contables según el asiento
 contable.
 
 .. image:: ../static/images/7/editarapuntecontable.png
+    :align: center
 
 El sistema permite realizar las siguientes acciones:
 
 .. image:: ../static/images/7/accionesapuntescontables.png
+    :align: center
 
 **Suprimir:** Elimina el apunte contable.
 
 .. image:: ../static/images/7/suprimirapuntecontable.png
+    :align: center
 
 **Entradas automáticas:** Permite registrar/crear asientos contables de
 forma automática para la respectiva utilización de estos en los diarios
 contables.
 
 .. image:: ../static/images/7/entradasautomaticasapuntescontables.png
+    :align: center
 
 **NOTA:** La creación de asientos contables automáticos sólo se puede
 realizar en asientos contables no conciliados.
@@ -1234,6 +1368,7 @@ Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Acciones** la opción **Conciliación.**
 
 .. image:: ../static/images/7/accion_conciliacion.png
+    :align: center
 
 **CONCILIAR:** Esta opción permite realizar el respectivo
 cruce de las diferentes cuentas; tanto las cuentas por cobrar como las
@@ -1245,13 +1380,16 @@ parte de abajo el nombre del cliente o proveedor con los respectivos
 montos para su cruce.
 
 .. image:: ../static/images/7/nombreusuarioconciliar.png
+    :align: center
 
 .. image:: ../static/images/7/cporcclientes.png
+    :align: center
 
 En el caso de que estén múltiples movimientos pendientes, el sistema
 proporciona un filtro para cada cliente o proveedor.
 
 .. image:: ../static/images/7/filtrobusquedaapuntecontables.png
+    :align: center
 
 Si se desea saber cuántos cruces hay pendientes en el sistema, solo nos
 fijamos en la parte derecha superior del sistema; habrá una barra que
@@ -1259,18 +1397,20 @@ indicará el número de cruces pendientes a realizar, en este ejemplo
 podremos observar que tenemos 1 conciliación a realizar.
 
 .. image:: ../static/images/7/pendientesaconciliar.png
+    :align: center
 
 Para realizar el cruce es necesario crear un saldo, dependiendo del
 monto de este, nos permitirá conciliar o no.
 
 .. image:: ../static/images/7/saldoparaconciliar.png
+    :align: center
 
 Si se desea omitir dicho cruce, solo se debe dar clic en la opción
 Saltar, de esta manera no aparecerán dichos movimientos pendientes a
 conciliar.
 
 .. image:: ../static/images/7/omitirconciliacion.png
-
+    :align: center
 **Importante:** Antes de realizar cualquier documento dentro del
 sistema, se debe configurar los respectivos diarios (para más
 información revisar **Diarios**).
@@ -1290,6 +1430,7 @@ Para evitar estos errores se bloquea la posibilidad de crear o modificar
 todo lo anterior a la fecha que se escoja.
 
 .. image:: ../static/images/7/actualizarfechabloqueo.png
+    :align: center
 
 Gestión de Chequeras / Chequeras
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1312,6 +1453,7 @@ cuenta bancaria), número inicial, número final, el relleno (número de
 datos que irán en los cheques).
 
 .. image:: ../static/images/7/borradorchequeras.png
+    :align: center
 
 Para generar los cheques de dicha chequera es necesario dar clic en la
 opción Revisar, de manera automática el sistema generará los cheques con
@@ -1320,19 +1462,23 @@ cheques, ya no será posible editar los datos anteriores para su
 creación.
 
 .. image:: ../static/images/7/btnrevisarchequera.png
+    :align: center
 
 .. image:: ../static/images/7/chequesgeneradoschequera.png
-
+    :align: center
 **Información:** Permite agregar una nota.
 
 .. image:: ../static/images/7/apartadoinformacionchequeras.png
+    :align: center
 
 Para poder utilizar los cheques generados, es necesario dar clic en la
 opción Activar.
 
 .. image:: ../static/images/7/btnactivarchequeras.png
+    :align: center
 
 .. image:: ../static/images/7/chequeraactiva.png
+    :align: center
 
 **Nota:** Si se desea cancelar la chequera, es necesario indicar el
 motivo de su cancelación y después de eso dar clic en la opción cancelar
@@ -1341,14 +1487,17 @@ querer volver a utilizar la chequera, se deberá dar clic en la opción
 volver a borrador.
 
 .. image:: ../static/images/7/razondecancelacionchequeras.png
+    :align: center
 
 Si se desea inactivar la chequera, más no cancelarla, es necesario dar
 clic en la opción hibernar la chequera, de manera automática los cheques
 que no se han utilizado quedarán inactivos.
 
 .. image:: ../static/images/7/btnreactivarchequera.png
+    :align: center
 
 .. image:: ../static/images/7/estadoinactivochequera.png
+    :align: center
 
 Gestión de Chequeras / Cheques de Proveedores
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1361,8 +1510,10 @@ Si el pago que realizó un proveedor fue por medio de un cheque; dicho
 pago aparecerá en esta vista.
 
 .. image:: ../static/images/7/gestiodechequeras.png
+    :align: center
 
 .. image:: ../static/images/7/vistaeditarchequera.png
+    :align: center
 
 Diarios Contables /Ventas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1371,11 +1522,13 @@ Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 **Contabilidad** y buscar en **Diarios Contables** la opción **Ventas.**
 
 .. image:: ../static/images/7/diarioscontablesventasview.png
+    :align: center
 
 Al seleccionar registros nos aparecen acciones que podemos realizar
 según nuestra necesidad:
 
 .. image:: ../static/images/7/accionesdiarioscontables.png
+    :align: center
 
 **Exportar:** Permite descargar los datos en un archivo excel o en un
 archivo csv.
@@ -1394,10 +1547,13 @@ Existe la opción de exportar todos los registros dentro de este apartado
 en un archivo excel:
 
 .. image:: ../static/images/7/localizacionpaisesdescarga.png
+    :align: center
 
 .. image:: ../static/images/7/exceldiariocontable.png
+    :align: center
 
 .. image:: ../static/images/7/vistaexceldiariocontable.png
+    :align: center
 
 Dentro de Ventas se pueden visualizar diferentes vistas como poder ver
 los registros e interactuar con ellos:
@@ -1405,27 +1561,32 @@ los registros e interactuar con ellos:
 1) **Vista Lista:** Muestra los datos en forma de listado
 
    .. image:: ../static/images/7/viewlistdiariocontable.png
+    :align: center
 
 2) **Tabla Dinámica:** Muestra los datos en forma de tabla que permite
    interactuar con los ejes y cambiar los datos (medidas), también nos
    permite descargar un XML
 
    .. image:: ../static/images/7/tabladinamicadiariocontableventas.png
+    :align: center
 
    .. image:: ../static/images/7/excelvistadinamica.png
+    :align: center
 
 3) **Vista Gráfica:** Permite visualizar los datos en diferentes
    diagramas gráficos de manera ascendente y descendente.
 
    .. image:: ../static/images/7/vistagrafica.png
+    :align: center
 
    .. image:: ../static/images/7/tipodevistagrafica.png
+    :align: center
 
 4) **Vista Kanban:** vista basada en tarjeta en la que se muestran los
    datos de manera organizada para una mejor comprensión.
 
    .. image:: ../static/images/7/vistakanbandiarioscontablesventas.png
-
+    :align: center
 
 Diarios Contables /Compras
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1438,11 +1599,13 @@ Al igual que el apartado anterior muestra opciones/filtros de búsqueda,
 diferentes maneras de visualizar los registros.
 
 .. image:: ../static/images/7/diariocontablescompras.png
+    :align: center
 
 Al seleccionar registros aparecen acciones que podemos realizar según
 nuestra necesidad:
 
 .. image:: ../static/images/7/accionesdiarioscompras.png
+    :align: center
 
 **Exportar:** Permite descargar los datos en un archivo excel o en un
 archivo csv.
@@ -1461,15 +1624,19 @@ Existe la opción de exportar todos los registros dentro de este apartado
 en un archivo excel:
 
 .. image:: ../static/images/7/localizacionparroquiasdescarga.png
+    :align: center
 
 .. image:: ../static/images/7/exceldiariocontable.png
+    :align: center
 
 .. image:: ../static/images/7/exceldescargadiariocontcompras.png
+    :align: center
 
 Se visualiza una barra de búsqueda en la que se puede filtrar los datos
 para obtener lo que se conoce como una búsqueda personalizada:
 
 .. image:: ../static/images/7/barrabusquedacompras.png
+    :align: center
 
 Dentro de Compras obtenemos diferentes vistas de como poder visualizar
 los registros e interactuar con ellos:
@@ -1477,26 +1644,32 @@ los registros e interactuar con ellos:
 1) **Vista Lista:** Muestra los datos en forma de listado
 
    .. image:: ../static/images/7/viewlistcompras.png
+    :align: center
 
 2) **Tabla Dinámica:** Muestra los datos en forma de tabla que permite
    interactuar con los ejes y cambiar los datos (medidas), también nos
    permite descargar un XML
 
    .. image:: ../static/images/7/tabladinamicacompras.png
+    :align: center
 
    .. image:: ../static/images/7/excelvistadinamicacompras.png
+    :align: center
 
 3) **Vista Gráfica:** Permite visualizar los datos en diferentes
    diagramas gráficos de manera ascendente y descendente.
 
    .. image:: ../static/images/7/vistagraficacompras.png
+    :align: center
 
    .. image:: ../static/images/7/tipodevistagraficacompras.png
+    :align: center
 
 4) **Vista Kanban:** vista basada en tarjeta en la que se muestran los
    datos de manera organizada para una mejor comprensión.
 
    .. image:: ../static/images/7/vistakanbancompras.png
+    :align: center
 
 Diarios Contables /Banco y Efectivo
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1509,6 +1682,7 @@ Un diario contable es un registro detallado de todas las transacciones
 financieras de una empresa o entidad en un orden cronológico.
 
 .. image:: ../static/images/7/bancoyefectivo.png
+    :align: center
 
 **Diario de Banco:** Este diario registra todas las transacciones
 relacionadas con las cuentas bancarias de la empresa. Incluye depósitos,
@@ -1524,6 +1698,7 @@ Al seleccionar registros nos aparecen acciones que podemos realizar
 según nuestra necesidad:
 
 .. image:: ../static/images/7/accionbancoefectivo.png
+    :align: center
 
 **Exportar:** Permite descargar los datos en un archivo excel o en un
 archivo csv.
@@ -1542,15 +1717,19 @@ Al igual que el apartado anterior se muestra opciones/filtros de
 búsqueda, diferentes maneras de visualizar los registros.
 
 .. image:: ../static/images/7/filtrobusquedabancoefectivo.png
+    :align: center
 
 Existe la opción de exportar todos los registros dentro de este apartado
 en un archivo excel:
 
 .. image:: ../static/images/7/localizacionpaisesdescarga.png
+    :align: center
 
 .. image:: ../static/images/7/exceldiariocontable.png
+    :align: center
 
 .. image:: ../static/images/7/excelbancoefectivo.png
+    :align: center
 
 Dentro de Compras obtenemos diferentes vistas como poder visualizar los
 registros e interactuar con ellos:
@@ -1558,21 +1737,26 @@ registros e interactuar con ellos:
 1) **Vista Lista:** Muestra los datos en forma de listado
 
    .. image:: ../static/images/7/vistalistabancoefectivo.png
+    :align: center
 
 2) **Tabla Dinámica:** Muestra los datos en forma de tabla que permite
    interactuar con los ejes y cambiar los datos (medidas), también nos
    permite descargar un XML
 
    .. image:: ../static/images/7/tabladinamicabancoefectivo.png
+    :align: center
 
    .. image:: ../static/images/7/tabladinamicabancoefectivoexcel.png
+    :align: center
 
 3) **Vista Gráfica:** Permite visualizar los datos en diferentes
    diagramas gráficos de manera ascendente y descendente.
 
    .. image:: ../static/images/7/vistagraficabancoefectivo.png
+    :align: center
 
    .. image:: ../static/images/7/tipovistagraficabancoefectivo.png
+    :align: center
 
 4) **Vista Kanban:** vista basada en tarjeta en la que se muestran los
    datos de manera organizada para una mejor comprensión.
@@ -1601,6 +1785,7 @@ meses trabajados, se podrá ver tanto el valor facturado de los
 proveedores como el de los clientes.
 
 .. image:: ../static/images/7/administracionanalisisdefacturas.png
+    :align: center
 
 Administración / Cuentas por Pagar
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1616,6 +1801,7 @@ hacia nuestros clientes/proveedores y observar los pagos pendientes de
 realizar.
 
 .. image:: ../static/images/7/cuentasporpagar.png
+    :align: center
 
 Administración / Cuentas por Cobrar
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1631,6 +1817,7 @@ hacia nuestros clientes/proveedores y observar los cobros pendientes de
 realizar.
 
 .. image:: ../static/images/7/Administracioncuentasporcobrar.png
+    :align: center
 
 Administración / Información de Ventas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1649,6 +1836,7 @@ mostrar los valores anulados o puede elegir los tres, después de
 presionar en “Generar Reporte” se descargará un archivo.
 
 .. image:: ../static/images/7/administracioninformedeventas.png
+    :align: center
 
 Administración / Información de Compras
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1666,8 +1854,10 @@ valores anulados o puede elegir los tres, después de presionar en
 “Generar Reporte” se descargará un archivo.
 
 .. image:: ../static/images/7/admiformaciondecompras.png
+    :align: center
 
 .. image:: ../static/images/7/informaciondeCompras.png
+    :align: center
 
 Informes de Contabilidad OCA/Libro mayor
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1701,12 +1891,13 @@ impuestos, empresas, referencias, cuentas analiticas, el debe, el haber
 y el saldo acumulado
 
 .. image:: ../static/images/7/informaciondeCompras.png
-
+    :align: center
 
 Informes de Contabilidad OCA/Libro diario
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../static/images/7/informesdecontabilidadOCAlibrodiario.png
+    :align: center
 
 Ingresar al módulo de **Contabilidad**, posteriormente
 seleccionar **Informe** y buscar en **Informes** de Contabilidad OCA la
@@ -1730,8 +1921,10 @@ Ref. Etiqueta, los impuestos, el debe, el haber, actual, importe monedas
 
 
 .. image:: ../static/images/7/librodiario.png
+    :align: center
 
 .. image:: ../static/images/7/diariodecontabilidad.png
+    :align: center
 
 Informes de Contabilidad OCA/Balance de Sumas y Saldos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1759,8 +1952,10 @@ el filtro periodo, el filtro movimiento destino, el filtrar por cuenta 0
 y limitar niveles de jerarquía.
 
 .. image:: ../static/images/7/balancedesumasysaldo.png
+    :align: center
 
 .. image:: ../static/images/7/balancedesumaysaldo.png
+    :align: center
 
 Informes de Contabilidad OCA/Pérdidas y Ganancias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1796,10 +1991,13 @@ XLS, se mostrará una tabla con las fechas, el codigo,la cuenta, el
 balance, balance inicial y balance final
 
 .. image:: ../static/images/7/perdidasyganancias.png
+    :align: center
 
 .. image:: ../static/images/7/perdidasygananciass.png
+    :align: center
 
 .. image:: ../static/images/7/perdidayganancia.png
+    :align: center
 
 Informes de Contabilidad OCA/Balance General
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1823,8 +2021,10 @@ código … A … que mostrara desde que código hasta que código, al final
 puedes mostrar la tabla o exportar a XLS o a Pdf,
 
 .. image:: ../static/images/7/balancegeneral.png
+    :align: center
 
 .. image:: ../static/images/7/balancesgeneral.png
+    :align: center
 
 Informes de Contabilidad OCA/Partidas abiertas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1849,8 +2049,10 @@ hasta que código, al final puedes mostrar la tabla o importarla a XLS o
 a Pdf
 
 .. image:: ../static/images/7/partidasabierta.png
+    :align: center
 
 .. image:: ../static/images/7/partidasabiertas.png
+    :align: center
 
 Informes de Contabilidad OCA/Calidad de la deuda
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1872,8 +2074,10 @@ Desde código … A … que permite mostrar desde qué código ya hasta que
 código, al final puedes mostrar la tabla o importarla a XLS o a Pdf.
 
 .. image:: ../static/images/7/calidaddeladeuda.png
+    :align: center
 
 .. image:: ../static/images/7/calidaddeladeudas.png
+    :align: center
 
 Informes de Contabilidad OCA/Informe de Impuestos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1895,8 +2099,10 @@ importarla a XLS o a Pdf, esto mostrará una tabla conformada por los
 códigos, el nombre, el valor neto y el impuesto
 
 .. image:: ../static/images/7/informesdeimpuesto.png
+    :align: center
 
 .. image:: ../static/images/7/informesdeimpuestos.png
+    :align: center
 
 **NOTA**: Los campos en color celeste son campos obligatorios.
 
@@ -1913,21 +2119,25 @@ Una vez seleccionadas las opciones deseadas por el usuario, nos muestra
 tres alternativas:
 
 .. image:: ../static/images/7/infodeimpuestos.png
+    :align: center
 
 **Ver**: Se redirige al usuario dentro del
 sistema a una página para que pueda visualizar el balance.
 
 .. image:: ../static/images/7/infodeimpuestosrio.png
+    :align: center
 
 **Exportar PDF**: Se descarga la información en un archivo pdf para su
 visualización.
 
 .. image:: ../static/images/7/informedeimpuestosexportarpdf.png
+    :align: center
 
 **Exportar XLSX** : Se descarga la información
 en un archivo de excel.
 
 .. image:: ../static/images/7/informedeimpuestoexportarxlsx.png
+    :align: center
 
 Reportes Financieros/Plan Contable
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1945,8 +2155,10 @@ de seleccionar el nivel en el plan contable por ejemplo 5, el reporte
 mostrará desde el nivel 1 hasta el nivel 5.
 
 .. image:: ../static/images/7/reporfinancierosplancontable.png
+    :align: center
 
 .. image:: ../static/images/7/plancontable.png
+    :align: center
 
 SRI/Generar y Exportar A.T.S.
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1961,8 +2173,10 @@ abrirá una nueva ventana en donde tendremos que descargar el XML
 generado.
 
 .. image:: ../static/images/7/exportarats.png
+    :align: center
 
 .. image:: ../static/images/7/exportar.png
+    :align: center
 
 
 
@@ -1986,6 +2200,7 @@ encuentran todas las cuentas requeridas para tu negocio; el sistema
 contigo te permite crearlas para utilizarlas posteriormente.
 
 .. image:: ../static/images/7/contabilidadplandecuentas.png
+    :align: center
 
 Al momento de generar una nueva cuenta, es necesario añadir el código de
 esta, si depende de una cuenta padre, el nombre de la cuenta, el tipo de
@@ -1995,12 +2210,15 @@ cuenta padre, indicará el nivel de manera automática), búsqueda rápida y
 habilitarla para que pueda ser utilizada dentro del sistema.
 
 .. image:: ../static/images/7/contaplandecuentas.png
+    :align: center
 
 .. image:: ../static/images/7/configuracionplandecuentas.png
+    :align: center
 
 El sistema nos permite realizar las siguientes acciones:
 
 .. image:: ../static/images/7/contplandecuentasaccion.png
+    :align: center
 
 **Duplicar**: Nos permite duplicar dicho registro.
 
@@ -2019,18 +2237,21 @@ impuesto es necesario añadir el nombre de este y el ámbito del impuesto
 (compra, venta, ninguno y ajustes).
 
 .. image:: ../static/images/7/contabilidadimpuestos.png
+    :align: center
 
 **Definición:** De igual manera se debe añadir el cálculo del impuesto,
 el importe, la cuenta de impuestos y la cuenta de impuestos en notas de
 crédito.
 
 .. image:: ../static/images/7/contabilidadimpuestosdefinicion.png
+    :align: center
 
 **Opciones avanzadas:** Se añade la etiqueta que tendrá en facturas, el
 grupo de impuestos, etiquetas, si incluye en el precio, si contiene base
 imponible de impuestos subsiguientes.
 
 .. image:: ../static/images/7/contabilidadimpuestoavanzado.png)
+    :align: center
 
 Contabilidad / Posiciones Fiscales
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2048,23 +2269,27 @@ del lado derecho, esto indica si se debe aplicar automáticamente esta
 posición fiscal.
 
 .. image:: ../static/images/7/posicionesfiscales.png
+    :align: center
 
 **Mapeo de impuestos:** Se agregan los impuestos que incluirá la
 posición fiscal, se añade el impuesto sobre el producto y el impuesto
 para aplicar.
 
 .. image:: ../static/images/7/mapeodeimpuesto.png
+    :align: center
 
 **Mapeo de cuentas:** Se agregan las cuentas que incluirá la
 posición fiscal, se añade la cuenta del producto y la cuenta
 alternativa.
 
 .. image:: ../static/images/7/mapeodecuentas.png
+    :align: center
 
 Si se desea añadir alguna advertencia, se procede a llenar la
 casilla de Advertencia legal.
 
 .. image:: ../static/images/7/advertencialegal.png
+    :align: center
 
 Contabilidad / Grupos de Diarios
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2075,6 +2300,7 @@ gestionar las transacciones financieras de una empresa de manera más
 eficiente.
 
 .. image:: ../static/images/7/contabilidadgrupodiarios.png
+    :align: center
 
 Contabilidad / Diarios Contables
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2098,6 +2324,7 @@ de crédito, si contiene un producto en descuento y el tipo de cuenta
 bancaria.
 
 .. image:: ../static/images/7/contabilodaddiarioscontables.png
+    :align: center
 
 **Configuración avanzada:** Se indica el método de pago para los pagos
 recibidos de dicho diario (manual o electrónico), para pagos salientes
@@ -2106,6 +2333,7 @@ desea mostrar la cuenta, si permite la cancelación de asientos y si se
 valida en la conciliación bancaria.
 
 .. image:: ../static/images/7/contabilidadconfiguracionavanzada.png
+    :align: center
 
 Contabilidad /Monedas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2118,6 +2346,7 @@ transacción de dinero de un lugar a otro dentro de la estructura podemos
 ver sus ingresos y actualizaciones.
 
 .. image:: ../static/images/7/contabilidadmonedas.png
+    :align: center
 
 Al momento de crear nos envía un formulario donde se llenará
 los campos solicitados para registrar dando grabar sin embargo también
@@ -2125,6 +2354,7 @@ tenemos descartar para interrumpir el proceso que no queramos guardar
 aun.
 
 .. image:: ../static/images/7/contabilidadmoneda.png
+    :align: center
 
 La tasa podemos ver la fecha donde podemos agregar línea donde
 se refleja unidad por USD y USD por unidad.
@@ -2149,6 +2379,7 @@ Al momento de generar un nuevo Incoterms es necesario ingresar el nombre
 y el código de este.
 
 .. image:: ../static/images/7/facturación_Incoterms.png
+    :align: center
 
 Contabilidad / Tipos de Cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2163,6 +2394,7 @@ el balance de cuentas; también se puede añadir una breve descripción de
 esta.
 
 .. image:: ../static/images/7/contabilidadtiposdecuenta.png
+    :align: center
 
 Contabilidad / Etiquetas de cuenta
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2173,6 +2405,7 @@ información complementaria o para identificar la cuenta de manera más
 detallada.
 
 .. image:: ../static/images/7/contabilidadetiqutasdecuenta.png
+    :align: center
 
 Contabilidad / Grupos de cuentas
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2183,8 +2416,10 @@ facilitar la contabilización, la generación de informes financieros y el
 análisis.
 
 .. image:: ../static/images/7/gruposdecuentas.png
+    :align: center
 
 .. image:: ../static/images/7/grupodecuentas.png
+    :align: center
 
 Contabilidad / Grupos de impuestos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2195,6 +2430,7 @@ obligaciones tributarias con el fin de simplificar su cálculo, registro
 y presentación.
 
 .. image:: ../static/images/7/gruposdeimpuestos.png
+    :align: center
 
 
 Bancos / Agregar una cuenta bancaria
@@ -2205,6 +2441,7 @@ contable de una empresa para llevar un registro preciso de todas las
 transacciones financieras relacionadas con esa cuenta.
 
 .. image:: ../static/images/7/banco_agregarunacuentabancaria.png
+    :align: center
 
 Bancos / Modelos de Conciliación
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2220,10 +2457,13 @@ mencionado anteriormente estaría explicado en profundidad para guiar a
 los usuarios a través del proceso de manera efectiva.
 
 .. image:: ../static/images/7/banco_modelosdeconciliacion.png
+    :align: center
 
 .. image:: ../static/images/7/banco_modeloconciliacion.png
+    :align: center
 
 .. image:: ../static/images/7/bancos_modelosconciliacion.png
+    :align: center
 
 Contabilidad / Sustento de Comprobantes
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2238,8 +2478,10 @@ sustentos de comprobantes relacionados al tipo de documento (para más
 información revisar Comprobantes Autorizados).
 
 .. image:: ../static/images/7/contabilidad_sustentodecomprobantes.png
+    :align: center
 
 .. image:: ../static/images/7/contabilidad_sustentosdecomprobantes.png
+    :align: center
 
 Contabilidad / Tipos de Documentos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2251,6 +2493,7 @@ operaciones financieras y para cumplir con los requisitos legales y
 contables.
 
 .. image:: ../static/images/7/contabilidad_tiposdedocumentos.png
+    :align: center
 
 Facturación / Puntos de Emisión
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2281,6 +2524,7 @@ sucesivamente. En el caso de que se desee cambiar el secuencial de algún
 documento se lo podrá realizar, pero no es un proceso recomendable.
 
 .. image:: ../static/images/7/facturacion_puntosdeemision.png
+    :align: center
 
 Facturación/ Periodos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2303,8 +2547,10 @@ Se ingresa el nuevo año fiscal, el nombre, el código, la fecha de inicio
 y la fecha de fin.
 
 .. image:: ../static/images/7/facturacion_periodos.png
+    :align: center
 
 .. image:: ../static/images/7/facturacion_periodo.png
+    :align: center
 
 Facturación / Año Fiscal
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2325,8 +2571,10 @@ fecha de inicio y la fecha fin para generar los periodos según el rango
 asignado.
 
 .. image:: ../static/images/7/facturacion_añosfiscales.png
+    :align: center
 
 .. image:: ../static/images/7/facturacion_añosfiscale.png
+    :align: center
 
 Facturación/ Payment Methods SRI (Métodos de Pago SRI)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2336,6 +2584,7 @@ Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 Methods (Métodos de Pago SRI).**
 
 .. image:: ../static/images/7/Facturacion_PaymentMethodsSRI(MetodosdePagoSRI).png
+    :align: center
 
 En este apartado podemos crear diferentes métodos de pago , estos
 métodos se verán reflejados en secciones como Facturas entre otros.
@@ -2345,6 +2594,7 @@ nombre y el código. Damos en en la parte superior izquierda damos en
 Grabar y listo !.
 
 .. image:: ../static/images/7/Facturacion_PaymentMethodsSRI.png
+    :align: center
 
 Facturación / Plazos de Pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2369,8 +2619,10 @@ vencimiento y el
 número del mes.
 
 .. image:: ../static/images/7/facturacion_plazodepagos.png
+    :align: center
 
 .. image:: ../static/images/7/facturacion_tipodeplazo.png
+    :align: center
 
 Administración / Categoría de Productos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2390,13 +2642,16 @@ entrada de stock, la cuenta de salida de stock, la cuenta de valoración
 de stock y el diario del stock.
 
 .. image:: ../static/images/7/administracion_categoriadeproductos.png
+    :align: center
 
 .. image:: ../static/images/7/gruposdeimpuestos.pngadministracion_categoria.png
+    :align: center
 
 Si se desea observar todos los productos que contengan dicha categoría,
 podremos observarlos en esta opción.
 
 .. image:: ../static/images/7/administracion_producto.png
+    :align: center
 
 Administración / Modos de pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2410,8 +2665,10 @@ las transacciones financieras y para garantizar que los pagos se
 realicen de manera adecuada y segura.
 
 .. image:: ../static/images/7/administracion_modosdepago.png
+    :align: center
 
 .. image:: ../static/images/7/administracion_mododepago.png
+    :align: center
 
 Administración / Métodos de pago
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2427,6 +2684,8 @@ qué requisitos pueden estar involucrados y cómo se clasifica el método
 de pago en relación con otros.
 
 .. image:: ../static/images/7/administracion_metododepago.png
+    :align: center
 
 .. image:: ../static/images/7/administracion_metodosdepago.png
+    :align: center
 

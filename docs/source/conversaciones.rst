@@ -16,7 +16,7 @@ nos llegarán las notificaciones del sistema: por correo electrónico o
 vía Contigo.
 
 .. image:: ../static/images/4/preferenciasdelacuenta.png
-
+    :align: center
 
 Para utilizar de manera óptima el módulo de conversaciones es
 recomendable que la gestión de notificaciones esté manejada por Contigo.
@@ -33,6 +33,7 @@ mensaje está marcado como “por realizar” de manera automática es
 agregado en destacados.
 
 .. image:: ../static/images/4/bandejadeentrada.png
+    :align: center
 
 Contigo Bot
 -----------
@@ -44,7 +45,7 @@ mensajes que se le envíen independientemente de dónde se encuentre en
 Contigo.
 
 .. image:: ../static/images/4/contigobot.png
-
+    :align: center
 
 Interaccion entre usuarios
 --------------------------
@@ -61,7 +62,7 @@ canal enviará un mensaje a su bandeja de entrada. No puedes mencionar a
 un usuario en un canal en el que no esté suscrito.
 
 .. image:: ../static/images/4/interaccionesdeusuarios.png
-
+    :align: center
 
 Canales
 --------
@@ -74,7 +75,7 @@ usuarios invitados. Para crear un canal nos dirigiremos en la opción
 canales y damos clic en el signo +
 
 .. image:: ../static/images/4/canales.png
-
+    :align: center
 
 La opción ¿Quién puede seguir las actividades del grupo? le permite
 controlar qué grupos pueden tener acceso al canal. Tenga en cuenta que
@@ -100,8 +101,10 @@ Conversación/ canales públicos
 -------------------------------
 
 .. image:: ../static/images/4/canalespublicos.png
+    :align: center
 
 .. image:: ../static/images/4/descripcanalespublicos.png
+    :align: center
 
 Conversación entre Usuarios
 ---------------------------
@@ -117,6 +120,7 @@ que un usuario está conectado, un punto naranja que está inactivo y un
 punto gris que está desconectado.
 
 .. image:: ../static/images/4/usersconversaciones.png
+    :align: center
 
 Enviar Mensaje
 ---------------
@@ -126,6 +130,7 @@ un mensaje para indicar cualquier procedimiento, adjunto, entre otros y
 que los seguidores aprendan a como interactuar con dicho registro.
 
 .. image:: ../static/images/4/enviarmensajes.png
+    :align: center
 
 Poner Adjuntos
 ---------------
@@ -137,6 +142,7 @@ eliminar, ya que es un registro de las actividades realizadas por los
 usuarios del sistema.
 
 .. image:: ../static/images/4/poneradjuntos.png
+    :align: center
 
 Planificar actividad
 --------------------
@@ -152,18 +158,20 @@ uno, el calendario simplemente se abrirá para permitirle seleccionar un
 intervalo de tiempo.
 
 .. image:: ../static/images/4/planificaractividad.png
+    :align: center
 
 .. image:: ../static/images/4/vistaactividades.png
-
+    :align: center
 
 Si el usuario registrado tiene alguna actividad pendiente a realizar,
 este podrá observar en el icono de reloj que se encuentra en la parte
 superior derecha.
 
 .. image:: ../static/images/4/iconoreloj.png
-
+    :align: center
 
 .. image:: ../static/images/4/actpendiente.png
+    :align: center
 
 Si la actividad se encuentra en una fecha posterior, se marcará como
 futuro, si la actividad está programada para el mismo día esta nos
@@ -180,7 +188,7 @@ nota dentro del registro, dicho número se verá reflejado en el icono de
 clic de la parte superior derecha.
 
 .. image:: ../static/images/4/adjuntosyseguidores.png
-
+    :align: center
 
 Seguidores
 ----------
@@ -192,3 +200,4 @@ la parte superior derecha el número de seguidores, permitiéndonos añadir
 a más usuarios y también a eliminarlos.
 
 .. image:: ../static/images/4/adjuntosyseguidores.png
+    :align: center
