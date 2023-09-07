@@ -1,4 +1,4 @@
-Administraccion
+Administración
 =================
 
 Usuarios
