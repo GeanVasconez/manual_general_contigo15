@@ -1,11 +1,8 @@
-========= ========
-Texto     Imagen
-========= ========
-Test      |image1|
-Descargar |image2|
-Curso     |image3|
-========= ========
+.. image:: armada.png
+   :width: 300px
 
-.. |image1| image:: acciones.png
-.. |image2| image:: acciones.png
-.. |image3| image:: acciones.pngcurso.png
+.. image:: centop.png
+   :width: 300px
+
+.. image:: istg.png
+   :width: 300px

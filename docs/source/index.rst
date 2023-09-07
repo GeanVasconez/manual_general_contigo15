@@ -14,7 +14,7 @@ Además de estos módulos, el manual "Contigo" incluye una serie de atajos y est
 
    El manual "Contigo" ha sido creado pensando en ti, para garantizar que obtengas el máximo valor de nuestro producto y te capacites de manera continua.
 
-Contents
+Contenido
 --------
 
 .. toctree::
