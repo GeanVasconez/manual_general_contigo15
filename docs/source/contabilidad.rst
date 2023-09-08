@@ -2520,11 +2520,12 @@ unitario y la precisión de cantidades.
 
 
 .. note::
-El secuencial se asigna de manera automática en el sistema,
-por ejemplo, se ha realizado una nueva factura el secuencial de factura
-se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
-sucesivamente. En el caso de que se desee cambiar el secuencial de algún
-documento se lo podrá realizar, pero no es un proceso recomendable.
+
+    El secuencial se asigna de manera automática en el sistema,
+    por ejemplo, se ha realizado una nueva factura el secuencial de factura
+    se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
+    sucesivamente. En el caso de que se desee cambiar el secuencial de algún
+    documento se lo podrá realizar, pero no es un proceso recomendable.
 
 .. image:: ../static/images/7/facturacion_puntosdeemision.png
     :align: center
