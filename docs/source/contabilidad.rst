@@ -416,7 +416,8 @@ En el caso de que se desee cancelar el asiento para volver a realizarlo,
 es necesario configurar el diario para que permita la cancelación de
 pagos (para más información dirigirse a Diarios).
 
-... image:: ../static/images/7/cancelarasientoerror.png
+.. image:: ../static/images/7/cancelarasientoerror.png
+    :align: center
 
 Al momento de realizar un pago en cheque es necesario primero configurar
 la chequera en el sistema (para más información revisar **Chequeras** ),
@@ -2250,7 +2251,7 @@ crédito.
 grupo de impuestos, etiquetas, si incluye en el precio, si contiene base
 imponible de impuestos subsiguientes.
 
-.. image:: ../static/images/7/contabilidadimpuestoavanzado.png)
+.. image:: ../static/images/7/contabilidadimpuestoavanzado.png
     :align: center
 
 Contabilidad / Posiciones Fiscales
@@ -2378,7 +2379,7 @@ práctica actual en el transporte internacional de mercancías.
 Al momento de generar un nuevo Incoterms es necesario ingresar el nombre
 y el código de este.
 
-.. image:: ../static/images/7/facturación_Incoterms.png
+.. image:: ../static/images/7/facturación_incoterms.png
     :align: center
 
 Contabilidad / Tipos de Cuentas

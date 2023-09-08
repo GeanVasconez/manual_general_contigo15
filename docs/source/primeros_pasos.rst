@@ -15,8 +15,7 @@ principal del sistema, en el caso de que el usuario no exista deberá
 contactar con el **administrador** encargado.
 
 Para el caso en que el usuario olvide su contraseña, debajo del botón
-**“Iniciar Sesión”** se encuentra la opción de **“Recuperar Contraseña”
-(Reset Password)**.
+**“Iniciar Sesión”** se encuentra la opción de **“Recuperar Contraseña” (Reset Password)**.
 
 .. image:: ../static/images/3/restablecercontraseña.png
     :align: center
@@ -30,8 +29,7 @@ configurada.
 .. image:: ../static/images/3/enviodecorreorestablecer.png
     :align: center
 
-Al momento de recibir el correo, se deberá dar clic en **“Cambiar
-Contraseña”** y el sistema lo enviara a la pantalla de cambio de clave.
+Al momento de recibir el correo, se deberá dar clic en **“Cambiar Contraseña”** y el sistema lo enviara a la pantalla de cambio de clave.
 
 .. image:: ../static/images/3/pantallacambiodeclave.png
     :align: center
@@ -62,7 +60,7 @@ los módulos, la posición del chatter y su firma.
 .. image:: ../static/images/3/preferenciasuser.png
     :align: center
 
-De igual manera se podrá definir en la sección “Seguridad de la cuenta”
+De igual manera se podrá definir en la sección **“Seguridad de la cuenta”**
 el cambio de contraseña y si se requiere se podrá utilizar la
 autenticación de dos pasos.
 
