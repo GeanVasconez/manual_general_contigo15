@@ -4,8 +4,10 @@ Primeros Pasos
 Ingreso al sistema
 ------------------
 Nos dirigiremos a la URL del dominio que tenemos en la nube, en nuestro
-caso será “https://dominio.manexware.com”, al momento de ingresar a
+caso será 'https://dominio.manexware.com', al momento de ingresar a
 dicho dominio aparecerá la siguiente pantalla.
+
+
 
 .. image:: ../static/images/3/pantallainiciosesioncontigo.png
     :align: center
