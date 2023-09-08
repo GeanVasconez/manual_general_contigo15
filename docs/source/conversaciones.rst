@@ -77,7 +77,7 @@ canales y damos clic en el signo +
 .. image:: ../static/images/4/canales.png
     :align: center
 
-La opción ¿Quién puede seguir las actividades del grupo? le permite
+La opción **¿Quién puede seguir las actividades del grupo?** le permite
 controlar qué grupos pueden tener acceso al canal. Tenga en cuenta que
 permitir que todos sigan un canal privado permite que otros usuarios lo
 vean y se unan, como lo harían con uno público. Si elige Solo personas
@@ -92,7 +92,7 @@ limitan qué usuarios pueden acceder al canal, los Grupos de suscripción
 automática agregan automáticamente al usuario como miembro siempre que
 forme parte del grupo.
 
-La elección de Enviar mensajes por correo electrónico configura el canal
+La elección de **Enviar mensajes por correo electrónico**, configura el canal
 para que se comporte como una lista de correo. Habilitar esta opción le
 permite moderar este canal, lo que significa que los mensajes deberán
 ser aprobados antes de enviarse.

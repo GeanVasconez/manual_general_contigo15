@@ -14,8 +14,7 @@ usuario consta de 3 datos que permitirán el reconocimiento del mismo
 dentro del sistema contable Contigo, los cuales son: Nombre del usuario,
 correo electrónico y una contraseña dada por el sistema. **Importante:**
 Para generar usuarios dentro del sistema, es recomendable hacerlo dentro
-del módulo de Contactos (Para más información revise el manual **Contigo
-General**).
+del módulo de Contactos (Para más información revise el manual **Contigo General**).
 
 .. image:: ../static/images/6/administracion_usuario.png
     :align: center
@@ -24,7 +23,7 @@ Es importante definir los Permisos de acceso, la tienda (Agencias) en
 donde se encuentra laborando y las preferencias de usuario (El mismo
 usuario puede configurar sus preferencias dentro del sistema).
 
-Permisos de acceso: El usuario debe tener permisos para acceder a los
+**Permisos de acceso:** El usuario debe tener permisos para acceder a los
 diferentes módulos que existen dentro del sistema y también para poder
 ver o interactuar con la información presente en los mismos. Se pueden
 asignar los permisos cuando se cree un usuario y dependiendo de los
@@ -37,13 +36,13 @@ contacto.
 .. image:: ../static/images/6/administracion_usuarios.png
     :align: center
 
-Tiendas: Permite identificar las tiendas/agencias en las cuales se
+**Tiendas:** Permite identificar las tiendas/agencias en las cuales se
 encuentra el usuario y en las tiendas que tiene permitido trabajar.
 
 .. image:: ../static/images/6/administracion_tienda.png
     :align: center
 
-Preferencias: Permite una serie de configuraciones dentro del sistema,
+**Preferencias:** Permite una serie de configuraciones dentro del sistema,
 como el idioma, la zona horaria, notificación (Manejar por correos
 electrónicos o Manejar en Odoo), firma de correo electrónico y por
 último una firma digital.
@@ -60,7 +59,8 @@ firma y si está seguro de su decisión presione “Aprobar y firmar”.
 .. image:: ../static/images/6/administracion_adoptesufirma.png
     :align: center
 
-Importante: Para asignar una contraseña y restablecer la misma, se
+.. note::
+Para asignar una contraseña y restablecer la misma, se
 requiere seguir los siguientes procesos. 1.- Asignación de contraseña
 por medio del administrador: Esta opción permite al administrador del
 sistema establecer o asignar la contraseña de usuario. Para que está
@@ -79,7 +79,8 @@ procede a confirmar (Cambiar la contraseña).
 .. image:: ../static/images/6/administracion_cambiarcontraseña.png
     :align: center
 
-Nota: Este proceso se recomienda utilizarlo si es necesario que el
+.. note::
+Este proceso se recomienda utilizarlo si es necesario que el
 usuario ingrese de manera urgente al sistema, caso contrario se
 recomienda que los usuarios sigan el paso 3.
 
@@ -120,14 +121,14 @@ obligatorios empezando por el nombre de la compañía.
 .. image:: ../static/images/6/administracion_nombredelacompañia.png
     :align: center
 
-Información General: Se debe registrar todos los datos de la compañía y
+**Información General:** Se debe registrar todos los datos de la compañía y
 si la compañía posee factura electrónica, llenar en el sistema sus
 respectivos campos para su posterior utilización.
 
 .. image:: ../static/images/6/administracion_informaciongeneral.png
     :align: center
 
-Contabilidad: Permite indicar al sistema las retenciones, sustentos
+**Contabilidad:** Permite indicar al sistema las retenciones, sustentos
 tributarios, las cuentas contables y la cuenta de transferencia entre
 bancos que la empresa utiliza para toda su actividad contable.
 
@@ -160,40 +161,40 @@ ID y Cedula/Ruc.
 .. image:: ../static/images/6/administracion_verificacion.png
     :align: center
 
-**Retenciones** Para utilizar correctamente los siguientes apartados, se
+**Retenciones:** Para utilizar correctamente los siguientes apartados, se
 requiere ya tener configurado las siguientes retenciones: Ret. IVA
 Bienes Ret. Renta Bienes Ret. IVA Servicios Ret. Renta Servicios
 
 .. image:: ../static/images/6/administracion_retenciones.png
      :align: center
 
-Cuentas Contables. – Permite enlazar las cuentas de ingreso y gastos a
+**Cuentas Contables:** Permite enlazar las cuentas de ingreso y gastos a
 los elementos del plan contable.
 
 .. image:: ../static/images/6/administracion_cuentacontable.png
      :align: center
 
-Anticipos. – Permite configurar las cuentas de anticipos para clientes y
+**Anticipos:** Permite configurar las cuentas de anticipos para clientes y
 proveedores.
 
 .. image:: ../static/images/6/administracion_anticipos.png
      :align: center
 
-Conciliaciones Bancarias. – Permite la configuración de dos cuentas, las
+**Conciliaciones Bancarias:** Permite la configuración de dos cuentas, las
 cuales sirven para realizar los pagos no registrados o no identificados
 en el sistema y así obtener cuadre de la conciliación.
 
 .. image:: ../static/images/6/administracion_conciliacionesbancarias.png
      :align: center
 
-Firmas Asientos Contable. - Al momento de guardar un asiento,
+**Firmas Asientos Contable:** Al momento de guardar un asiento,
 dependiendo de los usuarios seleccionados en esta opción; el mismo
 aparecerá en el registro y posteriores.
 
 .. image:: ../static/images/6/administracion_firmascontable.png
      :align: center
 
-Bancos. - Se tiene que poner el número de la cuenta de transferencias
+**Bancos:** Se tiene que poner el número de la cuenta de transferencias
 interbancarias.
 
 .. image:: ../static/images/6/administracion_banco.png
@@ -311,18 +312,18 @@ opciones ya dichas
 .. image:: ../static/images/6/administracion_correoelectronico.png
      :align: center
 
-Contenido: Aquí se muestra que contiene el mensaje
+**Contenido:** Aquí se muestra que contiene el mensaje
 
 .. image:: ../static/images/6/administracion_contenido.png
      :align: center
 
-Adjuntos: Se asocian un documento mediante el modelo/res_id y al mensaje
+**Adjuntos:** Se asocian un documento mediante el modelo/res_id y al mensaje
 mediante este campo.
 
 .. image:: ../static/images/6/administracion_adjuntos.png
      :align: center
 
-Razón del fallo: Aquí se muestra la razón del fallo de la entrega de
+**Razón del fallo:** Aquí se muestra la razón del fallo de la entrega de
 correo del porque no fue enviado
 
 .. image:: ../static/images/6/administracion_razondelfallo.png

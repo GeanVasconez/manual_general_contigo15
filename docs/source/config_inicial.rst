@@ -60,6 +60,7 @@ de la misma.
 .. image:: ../static/images/2/acciones.png
     :align: center
 
+.. note::
 En caso de cambiar la contraseña se abrirá una ventana emergente, donde
 se deberá digitar la nueva contraseña y seguidamente guardar los nuevos
 datos.
@@ -75,7 +76,8 @@ Al usuario se le enviará por correo una invitación para que ingrese al
 sistema, si todo sale bien y la invitación se envía con éxito mostrará
 un mensaje confirmando dicha acción.
 
-**Nota Importante**: Antes de enviar el correo de invitación, primero se
+.. note::
+Antes de enviar el correo de invitación, primero se
 debe configurar el correo saliente del sistema; para más información
 revisar Configuración de **Correo Saliente**.
 
@@ -157,6 +159,7 @@ digite el código de la cuenta contable.
 
 .. image:: ../static/images/2/nivelescta.png
     :align: center
+
 Por ejemplo, en la imagen de arriba solo se están visualizando las
 cuentas nivel 1.
 
@@ -183,7 +186,7 @@ contables que posean dicho prefijo.
 Impuestos
 ---------
 
-Esta tarea solo puede ser realizada por el administrador, debe dirigirse
+Esta tarea solo puede ser realizada por el administrador o por quien tenga la autorización financiera más alta, debe dirigirse
 al módulo de **Contabilidad**, seleccionar el menú de **Configuración**,
 buscar el apartado de **Contabilidad** y seleccionar la opción
 **Impuestos**.
@@ -353,6 +356,7 @@ documento por medio electrónico.
 
 .. image:: ../static/images/2/añofiscal.png
     :align: center
+
 Cuentas Bancarias
 -----------------
 En el módulo de **Contabilidad**, seleccionamos el menú de **Configuración**, buscamos el apartado de

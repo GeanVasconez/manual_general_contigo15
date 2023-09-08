@@ -2518,7 +2518,9 @@ La precisión decimal consiste en el número de decimales que aparecerán
 en los reportes realizados, donde tendremos la precisión de precio
 unitario y la precisión de cantidades.
 
-Importante: El secuencial se asigna de manera automática en el sistema,
+
+.. note::
+El secuencial se asigna de manera automática en el sistema,
 por ejemplo, se ha realizado una nueva factura el secuencial de factura
 se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
 sucesivamente. En el caso de que se desee cambiar el secuencial de algún
@@ -2615,9 +2617,7 @@ Para generar un plazo de pago se debe ingresar el nombre de este, una
 breve descripción para indicar el motivo del plazo, al momento de añadir
 un término de pago es necesario crearlo en el caso de que no exista
 ninguno; se indica el tipo de término, el cálculo de fechas de
-vencimiento y el
-
-número del mes.
+vencimiento y el número del mes.
 
 .. image:: ../static/images/7/facturacion_plazodepagos.png
     :align: center
