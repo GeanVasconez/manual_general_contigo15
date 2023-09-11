@@ -44,6 +44,7 @@ producto y el subtotal dependerá del resultado de: cantidad \* precio
 del producto - descuento + impuestos.
 
 .. image:: ../static/images/7/calculosfacturas.png
+    :alt: Calculos de Facturas
     :align: center
     :border: 1
 
