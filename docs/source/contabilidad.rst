@@ -46,7 +46,6 @@ del producto - descuento + impuestos.
 .. image:: ../static/images/7/calculosfacturas.png
     :alt: Calculos de Facturas
     :align: center
-    :border: 1
 
 Al momento de completar las líneas de factura, el sistema le mostrará
 los cálculos realizados para la obtención del total a cobrar.
