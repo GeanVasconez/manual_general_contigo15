@@ -17,7 +17,7 @@ Para generar usuarios dentro del sistema, es recomendable hacerlo dentro
 del módulo de Contactos (Para más información revise el manual **Contigo
 General**).
 
-.. image:: ../static/images/6/administracion_usuario.png
+.. image:: ../static/images/6/administracion_usuari.png
     :align: center
 
 Es importante definir los Permisos de acceso, la tienda (Agencias) en
@@ -34,13 +34,13 @@ contabilidad, el inventario, otros, además de las opciones técnicas, los
 derechos extras y una última opción de otro que contiene creación de
 contacto.
 
-.. image:: ../static/images/6/administracion_usuarios.png
+.. image:: ../static/images/6/administracion_usuar.png
     :align: center
 
 Tiendas: Permite identificar las tiendas/agencias en las cuales se
 encuentra el usuario y en las tiendas que tiene permitido trabajar.
 
-.. image:: ../static/images/6/administracion_tienda.png
+.. image:: ../static/images/6/administracion_tiendas.png
     :align: center
 
 Preferencias: Permite una serie de configuraciones dentro del sistema,
@@ -48,7 +48,7 @@ como el idioma, la zona horaria, notificación (Manejar por correos
 electrónicos o Manejar en Odoo), firma de correo electrónico y por
 último una firma digital.
 
-.. image:: ../static/images/6/administracion_preferencia.png
+.. image:: ../static/images/6/administracion_preferencias.png
     :align: center
 
 Cuando seleccione firma de firma digital, le va a aparecer una ventana
@@ -76,7 +76,7 @@ usuario en la parte izquierda y el espacio para la nueva contraseña en
 la parte derecha. Cuando se haya ingresado la nueva contraseña, se
 procede a confirmar (Cambiar la contraseña).
 
-.. image:: ../static/images/6/administracion_cambiarcontraseña.png
+.. image:: ../static/images/6/administracion_cambiarlacontraseña.png
     :align: center
 
 Nota: Este proceso se recomienda utilizarlo si es necesario que el
@@ -114,7 +114,7 @@ con los respectivos datos de la empresa. Se procede a llenar los campos
 con su respectiva información según la empresa, especialmente los campos
 obligatorios empezando por el nombre de la compañía.
 
-.. image:: ../static/images/6/administracion_compañia.png
+.. image:: ../static/images/6/administracion_compañias.png
     :align: center
 
 .. image:: ../static/images/6/administracion_nombredelacompañia.png
@@ -164,7 +164,7 @@ ID y Cedula/Ruc.
 requiere ya tener configurado las siguientes retenciones: Ret. IVA
 Bienes Ret. Renta Bienes Ret. IVA Servicios Ret. Renta Servicios
 
-.. image:: ../static/images/6/administracion_retenciones.png
+.. image:: ../static/images/6/administracion_compañiaretenciones.png
      :align: center
 
 Cuentas Contables. – Permite enlazar las cuentas de ingreso y gastos a
@@ -196,7 +196,7 @@ aparecerá en el registro y posteriores.
 Bancos. - Se tiene que poner el número de la cuenta de transferencias
 interbancarias.
 
-.. image:: ../static/images/6/administracion_banco.png
+.. image:: ../static/images/6/administracion_compañiabanco.png
      :align: center
 
 Agencias
@@ -209,10 +209,10 @@ creación de las diferentes agencias o sucursales que se desee manejar en
 el sistema. Se puede tener sucursales principales o padres y
 secundarias.
 
-.. image:: ../static/images/6/administracion_agencias.png
+.. image:: ../static/images/6/administracion_agenciad.png
      :align: center
 
-.. image:: ../static/images/6/administracion_agencia.png
+.. image:: ../static/images/6/administracion_agenciasnuevo.png
      :align: center
 
 En el campo **Sucursal Padre** se selecciona el nombre de una sucursal
@@ -231,13 +231,13 @@ Puerto SMTP = 465 Por último, se selecciona en seguridad de la conexión
 SSL/TLS y posteriormente se configura el usuario y la contraseña del
 correo, se prueba la conexión y listo.
 
-.. image:: ../static/images/6/administracion_servidorescorreosaliente.png
+.. image:: ../static/images/6/administracion_servidorescorreosalientes.png
      :align: center
 
 .. image:: ../static/images/6/adminsitracion_servidorcontigo.png
      :align: center
 
-.. image:: ../static/images/6/administracion_servidor.png
+.. image:: ../static/images/6/administracion_servidordecorreo.png
      :align: center
 
 Secuencia
@@ -254,7 +254,7 @@ Estas son creadas por el nombre, el código de secuencia, la
 implementación (para saber si es Estandar o es sin hueco) y ver si está
 activo caso contrario no se va a seleccionar el activo.
 
-.. image:: ../static/images/6/administracion_secuencias.png
+.. image:: ../static/images/6/administracion_secuencianuevo.png
      :align: center
 
 **Secuencia:** En secuencia se tienen que llenar unos datos más:
@@ -268,7 +268,7 @@ incrementado por esté número. Próximo número: Es el próximo número que
 se utilizará, este número puede incrementarse frecuentemente por lo que
 el valor mostrado puede ya estar obsoleto
 
-.. image:: ../static/images/6/administracion_prefijo.png
+.. image:: ../static/images/6/administracion_secuenciaprefijo.png
      :align: center
 
 Precisión decimal
@@ -282,7 +282,7 @@ de un producto, si el digito ingresado como precio es de ‘5.789’ el
 sistema lo mostrará como ‘5.79’ ya que aplica redondeo y el número de
 dígitos decimales son dos.
 
-.. image:: ../static/images/6/administracion_precisiondecimal.png
+.. image:: ../static/images/6/administracion_precisiondecimals.png
      :align: center
 
 .. image:: ../static/images/6/administracion_precision.png
@@ -308,22 +308,22 @@ opciones ya dichas
 .. image:: ../static/images/6/administracion_correoelectronicos.png
      :align: center
 
-.. image:: ../static/images/6/administracion_correoelectronico.png
+.. image:: ../static/images/6/administracion_correoelectronic.png
      :align: center
 
 Contenido: Aquí se muestra que contiene el mensaje
 
-.. image:: ../static/images/6/administracion_contenido.png
+.. image:: ../static/images/6/administracion_contenidos.png
      :align: center
 
 Adjuntos: Se asocian un documento mediante el modelo/res_id y al mensaje
 mediante este campo.
 
-.. image:: ../static/images/6/administracion_adjuntos.png
+.. image:: ../static/images/6/administracion_adjunto.png
      :align: center
 
 Razón del fallo: Aquí se muestra la razón del fallo de la entrega de
 correo del porque no fue enviado
 
-.. image:: ../static/images/6/administracion_razondelfallo.png
+.. image:: ../static/images/6/administracion_razondelfallos.png
      :align: center
