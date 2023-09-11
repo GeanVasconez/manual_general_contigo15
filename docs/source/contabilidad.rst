@@ -45,6 +45,7 @@ del producto - descuento + impuestos.
 
 .. image:: ../static/images/7/calculosfacturas.png
     :align: center
+    :border: 1px solid black
 
 Al momento de completar las líneas de factura, el sistema le mostrará
 los cálculos realizados para la obtención del total a cobrar.
@@ -520,12 +521,10 @@ tributario, que garantice que no se evadan los tributos.
 
 Al momento de generar una nueva guía se debe:
 
-::
-
-   • Configurar primero el punto de emisión (ver Punto de Emisión), seleccionar el transportista (ver Contactos), el destinatario (ver Contactos) y la factura (ver Factura en el menú de Clientes).
-   • Se llenarán todos los campos obligatorios y los que se considere necesario llenar.
-   • Al momento de seleccionar el destinatario automáticamente se cargarán los datos de este en las siguientes columnas: Identificación, teléfono, cédula y correo.
-   • Al momento de seleccionar la factura, automáticamente se cargarán en ítems de guía, los datos de la factura de igual manera en Detalle electrónico.
+- Configurar primero el punto de emisión (ver Punto de Emisión), seleccionar el transportista (ver Contactos), el destinatario (ver Contactos) y la factura (ver Factura en el menú de Clientes).
+- Se llenarán todos los campos obligatorios y los que se considere necesario llenar.
+- Al momento de seleccionar el destinatario automáticamente se cargarán los datos de este en las siguientes columnas: Identificación, teléfono, cédula y correo.
+- Al momento de seleccionar la factura, automáticamente se cargarán en ítems de guía, los datos de la factura de igual manera en Detalle electrónico.
 
 .. image:: ../static/images/7/borradorguiaderemision.png
     :align: center

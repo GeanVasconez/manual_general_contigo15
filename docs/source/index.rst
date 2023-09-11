@@ -9,9 +9,6 @@ Además de estos módulos, el manual "Contigo" incluye una serie de atajos y est
 
 Puedes encontrar más información detallada en `Manexware <http://www.manexware.com>`_.
 
-
-
-
 .. note::
 
    El manual "Contigo" ha sido creado pensando en ti, para garantizar que obtengas el máximo valor de nuestro producto y te capacites de manera continua.
