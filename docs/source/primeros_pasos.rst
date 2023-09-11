@@ -11,17 +11,18 @@ dicho dominio aparecerá la siguiente pantalla.
 
 .. image:: ../static/images/3/pantallainiciosesioncontigo.png
     :align: center
+
 Se coloca tanto el usuario y contraseña, después deberá dar clic en iniciar sesión. Si
 el usuario existe en el sistema automáticamente le mostrará el menú
 principal del sistema, en el caso de que el usuario no exista deberá
 contactar con el **administrador** encargado.
 
 Para el caso en que el usuario olvide su contraseña, debajo del botón
-**“Iniciar Sesión”** se encuentra la opción de **“Recuperar Contraseña”
-(Reset Password)**.
+**“Iniciar Sesión”** se encuentra la opción de **“Recuperar Contraseña” (Reset Password)**.
 
 .. image:: ../static/images/3/restablecercontraseña.png
     :align: center
+
 **Recuperar Contraseña**: El proceso de recuperación de contraseña
 enviará un correo al usuario, a la dirección email previamente
 configurada.
@@ -32,8 +33,7 @@ configurada.
 .. image:: ../static/images/3/enviodecorreorestablecer.png
     :align: center
 
-Al momento de recibir el correo, se deberá dar clic en **“Cambiar
-Contraseña”** y el sistema lo enviara a la pantalla de cambio de clave.
+Al momento de recibir el correo, se deberá dar clic en **“Cambiar Contraseña”** y el sistema lo enviara a la pantalla de cambio de clave.
 
 .. image:: ../static/images/3/pantallacambiodeclave.png
     :align: center
@@ -64,7 +64,7 @@ los módulos, la posición del chatter y su firma.
 .. image:: ../static/images/3/preferenciasuser.png
     :align: center
 
-De igual manera se podrá definir en la sección “Seguridad de la cuenta”
+De igual manera se podrá definir en la sección **“Seguridad de la cuenta”**
 el cambio de contraseña y si se requiere se podrá utilizar la
 autenticación de dos pasos.
 
@@ -123,6 +123,7 @@ barra de búsqueda.
 
 .. image:: ../static/images/3/filtros.png
     :align: center
+
 **Filtros personalizados**: Esta opción permite al usuario añadir
 diferentes condiciones a la búsqueda o generar nuevos campos de
 búsqueda, también permite agregar condiciones para un mejor resultado.
@@ -166,6 +167,7 @@ resultados existentes desde el 1 (primero) hasta el 220 (último).
 
 .. image:: ../static/images/3/numeroderesultados2.png
     :align: center
+
 Tipos de Vistas
 ---------------
 
@@ -205,7 +207,8 @@ ejemplo, tareas o gestión del progreso del trabajo), o desagruparse
 .. image:: ../static/images/3/vistalista.png
     :align: center
 
-**Nota**: Si deseas saber en qué tipo de vista estas, dirígete a la
+.. note::
+Si deseas saber en qué tipo de vista estas, dirígete a la
 esquina superior derecha, pasas el ratón en los diferentes tipos vistas
 que se muestran y el sistema te arrojará el nombre de la vista.
 

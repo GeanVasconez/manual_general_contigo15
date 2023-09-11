@@ -44,6 +44,7 @@ producto y el subtotal dependerá del resultado de: cantidad \* precio
 del producto - descuento + impuestos.
 
 .. image:: ../static/images/7/calculosfacturas.png
+    :alt: Calculos de Facturas
     :align: center
 
 Al momento de completar las líneas de factura, el sistema le mostrará
@@ -416,7 +417,8 @@ En el caso de que se desee cancelar el asiento para volver a realizarlo,
 es necesario configurar el diario para que permita la cancelación de
 pagos (para más información dirigirse a Diarios).
 
-... image:: ../static/images/7/cancelarasientoerror.png
+.. image:: ../static/images/7/cancelarasientoerror.png
+    :align: center
 
 Al momento de realizar un pago en cheque es necesario primero configurar
 la chequera en el sistema (para más información revisar **Chequeras** ),
@@ -519,12 +521,10 @@ tributario, que garantice que no se evadan los tributos.
 
 Al momento de generar una nueva guía se debe:
 
-::
-
-   • Configurar primero el punto de emisión (ver Punto de Emisión), seleccionar el transportista (ver Contactos), el destinatario (ver Contactos) y la factura (ver Factura en el menú de Clientes).
-   • Se llenarán todos los campos obligatorios y los que se considere necesario llenar.
-   • Al momento de seleccionar el destinatario automáticamente se cargarán los datos de este en las siguientes columnas: Identificación, teléfono, cédula y correo.
-   • Al momento de seleccionar la factura, automáticamente se cargarán en ítems de guía, los datos de la factura de igual manera en Detalle electrónico.
+- Configurar primero el punto de emisión (ver Punto de Emisión), seleccionar el transportista (ver Contactos), el destinatario (ver Contactos) y la factura (ver Factura en el menú de Clientes).
+- Se llenarán todos los campos obligatorios y los que se considere necesario llenar.
+- Al momento de seleccionar el destinatario automáticamente se cargarán los datos de este en las siguientes columnas: Identificación, teléfono, cédula y correo.
+- Al momento de seleccionar la factura, automáticamente se cargarán en ítems de guía, los datos de la factura de igual manera en Detalle electrónico.
 
 .. image:: ../static/images/7/borradorguiaderemision.png
     :align: center
@@ -2250,7 +2250,7 @@ crédito.
 grupo de impuestos, etiquetas, si incluye en el precio, si contiene base
 imponible de impuestos subsiguientes.
 
-.. image:: ../static/images/7/contabilidadimpuestoavanzado.png)
+.. image:: ../static/images/7/contabilidadimpuestoavanzado.png
     :align: center
 
 Contabilidad / Posiciones Fiscales
@@ -2378,7 +2378,7 @@ práctica actual en el transporte internacional de mercancías.
 Al momento de generar un nuevo Incoterms es necesario ingresar el nombre
 y el código de este.
 
-.. image:: ../static/images/7/facturación_Incoterms.png
+.. image:: ../static/images/7/facturación_incoterms.png
     :align: center
 
 Contabilidad / Tipos de Cuentas
@@ -2517,11 +2517,14 @@ La precisión decimal consiste en el número de decimales que aparecerán
 en los reportes realizados, donde tendremos la precisión de precio
 unitario y la precisión de cantidades.
 
-Importante: El secuencial se asigna de manera automática en el sistema,
-por ejemplo, se ha realizado una nueva factura el secuencial de factura
-se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
-sucesivamente. En el caso de que se desee cambiar el secuencial de algún
-documento se lo podrá realizar, pero no es un proceso recomendable.
+
+.. note::
+
+    El secuencial se asigna de manera automática en el sistema,
+    por ejemplo, se ha realizado una nueva factura el secuencial de factura
+    se aumentará al siguiente; en este caso de 1 cambiará a 2 y así
+    sucesivamente. En el caso de que se desee cambiar el secuencial de algún
+    documento se lo podrá realizar, pero no es un proceso recomendable.
 
 .. image:: ../static/images/7/facturacion_puntosdeemision.png
     :align: center
@@ -2614,9 +2617,7 @@ Para generar un plazo de pago se debe ingresar el nombre de este, una
 breve descripción para indicar el motivo del plazo, al momento de añadir
 un término de pago es necesario crearlo en el caso de que no exista
 ninguno; se indica el tipo de término, el cálculo de fechas de
-vencimiento y el
-
-número del mes.
+vencimiento y el número del mes.
 
 .. image:: ../static/images/7/facturacion_plazodepagos.png
     :align: center

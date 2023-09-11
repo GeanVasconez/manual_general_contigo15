@@ -33,7 +33,7 @@ respectivo.
 .. image:: ../static/images/5/contactoopciones.png
     :align: center
 
-Contactos y direcciones:Podrá añadir contactos relacionados al existente
+**Contactos y direcciones:** Podrá añadir contactos relacionados al existente
 y podrá especificar si es un contacto, dirección de factura, dirección
 de envió, otras direcciones y direcciones privadas.
 
@@ -41,13 +41,13 @@ de envió, otras direcciones y direcciones privadas.
     :align: center
 
 
-Notas internas: Podrá generar una nota para guardar información respecto
+**Notas internas:** Podrá generar una nota para guardar información respecto
 a dicho usuario.
 
 .. image:: ../static/images/5/notasinternas.png
     :align: center
 
-Ventas y Compras: Parte fundamental de la creación de contactos, es la
+**Ventas y Compras:** Parte fundamental de la creación de contactos, es la
 que nos permite especificar datos relevantes para los procesos
 contables.
 
@@ -55,13 +55,13 @@ contables.
     :align: center
 
 
-Facturación: Permite ingresar las cuentas y asientos contables
+**Facturación:** Permite ingresar las cuentas y asientos contables
 que el contacto creado específica.
 
 .. image:: ../static/images/5/facturacion.png
     :align: center
 
-Información Adicional: Permite agregar información , cómo agregar línea, que aparece en las
+**Información Adicional:** Permite agregar información , cómo agregar línea, que aparece en las
 facturas.
 
 .. image:: ../static/images/5/informacionadicional.png
@@ -168,7 +168,8 @@ provincia.
 .. image:: ../static/images/5/localizacionprovincia.png
     :align: center
 
-Nota: Es recomendable crear las ciudades en esta opción. Al momento de
+.. note::
+Es recomendable crear las ciudades en esta opción. Al momento de
 ingresar a esta opción el sistema mostrará de manera descendente las
 provincias según el código de provincia. Si se desea buscar las
 provincias de un país específico es recomendable utilizar el filtro de
