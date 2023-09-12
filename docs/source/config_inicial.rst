@@ -35,7 +35,7 @@ sistema.
 
 **Tiendas**: El sistema permite gestionar las sucursales en que el
 usuario se encuentra actualmente, para más información de las sucursales
-revisar la opción :ref:`Agencia`.
+revisar la opción :ref:`Agencias`.
 
 .. image:: ../static/images/2/agencies.png
     :align: center
