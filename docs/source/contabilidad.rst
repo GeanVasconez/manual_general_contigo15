@@ -2645,7 +2645,10 @@ de stock y el diario del stock.
 .. image:: ../static/images/7/administracion_categoriadeproductos.png
     :align: center
 
-.. image:: ../static/images/7/gruposdeimpuestos.pngadministracion_categoria.png
+.. image:: ../static/images/7/gruposdeimpuestos.png
+    :align: center
+
+.. image:: ../static/images/7/administracion_categoria.png
     :align: center
 
 Si se desea observar todos los productos que contengan dicha categoría,
