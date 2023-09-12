@@ -4,13 +4,13 @@ Configuración Inicial
 Creación de Usuarios
 --------------------
 
-**Datos del usuario**: Esta tarea solo puede ser realizada por el administrador, es necesario acceder al área de Configuración, luego elegir la pestaña Usuarios y Compañías en el menú, y a continuación, hacer clic en la opción Usuarios.
+**Datos del usuario**: Esta tarea solo puede ser realizada por el administrador, es necesario acceder al área de Administracion, luego elegir la pestaña Usuarios y Compañías en el menú, y a continuación, hacer clic en la opción Usuarios.
 Para crear un usuario,se debe llenar los campos Nombre, Dirección de email y foto (opcional) con un tamaño máximo de 1024x1024px.
 
 .. image:: ../static/images/2/datosusuario.png
     :align: center
 
-**Activación del usuario:** En la esquina superior del mismo formulario se habilitara con un recuadro que indica si el usuario creado ha confirmado su inicio de sesión, caso contrario, se mostrará “nunca se conecta”.
+**Activación del usuario:** En la esquina superior del mismo formulario se habilitara con un recuadro que indica si el usuario creado ha confirmado su inicio de sesión, caso contrario, se mostrará “Nunca se conecta”.
 
 .. image:: ../static/images/2/nuncaseconecta.png
     :align: center
@@ -35,7 +35,7 @@ sistema.
 
 **Tiendas**: El sistema permite gestionar las sucursales en que el
 usuario se encuentra actualmente, para más información de las sucursales
-revisar la opción **Agencia**.
+revisar la opción :ref:`Agencia`.
 
 .. image:: ../static/images/2/agencies.png
     :align: center
