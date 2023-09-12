@@ -60,9 +60,9 @@ de la misma.
     :align: center
 
 .. note::
-En caso de cambiar la contraseña se abrirá una ventana emergente, donde
-se deberá digitar la nueva contraseña y seguidamente guardar los nuevos
-datos.
+    En caso de cambiar la contraseña se abrirá una ventana emergente, donde
+    se deberá digitar la nueva contraseña y seguidamente guardar los nuevos
+    datos.
 
 .. image:: ../static/images/2/changepassword.png
     :align: center
@@ -76,9 +76,9 @@ sistema, si todo sale bien y la invitación se envía con éxito mostrará
 un mensaje confirmando dicha acción.
 
 .. note::
-Antes de enviar el correo de invitación, primero se
-debe configurar el correo saliente del sistema; para más información
-revisar Configuración de **Correo Saliente**.
+    Antes de enviar el correo de invitación, primero se
+    debe configurar el correo saliente del sistema; para más información
+    revisar Configuración de **Correo Saliente**.
 
 Plan Contable
 -------------

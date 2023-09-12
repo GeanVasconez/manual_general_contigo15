@@ -550,7 +550,6 @@ vendido.
 | Se podrá añadir una imagen o foto que identifica el producto, el
   nombre del producto y si el producto puede ser vendido o puede ser
   comprado.
-
 |
 
 .. image:: ../static/images/7/ejemploproducto.png
@@ -1762,6 +1761,7 @@ registros e interactuar con ellos:
    datos de manera organizada para una mejor comprensión.
 
    .. image:: ../static/images/7/vistakanbanbancoefectivo.png
+    :align: center
 
 
 

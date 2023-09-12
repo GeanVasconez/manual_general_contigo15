@@ -80,9 +80,9 @@ procede a confirmar (Cambiar la contraseña).
     :align: center
 
 .. note::
-Este proceso se recomienda utilizarlo si es necesario que el
-usuario ingrese de manera urgente al sistema, caso contrario se
-recomienda que los usuarios sigan el paso 3.
+    Este proceso se recomienda utilizarlo si es necesario que el
+    usuario ingrese de manera urgente al sistema, caso contrario se
+    recomienda que los usuarios sigan el paso 3.
 
 2. – Enviar instrucciones de restablecimiento de contraseña: Esta opción
    permite enviar al correo del usuario una dirección web que lo
