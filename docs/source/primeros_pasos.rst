@@ -257,7 +257,7 @@ En el caso de que todo este en orden el sistema mostrará un mensaje indicando q
 
 Si aparece algún error el sistema alertara en donde se encentra el error y proporciona opciones para resolverlo, en el caso de que no se pueda procesar un dato que es obligatorio es necesario que se comunique con el departamento de soporte del sistema.
 
-.. image:: ../static/images/3/contactos_importarunarchivo.png
+.. image:: ../static/images/3/contacto_importarunarchivo.png
     :align: center
 
 En el caso de que se ha realizado   las pruebas conexito, se deberá dar clic al botón Importar, de esta manera el sistema guardara los datos del archivo y ya podrán ser utilizados por los otros módulos.
