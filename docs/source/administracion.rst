@@ -232,7 +232,7 @@ Puerto SMTP = 465 Por último, se selecciona en seguridad de la conexión
 SSL/TLS y posteriormente se configura el usuario y la contraseña del
 correo, se prueba la conexión y listo.
 
-.. image:: ../static/images/6/administracion_servidorescorreosalientes.png
+.. image:: ../static/images/6/administracion_servidordecorreosalientes.png
      :align: center
 
 .. image:: ../static/images/6/adminsitracion_servidorcontigo.png
