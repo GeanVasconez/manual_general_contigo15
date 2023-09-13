@@ -238,3 +238,38 @@ inclusive el tipo de dato que este requiere.
 
 .. image:: ../static/images/3/mensajesdeerror.png
     :align: center
+
+
+
+Importación
+------------
+
+La importación de datos es el proceso de transferir información electrónica desde una fuente externa a una aplicación, sistema o base de datos interna. Esta transferencia puede implicar la adquisición de datos de diversas fuentes, como archivos, bases de datos, sistemas en línea o incluso dispositivos físicos, y su incorporación en un sistema informático para su posterior análisis, procesamiento o almacenamiento.
+Puede importar datos en cualquier objeto usando formatos de Excel (.xlsx) o CSV (.csv) como contactos, productos, estados de cuenta bancarios, asientos contables e incluso órdenes.
+Para importar datos deberá abrir la vista del objetivo que desea llenar y haga clic en Favoritos
+
+‣ Importar registros.
+
+*IMAGEN
+
+Al dar clic se habilitará la siguiente vista en la cual se deberá subir un archivo CSV o EXCEL con los datos que correspondan al modelo u objetivo a importar, para subir dicho archivo deberá dar clic al botón “Subir archivo”.
+
+*IMAGEN
+
+El sistema leerá el archivo y comenzara a mapearlo (relacionar los campos del sistema con los datos del archivo que se ha procesado), en el caso de que no pueda relacionar los campos el sistema dejara la siguiente advertencia “Para importar, seleccione un campo”
+
+*IMAGEN
+
+Si todos los datos a procesar están correctamente relacionados con los campos del sistema y se desee verificar que todo esté en orden, podrá dar clic en el botón “Prueba”, de esta manera el sistema analizara y verificara que estén llenos los campos que son requeridos en los registros y de igual manera si el tipo de dato (numéricos, caracteres, booleanos) correspondan a los tipos de datos definidos en los campos.
+En el caso de que todo este en orden el sistema mostrará un mensaje indicando que se podrá procesar los datos sin problemas
+
+*IMAGEN
+
+Si aparece algún error el sistema alertara en donde se encentra el error y proporciona opciones para resolverlo, en el caso de que no se pueda procesar un dato que es obligatorio es necesario que se comunique con el departamento de soporte del sistema.
+
+*IMAGEN
+
+En el caso de que se ha realizado   las pruebas conexito, se deberá dar clic al botón Importar, de esta manera el sistema guardara los datos del archivo y ya podrán ser utilizados por los otros módulos.
+
+Nota: (PONER COMO NOTA)
+La estructura del archivo deberá ser exacta para una optima subida al sistema, en el caso de que se carguen datos de manera errónea se deberá a que el archivo procesado es el responsable por lo cual se recomienda analizar el archivo antes de importarlo al sistema.
