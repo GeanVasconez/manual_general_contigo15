@@ -105,7 +105,7 @@ secuencia interna de la factura, tipo de comprobante y la forma de pago.
 .. image:: ../static/images/7/vistapreviafactura.png
     :align: center
 
-**Añadir nota de crédito:** Esta opción le permite crear créditos de
+**Añadir nota de crédito:** Esta opción le permite crear notas de crédito de
 forma rápida y sencilla. Se recomienda utilizar este método al ingresar
 facturas al sistema, ya que optimiza el tiempo dentro del proceso de
 creación de notas de crédito. El proceso es fácil. Seleccione el método
@@ -114,7 +114,7 @@ de crédito y la fecha de cancelación.
 .. image:: ../static/images/7/añadirnotadecredito.png
     :align: center
 
-**Crear nota de débito:** Esta opción le permite crear deditos de forma
+**Crear nota de débito:** Esta opción le permite crear debito de forma
 rápida y sencilla. Se recomienda utilizar este método al ingresar en el
 sistema, ya que optimiza el tiempo dentro del proceso de creación de
 notas de débito. El proceso es fácil. Seleccione el método de débito y
@@ -711,10 +711,6 @@ la factura realizada.
 .. image:: ../static/images/7/factproveedorpdf.png
     :align: center
 
-**Comprobante:** Imprime un archivo PDF que muestra los datos de los
-asientos contables.
-
-(fotopendiente)
 
 **Registrar pago:** Esta opción permitirá realizar el pago de dicha
 factura, al momento de hacer clic en el botón “Registrar pago” se abrirá
