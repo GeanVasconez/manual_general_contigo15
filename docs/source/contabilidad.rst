@@ -18,6 +18,7 @@ pestaña, el sistema permitirá crear facturas, eliminarlas, etc.
 
 .. image:: ../static/images/7/crearfacturasclientes.png
     :align: center
+    :class: bordered-img
 
 Se procede a llenar los campos obligatorios (campos de color
 azul), se selecciona al cliente, se llena la fecha de la factura; en el
