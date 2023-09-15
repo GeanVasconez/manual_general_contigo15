@@ -30,11 +30,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_context = {
-    'css_files': [
-        '_static/css/contigo.css',
-    ],
-}
+html_css_files = [
+    'css/contigo.css',
+],
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
