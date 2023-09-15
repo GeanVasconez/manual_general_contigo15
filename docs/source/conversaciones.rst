@@ -15,7 +15,7 @@ A la hora de configurar el usuario en los ajustes debemos elegir cómo
 nos llegarán las notificaciones del sistema: por correo electrónico o
 vía Contigo.
 
-.. image:: ../_static/images/4/preferenciasdelacuenta.png
+.. image:: /_static/images/4/preferenciasdelacuenta.png
     :align: center
 
 Para utilizar de manera óptima el módulo de conversaciones es
@@ -32,7 +32,7 @@ habilitará un botón que nos permitirá marcarlos como leído. Si un
 mensaje está marcado como “por realizar” de manera automática es
 agregado en destacados.
 
-.. image:: ../_static/images/4/bandejadeentrada.png
+.. image:: /_static/images/4/bandejadeentrada.png
     :align: center
 
 Contigo Bot
@@ -44,7 +44,7 @@ para los chats. Si se acepta, recibirá notificaciones automáticas de los
 mensajes que se le envíen independientemente de dónde se encuentre en
 Contigo.
 
-.. image:: ../_static/images/4/contigobot.png
+.. image:: /_static/images/4/contigobot.png
     :align: center
 
 Interaccion entre usuarios
@@ -61,7 +61,7 @@ aparecerá en negrita en la vista de lista. Mencionar a un usuario en un
 canal enviará un mensaje a su bandeja de entrada. No puedes mencionar a
 un usuario en un canal en el que no esté suscrito.
 
-.. image:: ../_static/images/4/interaccionesdeusuarios.png
+.. image:: /_static/images/4/interaccionesdeusuarios.png
     :align: center
 
 Canales
@@ -74,7 +74,7 @@ un canal público, mientras que un canal privado solo es visible para los
 usuarios invitados. Para crear un canal nos dirigiremos en la opción
 canales y damos clic en el signo +
 
-.. image:: ../_static/images/4/canales.png
+.. image:: /_static/images/4/canales.png
     :align: center
 
 La opción **¿Quién puede seguir las actividades del grupo?** le permite
@@ -100,10 +100,10 @@ ser aprobados antes de enviarse.
 Conversación/ canales públicos
 -------------------------------
 
-.. image:: ../_static/images/4/canalespublicos.png
+.. image:: /_static/images/4/canalespublicos.png
     :align: center
 
-.. image:: ../_static/images/4/descripcanalespublicos.png
+.. image:: /_static/images/4/descripcanalespublicos.png
     :align: center
 
 Conversación entre Usuarios
@@ -119,7 +119,7 @@ usuarios se muestra a la izquierda de su nombre. Un punto verde indica
 que un usuario está conectado, un punto naranja que está inactivo y un
 punto gris que está desconectado.
 
-.. image:: ../_static/images/4/usersconversaciones.png
+.. image:: /_static/images/4/usersconversaciones.png
     :align: center
 
 Enviar Mensaje
@@ -129,7 +129,7 @@ esta opción nos permitirá enviar a los seguidores asignados del registro
 un mensaje para indicar cualquier procedimiento, adjunto, entre otros y
 que los seguidores aprendan a como interactuar con dicho registro.
 
-.. image:: ../_static/images/4/enviarmensajes.png
+.. image:: /_static/images/4/enviarmensajes.png
     :align: center
 
 Poner Adjuntos
@@ -141,7 +141,7 @@ inclusive se podrá adjuntar imágenes, dichas notas no serán posibles de
 eliminar, ya que es un registro de las actividades realizadas por los
 usuarios del sistema.
 
-.. image:: ../_static/images/4/poneradjuntos.png
+.. image:: /_static/images/4/poneradjuntos.png
     :align: center
 
 Planificar actividad
@@ -157,20 +157,20 @@ establecer un horario, elija el tipo de actividad Reunión. Al programar
 uno, el calendario simplemente se abrirá para permitirle seleccionar un
 intervalo de tiempo.
 
-.. image:: ../_static/images/4/planificaractividad.png
+.. image:: /_static/images/4/planificaractividad.png
     :align: center
 
-.. image:: ../_static/images/4/vistaactividades.png
+.. image:: /_static/images/4/vistaactividades.png
     :align: center
 
 Si el usuario registrado tiene alguna actividad pendiente a realizar,
 este podrá observar en el icono de reloj que se encuentra en la parte
 superior derecha.
 
-.. image:: ../_static/images/4/iconoreloj.png
+.. image:: /_static/images/4/iconoreloj.png
     :align: center
 
-.. image:: ../_static/images/4/actpendiente.png
+.. image:: /_static/images/4/actpendiente.png
     :align: center
 
 Si la actividad se encuentra en una fecha posterior, se marcará como
@@ -187,7 +187,7 @@ archivo a adjuntar sea ligero. Dependiendo del número de adjuntos en la
 nota dentro del registro, dicho número se verá reflejado en el icono de
 clic de la parte superior derecha.
 
-.. image:: ../_static/images/4/adjuntosyseguidores.png
+.. image:: /_static/images/4/adjuntosyseguidores.png
     :align: center
 
 Seguidores
@@ -199,5 +199,5 @@ datos; de igual manera que en los adjuntos, el sistema nos mostrará en
 la parte superior derecha el número de seguidores, permitiéndonos añadir
 a más usuarios y también a eliminarlos.
 
-.. image:: ../_static/images/4/adjuntosyseguidores.png
+.. image:: /_static/images/4/adjuntosyseguidores.png
     :align: center
