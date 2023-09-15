@@ -32,7 +32,7 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_context = {
     'css_files': [
-        '_static/css/styles.css',
+        '_static/css/contigo.css',
     ],
 }
 
