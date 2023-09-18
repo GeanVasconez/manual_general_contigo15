@@ -1,4 +1,4 @@
- Primeros Pasos
+Primeros Pasos
 ==============
 
 Ingreso al sistema
@@ -9,7 +9,7 @@ dicho dominio aparecerá la siguiente pantalla.
 
 
 
-.. image:: ../static/images/3/pantallainiciosesioncontigo.png
+.. image:: /_static/images/3/pantallainiciosesioncontigo.png
     :align: center
 
 Se coloca tanto el usuario y contraseña, después deberá dar clic en iniciar sesión. Si
@@ -20,22 +20,22 @@ contactar con el **administrador** encargado.
 Para el caso en que el usuario olvide su contraseña, debajo del botón
 **“Iniciar Sesión”** se encuentra la opción de **“Recuperar Contraseña” (Reset Password)**.
 
-.. image:: ../static/images/3/restablecercontraseña.png
+.. image:: /_static/images/3/restablecercontraseña.png
     :align: center
 
 **Recuperar Contraseña**: El proceso de recuperación de contraseña
 enviará un correo al usuario, a la dirección email previamente
 configurada.
 
-.. image:: ../static/images/3/correorecuperarpassword.png
+.. image:: /_static/images/3/correorecuperarpassword.png
     :align: center
 
-.. image:: ../static/images/3/enviodecorreorestablecer.png
+.. image:: /_static/images/3/enviodecorreorestablecer.png
     :align: center
 
 Al momento de recibir el correo, se deberá dar clic en **“Cambiar Contraseña”** y el sistema lo enviara a la pantalla de cambio de clave.
 
-.. image:: ../static/images/3/pantallacambiodeclave.png
+.. image:: /_static/images/3/pantallacambiodeclave.png
     :align: center
 
 Al colocar la nueva contraseña es necesario volver al inicio e ingresar
@@ -48,32 +48,32 @@ Una vez ingresado al sistema, en la esquina superior derecha, se
 encuentra el ícono de nuestro usuario, al momento de dar clic en él nos
 saldrá una serie de opciones:
 
-.. image:: ../static/images/3/userpreferencias.png
+.. image:: /_static/images/3/userpreferencias.png
     :align: center
 
 **Atajo:** Muestra atajos del teclado que pueden ser utilizados para
 interactuar con el sistema.
 
-.. image:: ../static/images/3/atajosteclado.png
+.. image:: /_static/images/3/atajosteclado.png
     :align: center
 
 **Preferencias**: Permiteseleccionar el idioma, la zona horaria, definir por cuál medio le
 llegaran las notificaciones a dicho usuario, la posición de la barra de
 los módulos, la posición del chatter y su firma.
 
-.. image:: ../static/images/3/preferenciasuser.png
+.. image:: /_static/images/3/preferenciasuser.png
     :align: center
 
 De igual manera se podrá definir en la sección **“Seguridad de la cuenta”**
 el cambio de contraseña y si se requiere se podrá utilizar la
 autenticación de dos pasos.
 
-.. image:: ../static/images/3/userseguridadcuenta.png
+.. image:: /_static/images/3/userseguridadcuenta.png
     :align: center
 
 **Cerrar Sesión**: Nos devuelve almenú de inicio de sesión.
 
-.. image:: ../static/images/3/cerrarsesionscreen.png
+.. image:: /_static/images/3/cerrarsesionscreen.png
     :align: center
 
 Contactos
@@ -96,7 +96,7 @@ analíticas relacionadas, conciliaciones, opciones de compra y venta y la
 creación de usuarios. Para más información revisar el módulo
 **Contactos**.
 
-.. image:: ../static/images/3/crearcontactos.png
+.. image:: /_static/images/3/crearcontactos.png
     :align: center
 
 Uso de Barra de Filtros
@@ -105,14 +105,15 @@ Uso de Barra de Filtros
 El sistema cuenta con cuatro tipos de filtros y cada uno cumple una
 función específica.
 
-.. image:: ../static/images/3/barradefiltros.png
+.. image:: /_static/images/3/barradefiltros.png
     :align: center
+
 **Filtro por defecto**: Al momento de ingresar algún carácter en la
 barra de filtros de manera automática el sistema arrojará una serie de
 etiquetas que sirven para identificar de manera rápida lo que se está
 buscando.
 
-.. image:: ../static/images/3/filtropordefecto.png
+.. image:: /_static/images/3/filtropordefecto.png
     :align: center
 
 **Filtros**: Muestran una serie de etiquetas predefinidas en la
@@ -121,30 +122,30 @@ exacta, el filtro se activará si seleccionas cómo filtrar en la
 búsqueda, dependiendo de lo que selecciones aparecerá una etiqueta en la
 barra de búsqueda.
 
-.. image:: ../static/images/3/filtros.png
+.. image:: /_static/images/3/filtros.png
     :align: center
 
 **Filtros personalizados**: Esta opción permite al usuario añadir
 diferentes condiciones a la búsqueda o generar nuevos campos de
 búsqueda, también permite agregar condiciones para un mejor resultado.
 
-.. image:: ../static/images/3/filtropersonalizado.png
+.. image:: /_static/images/3/filtropersonalizado.png
     :align: center
 
-.. image:: ../static/images/3/filtropersonalizadodos.png
+.. image:: /_static/images/3/filtropersonalizadodos.png
     :align: center
 
 **Agrupar por**: Permite agrupar la información deseada o relacionada,
 dependiendo del modo de agrupación que el usuario le indique al sistema.
 
-.. image:: ../static/images/3/agruparpor.png
+.. image:: /_static/images/3/agruparpor.png
     :align: center
 
 **Agrupar Por personalizados**: Esta opción permite al usuario añadir
 diferentes condiciones a la búsqueda o generar nuevos campos de
 búsqueda, también permite agregar condiciones para un mejor resultado.
 
-.. image:: ../static/images/3/agruparpersonalizado.png
+.. image:: /_static/images/3/agruparpersonalizado.png
     :align: center
 
 **Favoritos**: Permite guardar una búsqueda personalizada y utilizarla
@@ -153,19 +154,19 @@ sea una búsqueda por filtro o agrupación) e indicas si deseas utilizar
 dicha búsqueda por defecto y/o si quieres compartirlo con otros
 usuarios.
 
-.. image:: ../static/images/3/favoritos.png
+.. image:: /_static/images/3/favoritos.png
     :align: center
 
 **Número de resultados**: Indica el número total de resultados, este
 puede modificarse en el caso de realizar tareas que lo requieran.
 
-.. image:: ../static/images/3/numeroderesultados.png
+.. image:: /_static/images/3/numeroderesultados.png
     :align: center
 
 En este ejemplo, le indicamos al sistema que se querrá visualizar los
 resultados existentes desde el 1 (primero) hasta el 220 (último).
 
-.. image:: ../static/images/3/numeroderesultados2.png
+.. image:: /_static/images/3/numeroderesultados2.png
     :align: center
 
 Tipos de Vistas
@@ -183,13 +184,13 @@ representa el registro correspondiente. Al hacer clic en otras celdas,
 se muestra una descripción detallada de todas las actividades del mismo
 tipo para el registro.
 
-.. image:: ../static/images/3/vistaactividad.png
+.. image:: /_static/images/3/vistaactividad.png
     :align: center
 
 **Vista Formulario**: Las vistas de formulario se utilizan para mostrar los datos de un solo registro,
 siendo la vista más usada el sistema.
 
-.. image:: ../static/images/3/vistaformulario.png
+.. image:: /_static/images/3/vistaformulario.png
     :align: center
 
 **Vista Kanban**: La vista Kanban es una visualización de tablero Kanban; muestra registros
@@ -199,18 +200,19 @@ su uso en la visualización o manipulación del flujo de trabajo (por
 ejemplo, tareas o gestión del progreso del trabajo), o desagruparse
 (usarse simplemente para visualizar registros).
 
-.. image:: ../static/images/3/vistakanban.png
+.. image:: /_static/images/3/vistakanban.png
     :align: center
 
 **Vista Lista**: Muestra los múltiples registros en forma de lista.
 
-.. image:: ../static/images/3/vistalista.png
+.. image:: /_static/images/3/vistalista.png
     :align: center
 
 .. note::
-Si deseas saber en qué tipo de vista estas, dirígete a la
-esquina superior derecha, pasas el ratón en los diferentes tipos vistas
-que se muestran y el sistema te arrojará el nombre de la vista.
+
+    Si deseas saber en qué tipo de vista estas, dirígete a la
+    esquina superior derecha, pasas el ratón en los diferentes tipos vistas
+    que se muestran y el sistema te arrojará el nombre de la vista.
 
 Acciones
 --------
@@ -222,7 +224,7 @@ tener más de una acción en el módulo y éstas nos permitirán realizar
 actividades de manera más rápida, dependiendo de su función asignada en
 el sistema.
 
-.. image:: ../static/images/3/accionesbarra.png
+.. image:: /_static/images/3/accionesbarra.png
     :align: center
 
 
@@ -236,28 +238,28 @@ Para importar datos deberá abrir la vista del objetivo que desea llenar y haga 
 ‣ Importar registros.
 
 
-.. image:: ../static/images/3/importacion.png
+.. image:: /_static/images/3/importacion.png
     :align: center
 
 Al dar clic se habilitará la siguiente vista en la cual se deberá subir un archivo CSV o EXCEL con los datos que correspondan al modelo u objetivo a importar, para subir dicho archivo deberá dar clic al botón “Subir archivo”.
 
-.. image:: ../static/images/3/contactos.png
+.. image:: /_static/images/3/contactos.png
     :align: center
 
 El sistema leerá el archivo y comenzara a mapearlo (relacionar los campos del sistema con los datos del archivo que se ha procesado), en el caso de que no pueda relacionar los campos el sistema dejara la siguiente advertencia “Para importar, seleccione un campo”
 
-.. image:: ../static/images/3/contactos_importar.png
+.. image:: /_static/images/3/contactos_importar.png
     :align: center
 
 Si todos los datos a procesar están correctamente relacionados con los campos del sistema y se desee verificar que todo esté en orden, podrá dar clic en el botón “Prueba”, de esta manera el sistema analizara y verificara que estén llenos los campos que son requeridos en los registros y de igual manera si el tipo de dato (numéricos, caracteres, booleanos) correspondan a los tipos de datos definidos en los campos.
 En el caso de que todo este en orden el sistema mostrará un mensaje indicando que se podrá procesar los datos sin problemas
 
-.. image:: ../static/images/3/contactos_importararchivo.png
+.. image:: /_static/images/3/contactos_importararchivo.png
     :align: center
 
 Si aparece algún error el sistema alertara en donde se encentra el error y proporciona opciones para resolverlo, en el caso de que no se pueda procesar un dato que es obligatorio es necesario que se comunique con el departamento de soporte del sistema.
 
-.. image:: ../static/images/3/contacto_importarunarchivo.png
+.. image:: /_static/images/3/contactos_importarunarchivo.png
     :align: center
 
 En el caso de que se ha realizado   las pruebas conexito, se deberá dar clic al botón Importar, de esta manera el sistema guardara los datos del archivo y ya podrán ser utilizados por los otros módulos.
@@ -279,5 +281,5 @@ si la acción está permitida o no; ya sean mensajes de error referentes a
 permisos de usuario o falta de campos en uno de los formularios e
 inclusive el tipo de dato que este requiere.
 
-.. image:: ../static/images/3/mensajesdeerror.png
+.. image:: /_static/images/3/mensajesdeerror.png
     :align: center
