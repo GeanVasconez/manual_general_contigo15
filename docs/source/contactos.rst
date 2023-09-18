@@ -117,7 +117,7 @@ todo los datos:
 .. image:: ../static/images/5/industriasdescarga.png
     :align: center
 
-.. image:: ../static/images/5/industriadedatos.png
+.. image:: ../static/images/5/industriadedatoss.png
     :align: center
 
 Localización / Países
@@ -141,10 +141,12 @@ Ecuador.
 .. image:: ../static/images/5/localizacionpaises.png
     :align: center
 
-Nota: Es importante añadir los estados a los países
-que más utilicen, ya que nos ayudará a identificar de manera precisa las
-ubicaciones que se emplean en los módulos de **Contactos** y
-**Contabilidad.**
+.. note::
+
+    Es importante añadir los estados a los países
+    que más utilicen, ya que nos ayudará a identificar de manera precisa las
+    ubicaciones que se emplean en los módulos de **Contactos** y
+    **Contabilidad.**
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:

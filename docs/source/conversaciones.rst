@@ -97,7 +97,7 @@ para que se comporte como una lista de correo. Habilitar esta opción le
 permite moderar este canal, lo que significa que los mensajes deberán
 ser aprobados antes de enviarse.
 
-Conversación/ canales públicos
+Conversación/ Canales públicos
 -------------------------------
 
 .. image:: ../static/images/4/canalespublicos.png
