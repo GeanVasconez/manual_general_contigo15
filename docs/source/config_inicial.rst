@@ -350,8 +350,7 @@ emisión requiere introducir un nombre, un código, seleccionar el estado
 si es activo, la agencia y el ambiente. Además, se puede enviar el
 documento por medio electrónico.
 
-.. image:: /_static/images/2/añofiscal.png
-    :align: center
+
 
 Cuentas Bancarias
 -----------------

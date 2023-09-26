@@ -469,9 +469,11 @@ En la parte superior encontraremos dos botones:
 .. image:: /_static/images/7/asientoscontablespagos.png
     :align: center
 
-**Nota:** En el caso de que se necesite crear un pago con múltiples
-facturas, primero se debe visualizar que las facturas estén en estado
-Abierto.
+.. note::
+
+    En el caso de que se necesite crear un pago con múltiples
+    facturas, primero se debe visualizar que las facturas estén en estado
+    Abierto.
 
 Se seleccionan las facturas del mismo cliente, por consiguiente, se debe
 dirigir en la opción Acción y seleccionar Registrar Pago.
@@ -782,9 +784,11 @@ canceló la factura.
 .. image:: /_static/images/7/grabardescartarproveedor.png
     :align: center
 
-**Nota:** Cuando la factura se encuentra en los estados “Validado” o
-“Cancelado”, nos mostrará dentro de la vista de la factura los
-siguientes botones.
+.. note::
+
+    Cuando la factura se encuentra en los estados “Validado” o
+    “Cancelado”, nos mostrará dentro de la vista de la factura los
+    siguientes botones.
 
 .. image:: /_static/images/7/botonesfactproveedores.png
     :align: center
@@ -1186,9 +1190,11 @@ calcula el saldo actual.
 .. image:: /_static/images/7/crearconciliacionbancaria.png
     :align: center
 
-**Nota:** En la parte superior
-tenemos la opción de “Confirmar todos”, “Borrar no conciliados”,
-“Calcular”, y “Cancelar todos”,”Confirmar”.
+.. note::
+
+    En la parte superior
+    tenemos la opción de “Confirmar todos”, “Borrar no conciliados”,
+    “Calcular”, y “Cancelar todos”,”Confirmar”.
 
 **Confirmar:** Confirma el asiento y el estado cambia de borrador a
 cerrado.
@@ -1354,8 +1360,10 @@ contables.
 .. image:: /_static/images/7/entradasautomaticasapuntescontables.png
     :align: center
 
-**NOTA:** La creación de asientos contables automáticos sólo se puede
-realizar en asientos contables no conciliados.
+.. note::
+
+    La creación de asientos contables automáticos sólo se puede
+    realizar en asientos contables no conciliados.
 
 Acciones / Conciliación
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1856,11 +1864,11 @@ valores anulados o puede elegir los tres, después de presionar en
 .. image:: /_static/images/7/informaciondeCompras.png
     :align: center
 
-Informes de Contabilidad OCA/Libro mayor
+Informes de Contabilidad /Libro mayor
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes de Contabilidad** OCA la opción
+**Informe** y buscar en **Informes de Contabilidad**  la opción
 **Libro mayor**.
 
 Genera una tabla con todo el balance con la información de un periodo
@@ -1890,14 +1898,14 @@ y el saldo acumulado
 .. image:: /_static/images/7/informaciondeCompras.png
     :align: center
 
-Informes de Contabilidad OCA/Libro diario
+Informes de Contabilidad /Libro diario
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /_static/images/7/informesdecontabilidadOCAlibrodiario.png
     :align: center
 
 Ingresar al módulo de **Contabilidad**, posteriormente
-seleccionar **Informe** y buscar en **Informes** de Contabilidad OCA la
+seleccionar **Informe** y buscar en **Informes** de Contabilidad  la
 opción **Libro diario**.
 
 Genera una tabla con el balance en base a los diarios, con la
@@ -1923,11 +1931,11 @@ Ref. Etiqueta, los impuestos, el debe, el haber, actual, importe monedas
 .. image:: /_static/images/7/diariodecontabilidad.png
     :align: center
 
-Informes de Contabilidad OCA/Balance de Sumas y Saldos
+Informes de Contabilidad /Balance de Sumas y Saldos
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Balance de Sumas y Saldos**.
 
 Genera una tabla con el balance en base de sumas y saldos, con la
@@ -1954,11 +1962,11 @@ y limitar niveles de jerarquía.
 .. image:: /_static/images/7/balancedesumaysaldo.png
     :align: center
 
-Informes de Contabilidad OCA/Pérdidas y Ganancias
+Informes de Contabilidad /Pérdidas y Ganancias
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Pérdidas y Ganancias**.
 
 Genera una tabla con las pérdidas y ganancias, con la información de
@@ -1996,11 +2004,11 @@ balance, balance inicial y balance final
 .. image:: /_static/images/7/perdidayganancia.png
     :align: center
 
-Informes de Contabilidad OCA/Balance General
+Informes de Contabilidad /Balance General
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Balance General**.
 
 Genera una tabla con el balance general, con la información de periodo,
@@ -2023,11 +2031,11 @@ puedes mostrar la tabla o exportar a XLS o a Pdf,
 .. image:: /_static/images/7/balancesgeneral.png
     :align: center
 
-Informes de Contabilidad OCA/Partidas abiertas
+Informes de Contabilidad /Partidas abiertas
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Partidas abiertas**.
 
 Genera una tabla en base a las partidas abiertas que están disponibles
@@ -2051,11 +2059,11 @@ a Pdf
 .. image:: /_static/images/7/partidasabiertas.png
     :align: center
 
-Informes de Contabilidad OCA/Calidad de la deuda
+Informes de Contabilidad /Calidad de la deuda
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Calidad de la deuda**.
 
 Genera una tabla en base a la calidad de la deuda que están disponibles
@@ -2076,11 +2084,11 @@ código, al final puedes mostrar la tabla o importarla a XLS o a Pdf.
 .. image:: /_static/images/7/calidaddeladeudas.png
     :align: center
 
-Informes de Contabilidad OCA/Informe de Impuestos
+Informes de Contabilidad /Informe de Impuestos
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Informe** y buscar en **Informes** de Contabilidad OCA la opción
+**Informe** y buscar en **Informes** de Contabilidad  la opción
 **Informe de impuestos**.
 
 Genera una tabla en base a la información de los impuestos, esta tabla

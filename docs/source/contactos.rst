@@ -138,8 +138,10 @@ Ecuador.
 .. image:: /_static/images/5/localizacionespaises.png
     :align: center
 
-.. image:: /_static/images/5/localizacion_paises.png
+
+.. image:: /_static/images/5/localizacion_pais.png
     :align: center
+
 
 .. note::
 
@@ -147,6 +149,7 @@ Ecuador.
     que más utilicen, ya que nos ayudará a identificar de manera precisa las
     ubicaciones que se emplean en los módulos de **Contactos** y
     **Contabilidad.**
+
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
