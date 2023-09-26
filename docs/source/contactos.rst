@@ -119,7 +119,7 @@ todo los datos:
 .. image:: /_static/images/5/industriasdescarga.png
     :align: center
 
-.. image:: /_static/images/5/industriadedatos.png
+.. image:: /_static/images/5/industriadedatoss.png
     :align: center
 
 Localización / Países
@@ -140,13 +140,15 @@ Ecuador.
 .. image:: /_static/images/5/localizacionespaises.png
     :align: center
 
-.. image:: /_static/images/5/localizacionpaises.png
+.. image:: /_static/images/5/localizacion_paises.png
     :align: center
 
-Nota: Es importante añadir los estados a los países
-que más utilicen, ya que nos ayudará a identificar de manera precisa las
-ubicaciones que se emplean en los módulos de **Contactos** y
-**Contabilidad.**
+.. note::
+
+    Es importante añadir los estados a los países
+    que más utilicen, ya que nos ayudará a identificar de manera precisa las
+    ubicaciones que se emplean en los módulos de **Contactos** y
+    **Contabilidad.**
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
@@ -183,7 +185,7 @@ todo los datos:
 .. image:: /_static/images/5/localizacionprovinciadescarga.png
     :align: center
 
-.. image:: /_static/images/5/localizacionprovinciadatos.png
+.. image:: /_static/images/5/localizacion_provincia.png
     :align: center
 
 Localización / Grupo de paises
@@ -217,7 +219,7 @@ todo los datos:
 .. image:: /_static/images/5/gruposdepaisesdescarga.png
     :align: center
 
-.. image:: /_static/images/5/gruposdepaisesdatos.png
+.. image:: /_static/images/5/localizacion_grupodepaises.png
     :align: center
 
 Localización / Ciudades
@@ -250,7 +252,7 @@ todo los datos:
 .. image:: /_static/images/5/localizacionciudadesdescarga.png
     :align: center
 
-.. image:: /_static/images/5/localizacionciudadesdatos.png
+.. image:: /_static/images/5/localizacion_ciudades.png
     :align: center
 
 Localización / Parroquias
@@ -275,7 +277,7 @@ todo los datos:
 .. image:: /_static/images/5/localizacionparroquiasdescarga.png
     :align: center
 
-.. image:: /_static/images/5/localizacionparroquiasdatos.png
+.. image:: /_static/images/5/localizacion_parroquias.png
     :align: center
 
 Cuentas Bancarias / Bancos
@@ -303,7 +305,7 @@ un archivo excel de estos datos ingresados:
 .. image:: /_static/images/5/cuentasbancariasdescarga.png
     :align: center
 
-.. image:: /_static/images/5/cuentasbancariasdatos.png
+.. image:: /_static/images/5/localizacion_banco.png
     :align: center
 
 Cuentas Bancarias / Cuentas Bancarias
@@ -334,7 +336,7 @@ De igual manera, el sistema permite la descarga de un archivo xlsx
 .. image:: /_static/images/5/cuentasbancariasdescarga.png
     :align: center
 
-.. image:: /_static/images/5/cuentasbancariasdescarga.png
+.. image:: /_static/images/5/localizacion_cuentasbancarias.png
     :align: center
 
 Tipo de Identificación

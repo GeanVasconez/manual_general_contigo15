@@ -1369,7 +1369,7 @@ Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
 .. image:: /_static/images/7/accion_conciliacion.png
     :align: center
 
-**CONCILIAR:** Esta opción permite realizar el respectivo
+**Conciliar:** Esta opción permite realizar el respectivo
 cruce de las diferentes cuentas; tanto las cuentas por cobrar como las
 cuentas por pagar hasta lograr saldarlas.
 
@@ -1769,7 +1769,7 @@ Diarios Contables /Varios
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ingresar al módulo de **Contabilidad**, posteriormente seleccionar
-**Contabilidad** y buscar en \__Diarios Contables la opción Varios.
+**Contabilidad** y buscar en **Diarios Contables** la opción **Varios.**
 
 Informes
 --------

@@ -346,10 +346,7 @@ Nos dirigimos al módulo de **Contabilidad**, seleccionamos el menú de
 **Configuración**, buscamos **Facturación** y por último seleccionamos
 **Puntos de Emisión**.
 
-.. image:: /_static/images/2/añofiscal.png
-    :align: center
-
-.. image:: /_static/images/2/añofiscal.png
+.. image:: /_static/images/2/puntodeemision.png
     :align: center
 
 Configurar el punto de emisión que viene por defecto, en el punto de

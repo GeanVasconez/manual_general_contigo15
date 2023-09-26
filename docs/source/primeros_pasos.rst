@@ -110,6 +110,7 @@ función específica.
 
 .. image:: /_static/images/3/barradefiltros.png
     :align: center
+
 **Filtro por defecto**: Al momento de ingresar algún carácter en la
 barra de filtros de manera automática el sistema arrojará una serie de
 etiquetas que sirven para identificar de manera rápida lo que se está
@@ -211,9 +212,10 @@ ejemplo, tareas o gestión del progreso del trabajo), o desagruparse
     :align: center
 
 .. note::
-Si deseas saber en qué tipo de vista estas, dirígete a la
-esquina superior derecha, pasas el ratón en los diferentes tipos vistas
-que se muestran y el sistema te arrojará el nombre de la vista.
+
+    Si deseas saber en qué tipo de vista estas, dirígete a la
+    esquina superior derecha, pasas el ratón en los diferentes tipos vistas
+    que se muestran y el sistema te arrojará el nombre de la vista.
 
 Acciones
 --------
