@@ -1,7 +1,3 @@
-.. raw:: html
-
-   <link rel="stylesheet" href="_static/estilomanex.css">
-
 Configuración Inicial
 =====================
 
@@ -13,11 +9,13 @@ Para crear un usuario,se debe llenar los campos Nombre, Dirección de email y fo
 
 .. image:: /_static/images/2/datosusuario.png
     :align: center
+    :class: bordered-img
 
 **Activación del usuario:** En la esquina superior del mismo formulario se habilitara con un recuadro que indica si el usuario creado ha confirmado su inicio de sesión, caso contrario, se mostrará “Nunca se conecta”.
 
 .. image:: /_static/images/2/nuncaseconecta.png
     :align: center
+    :class: bordered-img
 
 
 Esta barra de estado nos indicará si el usuario no se ha conectado desde
@@ -26,6 +24,7 @@ de “Nunca se conecta” a “Confirmado”.
 
 .. image:: /_static/images/2/confirmadouser.png
     :align: center
+    :class: bordered-img
 
 
 **Permisos de acceso**: Parte fundamental del sistema, que se encarga de
@@ -35,6 +34,7 @@ sistema.
 
 .. image:: /_static/images/2/permisosaccess.png
     :align: center
+    :class: bordered-img
 
 
 **Tiendas**: El sistema permite gestionar las sucursales en que el
@@ -43,6 +43,7 @@ revisar la opción :ref:`Agencias`.
 
 .. image:: /_static/images/2/agencies.png
     :align: center
+    :class: bordered-img
 
 **Preferencias**: Nos permite seleccionar para cada usuario el
 idioma, la zona horaria, el medio de entrega de notificaciones, la
@@ -50,11 +51,15 @@ plantilla de firma y la firma digital(opcional).
 
 .. image:: /_static/images/2/preferencias.png
     :align: center
+    :class: bordered-img
+
 **Seguridad de la cuenta**: Nos permite seleccionar la autenticación de dos pasos para
 proteger la cuenta.
 
 .. image:: /_static/images/2/security.png
     :align: center
+    :class: bordered-img
+
 **Acciones**: Nos permite archivar, suprimir, duplicar y cambiar la contraseña de dicho usuario, desactivar
 la autenticación de dos pasos y también nos permite ayudar al usuario a
 recuperar su contraseña enviando instrucciones para el restablecimiento
@@ -62,6 +67,7 @@ de la misma.
 
 .. image:: /_static/images/2/acciones.png
     :align: center
+    :class: bordered-img
 
 .. note::
     En caso de cambiar la contraseña se abrirá una ventana emergente, donde
@@ -70,11 +76,15 @@ de la misma.
 
 .. image:: /_static/images/2/changepassword.png
     :align: center
+    :class: bordered-img
+
 En la parte superior, antes de las opciones de crear o editar usuario
 tenemos una barra que permite “Enviar un correo de invitación”:
 
 .. image:: /_static/images/2/correoinvitacion.png
     :align: center
+    :class: bordered-img
+
 Al usuario se le enviará por correo una invitación para que ingrese al
 sistema, si todo sale bien y la invitación se envía con éxito mostrará
 un mensaje confirmando dicha acción.
@@ -111,6 +121,7 @@ financieros.
 
 .. image:: /_static/images/2/planctauno.png
     :align: center
+    :class: bordered-img
 
 El sistema Contigo tiene los datos básicos del
 plan contable, pero es necesario verificar cuáles son las cuentas
@@ -126,9 +137,11 @@ adicionales como:
 
 .. image:: /_static/images/2/planctados.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/planctatres.png
     :align: center
+    :class: bordered-img
 
 **Tipo**: Aquí se define el tipo de cuenta, ya sean capitales, activos,
 pasivos; cabe recalcar que las cuentas por cobrar y pagar deberán
@@ -162,6 +175,7 @@ digite el código de la cuenta contable.
 
 .. image:: /_static/images/2/nivelescta.png
     :align: center
+    :class: bordered-img
 
 Por ejemplo, en la imagen de arriba solo se están visualizando las
 cuentas nivel 1.
@@ -185,6 +199,7 @@ contables que posean dicho prefijo.
 
 .. image:: /_static/images/2/grupoctas.png
     :align: center
+    :class: bordered-img
 
 Impuestos
 ---------
@@ -204,6 +219,7 @@ impuesto, si se desea se puede añadir un nombre corto y seleccionar el
 
 .. image:: /_static/images/2/impuestosuno.png
     :align: center
+    :class: bordered-img
 
 **Definición**: Esta pestaña nos ayuda a determinar el cálculo
 del impuesto, su importe, la cuenta de impuestos y la cuenta de
@@ -211,6 +227,7 @@ impuestos para las notas de crédito.
 
 .. image:: /_static/images/2/impuestosdos.png
     :align: center
+    :class: bordered-img
 
 **Opciones avanzadas**:
 Esta opción nos permite añadir la etiqueta de factura, el grupo de
@@ -219,6 +236,7 @@ añadir más etiquetas para reconocimiento de este.
 
 .. image:: /_static/images/2/impuestostres.png
     :align: center
+    :class: bordered-img
 
 **Código de impuestos**: Nos permite ingresar el código base y el código de
 impuestos para las ventas y compras; de la misma manera el reembolso de
@@ -226,6 +244,7 @@ ventas y compras con la diferencia del código de devoluciones.
 
 .. image:: /_static/images/2/impuestosfour.png
     :align: center
+    :class: bordered-img
 
 Información de la compañía
 --------------------------
@@ -242,6 +261,7 @@ nombre de la compañía.
 
 .. image:: /_static/images/2/companyuno.png
     :align: center
+    :class: bordered-img
 
 **Información General**: Se debe registrar todos los datos de la
 compañía y si la compañía posee factura electrónica, llenar en el
@@ -249,12 +269,15 @@ sistema sus respectivos campos para su posterior utilización.
 
 .. image:: /_static/images/2/companydos.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/companytres.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2//companyfour.png
     :align: center
+    :class: bordered-img
 
 **Contabilidad**: Nos permite indicar al sistema las retenciones,
 sustentos tributarios, las cuentas contables y la cuenta de
@@ -263,27 +286,35 @@ contable.
 
 .. image:: /_static/images/2/contuno.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contdos.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contres.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contfour.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contfive.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contseis.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contsiete.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/contocho.png
     :align: center
+    :class: bordered-img
 
 **Agencia** Esta tarea puede ser realizada por el administrador, debe
 dirigirse al módulo de **Administración**, seleccionar la opción
@@ -291,9 +322,11 @@ dirigirse al módulo de **Administración**, seleccionar la opción
 
 .. image:: /_static/images/2/moduloagencia.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/crearagencia.png
     :align: center
+    :class: bordered-img
 
 Configuración de correo saliente
 --------------------------------
@@ -302,6 +335,7 @@ menú **Servidor de Correo Saliente**.
 
 .. image:: /_static/images/2/modulocorreosaliente.png
     :align: center
+    :class: bordered-img
 
 Para crear el servidor de correo saliente, añadimos una descripción de nuestro correo y
 seleccionamos su prioridad (entre más bajo el número mayor será la
@@ -317,12 +351,15 @@ prueba la conexión y listo.
 
 .. image:: /_static/images/2/crearcorreosaliente.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/conexionexitosacorreosaliente.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/vistacorreosaliente.png
     :align: center
+    :class: bordered-img
 
 Creación de año fiscal y periodos
 ---------------------------------
@@ -331,9 +368,11 @@ Facturación y seleccionamos **Año Fiscal**.
 
 .. image:: /_static/images/2/moduloañofiscal.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/añofiscal.png
     :align: center
+    :class: bordered-img
 
 Para crear el año fiscal en curso, colocar en “Nombre” el año,
 configurar la fecha de inicio y fecha de finalización del año y dar clic
@@ -346,14 +385,22 @@ Nos dirigimos al módulo de **Contabilidad**, seleccionamos el menú de
 **Configuración**, buscamos **Facturación** y por último seleccionamos
 **Puntos de Emisión**.
 
-.. image:: /_static/images/2/puntodeemision.png
+.. image:: /_static/images/2/añofiscal.png
     :align: center
+    :class: bordered-img
+
+.. image:: /_static/images/2/añofiscal.png
+    :align: center
+    :class: bordered-img
 
 Configurar el punto de emisión que viene por defecto, en el punto de
 emisión requiere introducir un nombre, un código, seleccionar el estado
 si es activo, la agencia y el ambiente. Además, se puede enviar el
 documento por medio electrónico.
 
+.. image:: /_static/images/2/añofiscal.png
+    :align: center
+    :class: bordered-img
 
 
 Cuentas Bancarias
@@ -363,9 +410,11 @@ En el módulo de **Contabilidad**, seleccionamos el menú de **Configuración**,
 
 .. image:: /_static/images/2/modulocuentasbancarias.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/agregarcuentasbancarias.png
     :align: center
+    :class: bordered-img
 
 Para configurar las cuentas bancarias, ingresamos el número de cuenta,
 el banco correspondiente y el código de identificación bancaria. El
@@ -373,9 +422,11 @@ banco se asocia a la empresa.
 
 .. image:: /_static/images/2/crearcuentabancaria.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/cuentaasociadaempresa.png
     :align: center
+    :class: bordered-img
 
 Diarios
 -------
@@ -386,9 +437,11 @@ localizamos **Diarios Contables**.
 
 .. image:: /_static/images/2/modulodiariocontables.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/diarioscontables.png
     :align: center
+    :class: bordered-img
 
 En los diarios ingresamos el nombre, el tipo (venta, compra, banco,
 efectivo o miscelánea) según corresponda, también nos permite
@@ -397,6 +450,7 @@ está registrada, se puede crear o editar.
 
 .. image:: /_static/images/2/creardiariocontable.png
     :align: center
+    :class: bordered-img
 
 También se configura el código corto y la secuencia de los
 asientos. Se define las cuentas de débito y crédito por defecto; también
@@ -408,9 +462,11 @@ corresponde a cuenta corriente o ahorros y guardamos.
 
 .. image:: /_static/images/2/apartadoasientoscontables.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/2/vistadiarioscontables.png
     :align: center
+    :class: bordered-img
 
 
 

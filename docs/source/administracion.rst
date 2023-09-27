@@ -22,6 +22,7 @@ del módulo de Contactos (Para más información revise el manual **Contigo Gene
 
 .. image:: /_static/images/6/administracion_usuari.png
     :align: center
+    :class: bordered-img
 
 Es importante definir los Permisos de acceso, la tienda (Agencias) en
 donde se encuentra laborando y las preferencias de usuario (El mismo
@@ -39,12 +40,16 @@ contacto.
 
 .. image:: /_static/images/6/administracion_usuar.png
     :align: center
+    :class: bordered-img
+
 
 **Tiendas:** Permite identificar las tiendas/agencias en las cuales se
 encuentra el usuario y en las tiendas que tiene permitido trabajar.
 
 .. image:: /_static/images/6/administracion_tiendas.png
     :align: center
+    :class: bordered-img
+
 
 **Preferencias:** Permite una serie de configuraciones dentro del sistema,
 como el idioma, la zona horaria, notificación (Manejar por correos
@@ -53,6 +58,7 @@ electrónicos o Manejar en Odoo), firma de correo electrónico y por
 
 .. image:: /_static/images/6/administracion_preferencias.png
     :align: center
+    :class: bordered-img
 
 Cuando seleccione firma de firma digital, le va a aparecer una ventana
 que dice adopte su firma, si no tiene una firma guardada en la
@@ -62,6 +68,8 @@ firma y si está seguro de su decisión presione “Aprobar y firmar”.
 
 .. image:: /_static/images/6/administracion_adoptesufirma.png
     :align: center
+    :class: bordered-img
+
 
 .. note::
 Para asignar una contraseña y restablecer la misma, se
@@ -74,6 +82,8 @@ saldrán tres opciones elija la opción que dice “Cambiar la contraseña”.
 
 .. image:: /_static/images/6/administracion_accion.png
     :align: center
+    :class: bordered-img
+
 
 El sistema mostrará un formulario simple, el cual consta del correo del
 usuario en la parte izquierda y el espacio para la nueva contraseña en
@@ -82,6 +92,8 @@ procede a confirmar (Cambiar la contraseña).
 
 .. image:: /_static/images/6/administracion_cambiarlacontraseña.png
     :align: center
+    :class: bordered-img
+
 
 .. note::
     Este proceso se recomienda utilizarlo si es necesario que el
@@ -94,9 +106,13 @@ procede a confirmar (Cambiar la contraseña).
 
 .. image:: /_static/images/6/administracion_enviarinstrucciones.png
     :align: center
+    :class: bordered-img
+
 
 .. image:: /_static/images/6/administracion_cambiarcontraseñas.png
     :align: center
+    :class: bordered-img
+
 
 3.- Cambiar contraseña: Si el usuario no posee ninguna contraseña o no
 recuerda la misma, es preferible que utilice esta opción. En la página
@@ -106,6 +122,8 @@ para la obtención de la nueva contraseña.
 
 .. image:: /_static/images/6/administracion_cambiarcontraseñaa.png
     :align: center
+    :class: bordered-img
+
 
 Compañias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -121,9 +139,13 @@ obligatorios empezando por el nombre de la compañía.
 
 .. image:: /_static/images/6/administracion_compañias.png
     :align: center
+    :class: bordered-img
+
 
 .. image:: /_static/images/6/administracion_nombredelacompañia.png
     :align: center
+    :class: bordered-img
+
 
 **Información General:** Se debe registrar todos los datos de la compañía y
 si la compañía posee factura electrónica, llenar en el sistema sus
@@ -131,6 +153,8 @@ respectivos campos para su posterior utilización.
 
 .. image:: /_static/images/6/administracion_informaciongeneral.png
     :align: center
+    :class: bordered-img
+
 
 **Contabilidad:** Permite indicar al sistema las retenciones, sustentos
 tributarios, las cuentas contables y la cuenta de transferencia entre
@@ -138,6 +162,8 @@ bancos que la empresa utiliza para toda su actividad contable.
 
 .. image:: /_static/images/6/administracion_contabilidad.png
     :align: center
+    :class: bordered-img
+
 
 El sistema muestra opciones que afectarán a otros módulos como:
 Contabilidad **Verificación de correo:** Si esta opción está marcada,
@@ -164,6 +190,8 @@ ID y Cedula/Ruc.
 
 .. image:: /_static/images/6/administracion_verificacion.png
     :align: center
+    :class: bordered-img
+
 
 **Retenciones:** Para utilizar correctamente los siguientes apartados, se
 requiere ya tener configurado las siguientes retenciones: Ret. IVA
@@ -171,25 +199,32 @@ Bienes Ret. Renta Bienes Ret. IVA Servicios Ret. Renta Servicios
 
 .. image:: /_static/images/6/administracion_compañiaretenciones.png
      :align: center
+     :class: bordered-img
+
 
 **Cuentas Contables:** Permite enlazar las cuentas de ingreso y gastos a
 los elementos del plan contable.
 
 .. image:: /_static/images/6/administracion_cuentacontable.png
-     :align: center
+    :align: center
+    :class: bordered-img
+
 
 **Anticipos:** Permite configurar las cuentas de anticipos para clientes y
 proveedores.
 
 .. image:: /_static/images/6/administracion_anticipos.png
-     :align: center
+    :align: center
+    :class: bordered-img
+
 
 **Conciliaciones Bancarias:** Permite la configuración de dos cuentas, las
 cuales sirven para realizar los pagos no registrados o no identificados
 en el sistema y así obtener cuadre de la conciliación.
 
 .. image:: /_static/images/6/administracion_conciliacionesbancarias.png
-     :align: center
+    :align: center
+    :class: bordered-img
 
 **Firmas Asientos Contable:** Al momento de guardar un asiento,
 dependiendo de los usuarios seleccionados en esta opción; el mismo
@@ -197,12 +232,14 @@ aparecerá en el registro y posteriores.
 
 .. image:: /_static/images/6/administracion_firmascontable.png
      :align: center
+     :class: bordered-img
 
 **Bancos:** Se tiene que poner el número de la cuenta de transferencias
 interbancarias.
 
 .. image:: /_static/images/6/administracion_compañiabanco.png
      :align: center
+     :class: bordered-img
 
 Agencias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -216,9 +253,11 @@ secundarias.
 
 .. image:: /_static/images/6/administracion_agenciad.png
      :align: center
+     :class: bordered-img
 
 .. image:: /_static/images/6/administracion_agenciasnuevo.png
      :align: center
+     :class: bordered-img
 
 En el campo **Sucursal Padre** se selecciona el nombre de una sucursal
 previamente creada, esto nos permite diferenciar cual es la sucursal
@@ -238,12 +277,15 @@ correo, se prueba la conexión y listo.
 
 .. image:: /_static/images/6/administracion_servidordecorreosalientes.png
      :align: center
+     :class: bordered-img
 
 .. image:: /_static/images/6/adminsitracion_servidorcontigo.png
      :align: center
+     :class: bordered-img
 
 .. image:: /_static/images/6/administracion_servidordecorreo.png
      :align: center
+     :class: bordered-img
 
 Secuencia
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -254,6 +296,7 @@ de frecuencia, próximo número, pasó y por último la implementación.
 
 .. image:: /_static/images/6/administracion_secuencia.png
      :align: center
+     :class: bordered-img
 
 Estas son creadas por el nombre, el código de secuencia, la
 implementación (para saber si es Estandar o es sin hueco) y ver si está
@@ -261,6 +304,7 @@ activo caso contrario no se va a seleccionar el activo.
 
 .. image:: /_static/images/6/administracion_secuencianuevo.png
      :align: center
+     :class: bordered-img
 
 **Secuencia:** En secuencia se tienen que llenar unos datos más:
 Prefijo: Cual será el valor del prefijo para la secuencia Sufijo: Su
@@ -275,6 +319,7 @@ el valor mostrado puede ya estar obsoleto
 
 .. image:: /_static/images/6/administracion_secuenciaprefijo.png
      :align: center
+     :class: bordered-img
 
 Precisión decimal
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -289,9 +334,11 @@ dígitos decimales son dos.
 
 .. image:: /_static/images/6/administracion_precisiondecimals.png
      :align: center
+     :class: bordered-img
 
 .. image:: /_static/images/6/administracion_precision.png
      :align: center
+     :class: bordered-img
 
 Correo Electrónico
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -312,23 +359,28 @@ opciones ya dichas
 
 .. image:: /_static/images/6/administracion_correoelectronicos.png
      :align: center
+     :class: bordered-img
 
 .. image:: /_static/images/6/administracion_correoelectronic.png
      :align: center
+     :class: bordered-img
 
 **Contenido:** Aquí se muestra que contiene el mensaje
 
 .. image:: /_static/images/6/administracion_contenidos.png
      :align: center
+     :class: bordered-img
 
 **Adjuntos:** Se asocian un documento mediante el modelo/res_id y al mensaje
 mediante este campo.
 
 .. image:: /_static/images/6/administracion_adjunto.png
      :align: center
+     :class: bordered-img
 
 **Razón del fallo:** Aquí se muestra la razón del fallo de la entrega de
 correo del porque no fue enviado
 
 .. image:: /_static/images/6/administracion_razondelfallos.png
      :align: center
+     :class: bordered-img

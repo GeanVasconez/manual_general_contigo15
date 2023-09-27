@@ -20,6 +20,7 @@ vía Contigo.
 
 .. image:: /_static/images/4/preferenciasdelacuenta.png
     :align: center
+    :class: bordered-img
 
 Para utilizar de manera óptima el módulo de conversaciones es
 recomendable que la gestión de notificaciones esté manejada por Contigo.
@@ -37,6 +38,7 @@ agregado en destacados.
 
 .. image:: /_static/images/4/bandejadeentrada.png
     :align: center
+    :class: bordered-img
 
 Contigo Bot
 -----------
@@ -49,6 +51,7 @@ Contigo.
 
 .. image:: /_static/images/4/contigobot.png
     :align: center
+    :class: bordered-img
 
 Interaccion entre usuarios
 --------------------------
@@ -66,6 +69,7 @@ un usuario en un canal en el que no esté suscrito.
 
 .. image:: /_static/images/4/interaccionesdeusuarios.png
     :align: center
+    :class: bordered-img
 
 Canales
 --------
@@ -79,6 +83,7 @@ canales y damos clic en el signo +
 
 .. image:: /_static/images/4/canales.png
     :align: center
+    :class: bordered-img
 
 La opción **¿Quién puede seguir las actividades del grupo?** le permite
 controlar qué grupos pueden tener acceso al canal. Tenga en cuenta que
@@ -105,9 +110,11 @@ Conversación/ Canales públicos
 
 .. image:: /_static/images/4/canalespublicos.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/4/descripcanalespublicos.png
     :align: center
+    :class: bordered-img
 
 Conversación entre Usuarios
 ---------------------------
@@ -124,6 +131,7 @@ punto gris que está desconectado.
 
 .. image:: /_static/images/4/usersconversaciones.png
     :align: center
+    :class: bordered-img
 
 Enviar Mensaje
 ---------------
@@ -134,6 +142,7 @@ que los seguidores aprendan a como interactuar con dicho registro.
 
 .. image:: /_static/images/4/enviarmensajes.png
     :align: center
+    :class: bordered-img
 
 Poner Adjuntos
 ---------------
@@ -146,6 +155,7 @@ usuarios del sistema.
 
 .. image:: /_static/images/4/poneradjuntos.png
     :align: center
+    :class: bordered-img
 
 Planificar actividad
 --------------------
@@ -162,9 +172,11 @@ intervalo de tiempo.
 
 .. image:: /_static/images/4/planificaractividad.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/4/vistaactividades.png
     :align: center
+    :class: bordered-img
 
 Si el usuario registrado tiene alguna actividad pendiente a realizar,
 este podrá observar en el icono de reloj que se encuentra en la parte
@@ -172,9 +184,11 @@ superior derecha.
 
 .. image:: /_static/images/4/iconoreloj.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/4/actpendiente.png
     :align: center
+    :class: bordered-img
 
 Si la actividad se encuentra en una fecha posterior, se marcará como
 futuro, si la actividad está programada para el mismo día esta nos
@@ -192,6 +206,7 @@ clic de la parte superior derecha.
 
 .. image:: /_static/images/4/adjuntosyseguidores.png
     :align: center
+    :class: bordered-img
 
 Seguidores
 ----------
@@ -204,3 +219,4 @@ a más usuarios y también a eliminarlos.
 
 .. image:: /_static/images/4/adjuntosyseguidores.png
     :align: center
+    :class: bordered-img

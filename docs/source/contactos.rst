@@ -24,6 +24,7 @@ horaria o la etiqueta, guardar.
 
 .. image:: /_static/images/5/contactos.png
     :align: center
+    :class: bordered-img
 
 En la parte superior se encuentra una serie de opciones que muestran:La reuniones
 planificadas,oportunidades de ventas, el total de ventas realizadas, el
@@ -34,6 +35,7 @@ respectivo.
 
 .. image:: /_static/images/5/contactoopciones.png
     :align: center
+    :class: bordered-img
 
 **Contactos y direcciones:** Podrá añadir contactos relacionados al existente
 y podrá especificar si es un contacto, dirección de factura, dirección
@@ -41,6 +43,7 @@ de envió, otras direcciones y direcciones privadas.
 
 .. image:: /_static/images/5/contactosydirecciones.png
     :align: center
+    :class: bordered-img
 
 
 **Notas internas:** Podrá generar una nota para guardar información respecto
@@ -48,6 +51,7 @@ a dicho usuario.
 
 .. image:: /_static/images/5/notasinternas.png
     :align: center
+    :class: bordered-img
 
 **Ventas y Compras:** Parte fundamental de la creación de contactos, es la
 que nos permite especificar datos relevantes para los procesos
@@ -55,6 +59,7 @@ contables.
 
 .. image:: /_static/images/5/ventasycompras.png
     :align: center
+    :class: bordered-img
 
 
 **Facturación:** Permite ingresar las cuentas y asientos contables
@@ -62,12 +67,14 @@ que el contacto creado específica.
 
 .. image:: /_static/images/5/facturacion.png
     :align: center
+    :class: bordered-img
 
 **Información Adicional:** Permite agregar información , cómo agregar línea, que aparece en las
 facturas.
 
 .. image:: /_static/images/5/informacionadicional.png
     :align: center
+    :class: bordered-img
 
 Configuracion
 --------------
@@ -82,6 +89,7 @@ tipo de atributo.
 
 .. image:: /_static/images/5/etiquetasdecontacto.png
     :align: center
+    :class: bordered-img
 
 Las etiquetas creadas solo aparecerán en los
 contactos si están marcadas como activas, caso contrario no aparecerá
@@ -90,6 +98,7 @@ en el sistema que derivará más etiquetas.
 
 .. image:: /_static/images/5/configuracionetiquetasdecontacto.png
     :align: center
+    :class: bordered-img
 
 Títulos de contacto
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -100,6 +109,7 @@ formalidades con su abreviatura para posteriores utilizaciones.
 
 .. image:: /_static/images/5/titulosdecontacto.png
     :align: center
+    :class: bordered-img
 
 Industrias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -112,15 +122,18 @@ existentes.
 
 .. image:: /_static/images/5/industrias.png
     :align: center
+    :class: bordered-img
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
 .. image:: /_static/images/5/industriasdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/industriadedatoss.png
     :align: center
+    :class: bordered-img
 
 Localización / Países
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -139,10 +152,12 @@ Ecuador.
 
 .. image:: /_static/images/5/localizacionespaises.png
     :align: center
+    :class: bordered-img
 
 
 .. image:: /_static/images/5/localizacion_pais.png
     :align: center
+    :class: bordered-img
 
 
 .. note::
@@ -158,9 +173,11 @@ todo los datos:
 
 .. image:: /_static/images/5/localizacionpaisesdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacionpaisesdatos.png
     :align: center
+    :class: bordered-img
 
 Localización / Provincia
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -174,22 +191,25 @@ provincia.
 
 .. image:: /_static/images/5/localizacionprovincia.png
     :align: center
+    :class: bordered-img
 
 .. note::
-Es recomendable crear las ciudades en esta opción. Al momento de
-ingresar a esta opción el sistema mostrará de manera descendente las
-provincias según el código de provincia. Si se desea buscar las
-provincias de un país específico es recomendable utilizar el filtro de
-la parte superior (Para más información revisar Filtros).
+    Es recomendable crear las ciudades en esta opción. Al momento de
+    ingresar a esta opción el sistema mostrará de manera descendente las
+    provincias según el código de provincia. Si se desea buscar las
+    provincias de un país específico es recomendable utilizar el filtro de
+    la parte superior (Para más información revisar Filtros).
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
 .. image:: /_static/images/5/localizacionprovinciadescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_provincia.png
     :align: center
+    :class: bordered-img
 
 Localización / Grupo de paises
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -203,9 +223,11 @@ sistema e inclusive añadir alguna tarifa pre creada en el sistema.
 
 .. image:: /_static/images/5/localizaciongrupodepaises.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizaciongruposdepaises.png
     :align: center
+    :class: bordered-img
 
 También permite realizar dos acciones tales como:
 
@@ -215,15 +237,18 @@ También permite realizar dos acciones tales como:
 
 .. image:: /_static/images/5/gruposdepaisesaccion.png
     :align: center
+    :class: bordered-img
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
 .. image:: /_static/images/5/gruposdepaisesdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_grupodepaises.png
     :align: center
+    :class: bordered-img
 
 Localización / Ciudades
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -236,9 +261,11 @@ ciudades en esta opción del sistema.
 
 .. image:: /_static/images/5/localizacionciudades.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacionciudadesdelsistema.png
     :align: center
+    :class: bordered-img
 
 También permite realizar dos acciones tales como:
 
@@ -248,15 +275,18 @@ También permite realizar dos acciones tales como:
 
 .. image:: /_static/images/5/localizacionciudadesaccion.png
     :align: center
+    :class: bordered-img
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
 .. image:: /_static/images/5/localizacionciudadesdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_ciudades.png
     :align: center
+    :class: bordered-img
 
 Localización / Parroquias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -270,18 +300,22 @@ parroquias de las ciudades del Ecuador.
 
 .. image:: /_static/images/5/localizacionparroquias.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacionparroquiasprovincia.png
     :align: center
+    :class: bordered-img
 
 Dentro de este apartado, se encuentra el botón gráfico para exportar
 todo los datos:
 
 .. image:: /_static/images/5/localizacionparroquiasdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_parroquias.png
     :align: center
+    :class: bordered-img
 
 Cuentas Bancarias / Bancos
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -298,18 +332,22 @@ identificación bancaria (BIC/SWIFT).
 
 .. image:: /_static/images/5/cuentasbancarias.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/cuentasbancaria.png
     :align: center
+    :class: bordered-img
 
 Al igual que en anteriores apartados, se le permite al usuario descargar
 un archivo excel de estos datos ingresados:
 
 .. image:: /_static/images/5/cuentasbancariasdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_banco.png
     :align: center
+    :class: bordered-img
 
 Cuentas Bancarias / Cuentas Bancarias
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -324,23 +362,28 @@ se mostrará en facturas o no.
 
 .. image:: /_static/images/5/vistacuentasbancarias.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/editarcuentabancaria.png
     :align: center
+    :class: bordered-img
 
 También el usuario podrá archivar, duplicar o suprimir el registro:
 
 .. image:: /_static/images/5/accionescuentabancaria.png
     :align: center
+    :class: bordered-img
 
 De igual manera, el sistema permite la descarga de un archivo xlsx
 (excel) para la visualización de los registros:
 
 .. image:: /_static/images/5/cuentasbancariasdescarga.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/localizacion_cuentasbancarias.png
     :align: center
+    :class: bordered-img
 
 Tipo de Identificación
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -353,14 +396,18 @@ marcar la casilla para cambiar el estado a activo e inactivos.
 
 .. image:: /_static/images/5/vistatipodedocumentacion.png
     :align: center
+    :class: bordered-img
 
 Permite exportar los documentos,archivarlos y desarchivarlos:
 
 .. image:: /_static/images/5/accionestipodedocumentacion.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/exportartiposdedocumentacion.png
     :align: center
+    :class: bordered-img
 
 .. image:: /_static/images/5/exceltipodedocumentacion.png
     :align: center
+    :class: bordered-img
